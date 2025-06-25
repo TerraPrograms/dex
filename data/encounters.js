@@ -41,7 +41,7 @@ exports.BattleLocationdex = {
     }
   },
   "route101": {
-    "name": "Route101",
+    "name": "Route 101",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -112,7 +112,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route102": {
-    "name": "Route102",
+    "name": "Route 102",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -241,7 +241,7 @@ exports.BattleLocationdex = {
     }
   },
   "route103": {
-    "name": "Route103",
+    "name": "Route 103",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -370,7 +370,7 @@ exports.BattleLocationdex = {
     }
   },
   "route104": {
-    "name": "Route104",
+    "name": "Route 104",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -499,7 +499,7 @@ exports.BattleLocationdex = {
     }
   },
   "route105": {
-    "name": "Route105",
+    "name": "Route 105",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -628,7 +628,7 @@ exports.BattleLocationdex = {
     }
   },
   "route110": {
-    "name": "Route110",
+    "name": "Route 110",
     "land": {
       "baseRate": 20,
       "encs": [
@@ -757,7 +757,7 @@ exports.BattleLocationdex = {
     }
   },
   "route111": {
-    "name": "Route111",
+    "name": "Route 111",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -915,7 +915,7 @@ exports.BattleLocationdex = {
     }
   },
   "route112": {
-    "name": "Route112",
+    "name": "Route 112",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -986,7 +986,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route113": {
-    "name": "Route113",
+    "name": "Route 113",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -1057,7 +1057,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route114": {
-    "name": "Route114",
+    "name": "Route 114",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -1215,7 +1215,7 @@ exports.BattleLocationdex = {
     }
   },
   "route116": {
-    "name": "Route116",
+    "name": "Route 116",
     "land": {
       "baseRate": 20,
       "encs": [
@@ -1286,7 +1286,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route117": {
-    "name": "Route117",
+    "name": "Route 117",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -1415,7 +1415,7 @@ exports.BattleLocationdex = {
     }
   },
   "route118": {
-    "name": "Route118",
+    "name": "Route 118",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -1544,7 +1544,7 @@ exports.BattleLocationdex = {
     }
   },
   "route124": {
-    "name": "Route124",
+    "name": "Route 124",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -2106,7 +2106,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "underwaterroute126": {
-    "name": "Underwater Route126",
+    "name": "Underwater Route 126",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -2578,7 +2578,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route106": {
-    "name": "Route106",
+    "name": "Route 106",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -2643,7 +2643,7 @@ exports.BattleLocationdex = {
     }
   },
   "route107": {
-    "name": "Route107",
+    "name": "Route 107",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -2708,7 +2708,7 @@ exports.BattleLocationdex = {
     }
   },
   "route108": {
-    "name": "Route108",
+    "name": "Route 108",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -2773,7 +2773,7 @@ exports.BattleLocationdex = {
     }
   },
   "route109": {
-    "name": "Route109",
+    "name": "Route 109",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -2838,7 +2838,7 @@ exports.BattleLocationdex = {
     }
   },
   "route115": {
-    "name": "Route115",
+    "name": "Route 115",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -3038,7 +3038,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route119": {
-    "name": "Route119",
+    "name": "Route 119",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -3167,7 +3167,7 @@ exports.BattleLocationdex = {
     }
   },
   "route120": {
-    "name": "Route120",
+    "name": "Route 120",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -3296,7 +3296,7 @@ exports.BattleLocationdex = {
     }
   },
   "route121": {
-    "name": "Route121",
+    "name": "Route 121",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -3425,7 +3425,7 @@ exports.BattleLocationdex = {
     }
   },
   "route122": {
-    "name": "Route122",
+    "name": "Route 122",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -3515,7 +3515,7 @@ exports.BattleLocationdex = {
     }
   },
   "route123": {
-    "name": "Route123",
+    "name": "Route 123",
     "land": {
       "baseRate": 50,
       "encs": [
@@ -4237,7 +4237,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route125": {
-    "name": "Route125",
+    "name": "Route 125",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -4302,7 +4302,7 @@ exports.BattleLocationdex = {
     }
   },
   "route126": {
-    "name": "Route126",
+    "name": "Route 126",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -4367,7 +4367,7 @@ exports.BattleLocationdex = {
     }
   },
   "route127": {
-    "name": "Route127",
+    "name": "Route 127",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -4432,7 +4432,7 @@ exports.BattleLocationdex = {
     }
   },
   "route128": {
-    "name": "Route128",
+    "name": "Route 128",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -4497,7 +4497,7 @@ exports.BattleLocationdex = {
     }
   },
   "route129": {
-    "name": "Route129",
+    "name": "Route 129",
     "surf": {
       "baseRate": 0,
       "encs": [
@@ -4562,7 +4562,7 @@ exports.BattleLocationdex = {
     }
   },
   "route130": {
-    "name": "Route130",
+    "name": "Route 130",
     "land": {
       "baseRate": 0,
       "encs": [
@@ -4691,7 +4691,7 @@ exports.BattleLocationdex = {
     }
   },
   "route131": {
-    "name": "Route131",
+    "name": "Route 131",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -4756,7 +4756,7 @@ exports.BattleLocationdex = {
     }
   },
   "route132": {
-    "name": "Route132",
+    "name": "Route 132",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -4821,7 +4821,7 @@ exports.BattleLocationdex = {
     }
   },
   "route133": {
-    "name": "Route133",
+    "name": "Route 133",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -4886,7 +4886,7 @@ exports.BattleLocationdex = {
     }
   },
   "route134": {
-    "name": "Route134",
+    "name": "Route 134",
     "surf": {
       "baseRate": 50,
       "encs": [
@@ -8623,7 +8623,7 @@ exports.BattleLocationdex = {
     }
   },
   "underwaterroute124": {
-    "name": "Underwater Route124",
+    "name": "Underwater Route 124",
     "surf": {
       "baseRate": 4,
       "encs": [
@@ -11407,7 +11407,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "route102grove": {
-    "name": "Route102Grove",
+    "name": "Route 102Grove",
     "land": {
       "baseRate": 50,
       "encs": [
