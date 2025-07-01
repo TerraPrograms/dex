@@ -124,7 +124,7 @@ exports.BattleItems = {
         },
         "num": 162,
         "gen": 3,
-        "desc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use."
+        "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use."
     },
     "airballoon": {
         "name": "Air Balloon",
@@ -1383,7 +1383,7 @@ exports.BattleItems = {
         },
         "num": 159,
         "gen": 3,
-        "desc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use."
+        "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use."
     },
     "firegem": {
         "name": "Fire Gem",
@@ -2034,7 +2034,7 @@ exports.BattleItems = {
         },
         "num": 163,
         "gen": 3,
-        "desc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use."
+        "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use."
     },
     "icegem": {
         "name": "Ice Gem",
@@ -2652,7 +2652,7 @@ exports.BattleItems = {
         },
         "num": 161,
         "gen": 3,
-        "desc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use."
+        "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use."
     },
     "magostberry": {
         "name": "Magost Berry",
@@ -2902,7 +2902,7 @@ exports.BattleItems = {
         },
         "num": 209,
         "gen": 4,
-        "desc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use."
+        "desc": "Holder's next move has 1.5x accuracy when at 1/4 max HP or less. Single use."
     },
     "mimikiumz": {
         "name": "Mimikium Z",
@@ -5970,7 +5970,7 @@ exports.BattleItems = {
         },
         "num": 160,
         "gen": 3,
-        "desc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use."
+        "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use."
     },
     "wiseglasses": {
         "name": "Wise Glasses",

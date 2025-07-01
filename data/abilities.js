@@ -195,8 +195,8 @@ exports.BattleAbilities = {
         "name": "Battle Bond",
         "rating": 3.5,
         "num": 210,
-        "desc": "If this Pokemon is a Greninja, its Attack, Special Attack, and Speed are raised by 1 stage if it attacks and knocks out another Pokemon. This effect can only happen once per battle.",
-        "shortDesc": "After KOing a Pokemon: raises Attack, Sp. Atk, Speed by 1 stage. Once per battle."
+        "desc": "If this Pokemon is a Greninja, it transforms into Ash-Greninja if it attacks and knocks out another Pokemon.",
+        "shortDesc": "After Greninja KO's a Pokemon: Transforms into Ash-Greninja."
     },
     "beadsofruin": {
         "flags": {},
@@ -1096,8 +1096,8 @@ exports.BattleAbilities = {
         "name": "Illuminate",
         "rating": 0.5,
         "num": 35,
-        "desc": "Prevents other Pokemon from lowering this Pokemon's accuracy stat stage. This Pokemon ignores a target's evasiveness stat stage.",
-        "shortDesc": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+        "desc": "On switch-in, this Pokemon lowers the Special Attack of opposing Pokemon by 1 stage. Pokemon behind a substitute are immune.",
+        "shortDesc": "On switch-in, this Pokemon lowers the Sp. Atk of opponents by 1 stage."
     },
     "illusion": {
         "flags": {
@@ -1240,8 +1240,8 @@ exports.BattleAbilities = {
         "name": "Leaf Guard",
         "rating": 0.5,
         "num": 102,
-        "desc": "If Sunny Day is active, this Pokemon cannot become affected by a non-volatile status condition or Yawn, and Rest will fail for it. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
-        "shortDesc": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+        "desc": "This Pokemon cannot be struck by a critical hit. If Sunny Day is active, this Pokemon cannot become affected by a non-volatile status condition or Yawn, and Rest will fail for it. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
+        "shortDesc": "Immune to Critical Hits. In Sun, also immune to Status."
     },
     "levitate": {
         "flags": {
@@ -1362,7 +1362,7 @@ exports.BattleAbilities = {
         "rating": 0.5,
         "num": 40,
         "desc": "This Pokemon cannot be struck by a critical hit and frozen. Gaining this Ability while frozen cures it.",
-        "shortDesc": "This Pokemon cannot be struck by a critical hit and frozen. Gaining this Ability while frozen cures it."
+        "shortDesc": "This Pokemon cannot be struck by a critical hit and frozen."
     },
     "magnetpull": {
         "flags": {},
