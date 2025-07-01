@@ -7,4 +7,3 @@ exports.BattleSearchIndexOffset = ["", "", "", "1", "1", "11", "11", "0011122233
 exports.BattleSearchCountIndex = {"bug move": 34, "bug pokemon": 0, "dark move": 53, "dark pokemon": 0, "dragon move": 31, "dragon pokemon": 0, "electric move": 50, "electric pokemon": 0, "fairy move": 35, "fairy pokemon": 0, "fighting move": 57, "fighting pokemon": 0, "fire move": 49, "fire pokemon": 0, "flying move": 31, "flying pokemon": 0, "ghost move": 34, "ghost pokemon": 0, "grass move": 62, "grass pokemon": 0, "ground move": 31, "ground pokemon": 0, "ice move": 33, "ice pokemon": 0, "normal move": 202, "normal pokemon": 0, "poison move": 36, "poison pokemon": 0, "psychic move": 79, "psychic pokemon": 0, "rock move": 26, "rock pokemon": 0, "steel move": 39, "steel pokemon": 0, "stellar move": 0, "stellar pokemon": 0, "water move": 53, "water pokemon": 0};
 
 exports.BattleArticleTitles = {};
-
