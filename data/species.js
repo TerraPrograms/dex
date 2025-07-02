@@ -30282,7 +30282,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Tough Claws",
    },
     "baseSpecies": "Charizard",
-    "forme": "Mega",
+    "forme": "Mega-X",
 },
     "charizardmegay": {
     "num": 6,
@@ -30311,7 +30311,7 @@ exports.BattlePokedex = {
     "H": "Drought",
    },
     "baseSpecies": "Charizard",
-    "forme": "Mega",
+    "forme": "Mega-Y",
 },
     "blastoisemega": {
     "num": 9,
@@ -30611,7 +30611,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Steadfast",
    },
     "baseSpecies": "Mewtwo",
-    "forme": "Mega",
+    "forme": "Mega-X",
 },
     "mewtwomegay": {
     "num": 150,
@@ -30638,7 +30638,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Insomnia",
    },
     "baseSpecies": "Mewtwo",
-    "forme": "Mega",
+    "forme": "Mega-Y",
 },
     "ampharosmega": {
     "num": 181,

@@ -1108,6 +1108,9 @@ var BattlePokemonSearch = /** @class */ (function (_super) {
         case "sprigatito":
           results.push(["header", "Generation 9"]);
           break;
+        case "venusaurmega":
+          results.push(["header", "Other"]);
+          break;
         case "missingno":
           results.push(["header", "Glitch"]);
           break;
