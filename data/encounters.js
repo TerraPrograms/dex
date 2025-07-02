@@ -1550,28 +1550,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "honchkrow",
-          "minLvl": 5,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "honchkrow",
-          "minLvl": 10,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "gyarados",
-          "minLvl": 15,
-          "maxLvl": 25
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "inteleon",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "samurott",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -1582,28 +1582,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "sharpedo",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "sharpedo",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "araquanid",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "barraskewda",
-          "minLvl": 35,
-          "maxLvl": 40
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "samurotthisui",
-          "minLvl": 40,
-          "maxLvl": 45
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     }
@@ -1948,12 +1948,12 @@ exports.BattleLocationdex = {
           "maxLvl": 50
         },
         {
-          "species": "hoopa",
+          "species": "malamar",
           "minLvl": 50,
           "maxLvl": 50
         },
         {
-          "species": "hoopa",
+          "species": "malamar",
           "minLvl": 50,
           "maxLvl": 50
         }
@@ -1966,28 +1966,8 @@ exports.BattleLocationdex = {
   "victoryroad1f": {
     "name": "Victory Road 1F",
     "land": {
-      "baseRate": 10,
+      "baseRate": 50,
       "encs": [
-        {
-          "species": "typenull",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "silvally",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "rotom",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "goodrahisui",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
         {
           "species": "salamence",
           "minLvl": 40,
@@ -1999,32 +1979,52 @@ exports.BattleLocationdex = {
           "maxLvl": 40
         },
         {
-          "species": "weavile",
+          "species": "mimikyu",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "tyranitar",
+          "species": "sneasler",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "aerodactyl",
+          "species": "meowscarada",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "lopunny",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "chandelure",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "primarina",
+          "species": "yveltal",
+          "minLvl": 40,
+          "maxLvl": 40
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 40,
+          "maxLvl": 40
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 40,
+          "maxLvl": 40
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 40,
+          "maxLvl": 40
+        },
+        {
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         }
@@ -2041,63 +2041,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "cobalion",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "cobalion",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "terrakion",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "terrakion",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "virizion",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "virizion",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "keldeo",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "keldeo",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "meloetta",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "meloetta",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "meloetta",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "meloetta",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 76,
+          "maxLvl": 76
         }
       ]
     },
@@ -2108,20 +2108,20 @@ exports.BattleLocationdex = {
   "underwaterroute126": {
     "name": "Underwater Route 126",
     "surf": {
-      "baseRate": 4,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "clamperl",
+          "species": "lanturn",
           "minLvl": 20,
           "maxLvl": 30
         },
         {
-          "species": "chinchou",
+          "species": "gorebyss",
           "minLvl": 20,
           "maxLvl": 30
         },
         {
-          "species": "clamperl",
+          "species": "huntail",
           "minLvl": 30,
           "maxLvl": 35
         },
@@ -2131,7 +2131,7 @@ exports.BattleLocationdex = {
           "maxLvl": 35
         },
         {
-          "species": "relicanth",
+          "species": "dondozo",
           "minLvl": 30,
           "maxLvl": 35
         }
@@ -2517,7 +2517,7 @@ exports.BattleLocationdex = {
           "maxLvl": 50
         },
         {
-          "species": "jangmoo",
+          "species": "gurdurr",
           "minLvl": 50,
           "maxLvl": 50
         },
@@ -3302,63 +3302,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "kangaskhan",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "kingambit",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "hydrapple",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "annihilape",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "araquanid",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "volcarona",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "mamoswine",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "glimmora",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "gardevoir",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "kilowattrel",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "kilowattrel",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 54,
+          "maxLvl": 54
         },
         {
           "species": "kilowattrel",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 54,
+          "maxLvl": 54
         }
       ]
     },
@@ -3430,29 +3430,29 @@ exports.BattleLocationdex = {
       "baseRate": 50,
       "encs": [
         {
-          "species": "tapulele",
-          "minLvl": 70,
-          "maxLvl": 70
+          "species": "drifblim",
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
-          "species": "tapufini",
-          "minLvl": 70,
-          "maxLvl": 70
+          "species": "xatu",
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
-          "species": "bellibolt",
-          "minLvl": 70,
-          "maxLvl": 70
+          "species": "mandibuzz",
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
-          "species": "octillery",
-          "minLvl": 70,
-          "maxLvl": 70
+          "species": "mismagius",
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
-          "species": "lumineon",
-          "minLvl": 70,
-          "maxLvl": 70
+          "species": "gengar",
+          "minLvl": 57,
+          "maxLvl": 57
         }
       ]
     },
@@ -3462,54 +3462,29 @@ exports.BattleLocationdex = {
       "baseRate": 50,
       "encs": [
         {
-          "species": "magikarp",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "magikarp",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 10,
-          "maxLvl": 30
+          "species": "jellicent",
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
           "species": "jellicent",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "jellicent",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
           "species": "basculegion",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
           "species": "basculegionf",
-          "minLvl": 35,
-          "maxLvl": 40
+          "minLvl": 57,
+          "maxLvl": 57
         },
         {
           "species": "corsolagalar",
-          "minLvl": 40,
-          "maxLvl": 45
+          "minLvl": 57,
+          "maxLvl": 57
         }
       ]
     }
@@ -3520,7 +3495,7 @@ exports.BattleLocationdex = {
       "baseRate": 50,
       "encs": [
         {
-          "species": "poochyena",
+          "species": "garchomp",
           "minLvl": 26,
           "maxLvl": 26
         },
@@ -3616,31 +3591,6 @@ exports.BattleLocationdex = {
       "baseRate": 50,
       "encs": [
         {
-          "species": "magikarp",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "magikarp",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
           "species": "toxapex",
           "minLvl": 25,
           "maxLvl": 30
@@ -3675,63 +3625,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "gimmighoul",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
           "species": "gimmighoul",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
           "species": "gastly",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
           "species": "gastly",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 3,
+          "maxLvl": 38
         },
         {
           "species": "espathra",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 83
         },
         {
           "species": "honchkrow",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
           "species": "banette",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
           "species": "gardevoir",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
           "species": "tyranitar",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
           "species": "mismagius",
-          "minLvl": 50,
-          "maxLvl": 50
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
-          "species": "spectrier",
-          "minLvl": 50,
-          "maxLvl": 50
+          "species": "malamar",
+          "minLvl": 38,
+          "maxLvl": 38
         },
         {
-          "species": "spectrier",
-          "minLvl": 50,
-          "maxLvl": 50
+          "species": "malamar",
+          "minLvl": 38,
+          "maxLvl": 38
         }
       ]
     },
@@ -3795,12 +3745,12 @@ exports.BattleLocationdex = {
           "maxLvl": 50
         },
         {
-          "species": "pecharunt",
+          "species": "froslass",
           "minLvl": 50,
           "maxLvl": 50
         },
         {
-          "species": "pecharunt",
+          "species": "froslass",
           "minLvl": 50,
           "maxLvl": 50
         }
@@ -4243,28 +4193,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "eiscue",
-          "minLvl": 5,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "avalugg",
-          "minLvl": 10,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "dewgong",
-          "minLvl": 15,
-          "maxLvl": 25
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "weavile",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "gyarados",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -4275,28 +4225,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "lapras",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "cloyster",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "walrein",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "dewgong",
-          "minLvl": 35,
-          "maxLvl": 40
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "samurotthisui",
-          "minLvl": 40,
-          "maxLvl": 45
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     }
@@ -4304,64 +4254,64 @@ exports.BattleLocationdex = {
   "route126": {
     "name": "Route 126",
     "surf": {
-      "baseRate": 4,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 35
+          "species": "ludicolo",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wingull",
-          "minLvl": 10,
-          "maxLvl": 30
+          "species": "seismitoad",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wingull",
-          "minLvl": 15,
-          "maxLvl": 25
+          "species": "barraskewda",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "pelipper",
-          "minLvl": 25,
-          "maxLvl": 30
+          "species": "drednaw",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "pelipper",
-          "minLvl": 25,
-          "maxLvl": 30
+          "species": "kingdra",
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
     "land": {},
     "rock": {},
     "fish": {
-      "baseRate": 30,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "sharpedo",
-          "minLvl": 30,
-          "maxLvl": 35
+          "species": "poliwrath",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 30,
-          "maxLvl": 35
+          "species": "politoed",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 25,
-          "maxLvl": 30
+          "species": "kingler",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 35,
-          "maxLvl": 40
+          "species": "barbaracle",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 40,
-          "maxLvl": 45
+          "species": "feraligatr",
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     }
@@ -4369,64 +4319,67 @@ exports.BattleLocationdex = {
   "route127": {
     "name": "Route 127",
     "surf": {
-      "baseRate": 4,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 35
+          "species": "gorebyss",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wingull",
-          "minLvl": 10,
-          "maxLvl": 30
+          "species": "huntail",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wingull",
-          "minLvl": 15,
-          "maxLvl": 25
+          "species": "swanna",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "pelipper",
-          "minLvl": 25,
-          "maxLvl": 30
+          "species": "corviknight",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "pelipper",
-          "minLvl": 25,
-          "maxLvl": 30
+          "species": "staraptor",
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
-    "land": {},
+    "land": {
+      "baseRate": 50,
+      "encs": []
+    },
     "rock": {},
     "fish": {
-      "baseRate": 30,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "sharpedo",
-          "minLvl": 30,
-          "maxLvl": 35
+          "species": "gorebyss",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 30,
-          "maxLvl": 35
+          "species": "huntail",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 25,
-          "maxLvl": 30
+          "species": "gyarados",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 35,
-          "maxLvl": 40
+          "species": "milotic",
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
-          "species": "wailmer",
-          "minLvl": 40,
-          "maxLvl": 45
+          "species": "pyukumuku",
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     }
@@ -4434,7 +4387,7 @@ exports.BattleLocationdex = {
   "route128": {
     "name": "Route 128",
     "surf": {
-      "baseRate": 4,
+      "baseRate": 50,
       "encs": [
         {
           "species": "tentacool",
@@ -4466,7 +4419,7 @@ exports.BattleLocationdex = {
     "land": {},
     "rock": {},
     "fish": {
-      "baseRate": 30,
+      "baseRate": 50,
       "encs": [
         {
           "species": "luvdisc",
@@ -4497,198 +4450,10 @@ exports.BattleLocationdex = {
     }
   },
   "route129": {
-    "name": "Route 129",
-    "surf": {
-      "baseRate": 0,
-      "encs": [
-        {
-          "species": "greninjaash",
-          "minLvl": 5,
-          "maxLvl": 35
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 15,
-          "maxLvl": 25
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 25,
-          "maxLvl": 30
-        }
-      ]
-    },
-    "land": {},
-    "rock": {},
-    "fish": {
-      "baseRate": 0,
-      "encs": [
-        {
-          "species": "greninjaash",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 35,
-          "maxLvl": 40
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 40,
-          "maxLvl": 45
-        }
-      ]
-    }
+    "name": "Route 129"
   },
   "route130": {
-    "name": "Route 130",
-    "land": {
-      "baseRate": 0,
-      "encs": [
-        {
-          "species": "wynaut",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 35,
-          "maxLvl": 35
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 25,
-          "maxLvl": 25
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 20,
-          "maxLvl": 20
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 45,
-          "maxLvl": 45
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 50,
-          "maxLvl": 50
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 10,
-          "maxLvl": 10
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 10,
-          "maxLvl": 10
-        },
-        {
-          "species": "wynaut",
-          "minLvl": 5,
-          "maxLvl": 5
-        }
-      ]
-    },
-    "surf": {
-      "baseRate": 0,
-      "encs": [
-        {
-          "species": "greninjaash",
-          "minLvl": 5,
-          "maxLvl": 35
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 15,
-          "maxLvl": 25
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 25,
-          "maxLvl": 30
-        }
-      ]
-    },
-    "rock": {},
-    "fish": {
-      "baseRate": 0,
-      "encs": [
-        {
-          "species": "greninjaash",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 35,
-          "maxLvl": 40
-        },
-        {
-          "species": "greninjaash",
-          "minLvl": 40,
-          "maxLvl": 45
-        }
-      ]
-    }
+    "name": "Route 130"
   },
   "route131": {
     "name": "Route 131",
@@ -4756,134 +4521,10 @@ exports.BattleLocationdex = {
     }
   },
   "route132": {
-    "name": "Route 132",
-    "surf": {
-      "baseRate": 50,
-      "encs": [
-        {
-          "species": "primarina",
-          "minLvl": 5,
-          "maxLvl": 35
-        },
-        {
-          "species": "golisopod",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "palafin",
-          "minLvl": 15,
-          "maxLvl": 25
-        },
-        {
-          "species": "slowbro",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "pelipper",
-          "minLvl": 25,
-          "maxLvl": 30
-        }
-      ]
-    },
-    "land": {},
-    "rock": {},
-    "fish": {
-      "baseRate": 30,
-      "encs": [
-        {
-          "species": "sharpedo",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "horsea",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 35,
-          "maxLvl": 40
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 40,
-          "maxLvl": 45
-        }
-      ]
-    }
+    "name": "Route 132"
   },
   "route133": {
-    "name": "Route 133",
-    "surf": {
-      "baseRate": 50,
-      "encs": [
-        {
-          "species": "primarina",
-          "minLvl": 80,
-          "maxLvl": 80
-        },
-        {
-          "species": "golisopod",
-          "minLvl": 80,
-          "maxLvl": 80
-        },
-        {
-          "species": "palafin",
-          "minLvl": 15,
-          "maxLvl": 25
-        },
-        {
-          "species": "slowbro",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "slowking",
-          "minLvl": 25,
-          "maxLvl": 30
-        }
-      ]
-    },
-    "land": {},
-    "rock": {},
-    "fish": {
-      "baseRate": 30,
-      "encs": [
-        {
-          "species": "slowpoke",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "slowpoke",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "wimpod",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "magikarp",
-          "minLvl": 35,
-          "maxLvl": 40
-        },
-        {
-          "species": "feebas",
-          "minLvl": 40,
-          "maxLvl": 45
-        }
-      ]
-    }
+    "name": "Route 133"
   },
   "route134": {
     "name": "Route 134",
@@ -5750,94 +5391,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "seafloorcavernentrance": {
-    "name": "Seafloor Cavern Entrance",
-    "surf": {
-      "baseRate": 4,
-      "encs": [
-        {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 35
-        },
-        {
-          "species": "zubat",
-          "minLvl": 5,
-          "maxLvl": 35
-        },
-        {
-          "species": "zubat",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "golbat",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "golbat",
-          "minLvl": 30,
-          "maxLvl": 35
-        }
-      ]
-    },
-    "land": {},
-    "rock": {},
-    "fish": {
-      "baseRate": 10,
-      "encs": [
-        {
-          "species": "magikarp",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "magikarp",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 20,
-          "maxLvl": 25
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 35,
-          "maxLvl": 40
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 40,
-          "maxLvl": 45
-        }
-      ]
-    }
+    "name": "Seafloor Cavern Entrance"
   },
   "caveoforiginentrance": {
     "name": "Cave Of Origin Entrance",
@@ -5982,217 +5536,13 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "caveoforiginunusedrubysapphire1": {
-    "name": "Cave Of Origin Unused Ruby Sapphire Map1",
-    "land": {
-      "baseRate": 4,
-      "encs": [
-        {
-          "species": "zubat",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "zubat",
-          "minLvl": 31,
-          "maxLvl": 31
-        },
-        {
-          "species": "zubat",
-          "minLvl": 32,
-          "maxLvl": 32
-        },
-        {
-          "species": "sableye",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "sableye",
-          "minLvl": 32,
-          "maxLvl": 32
-        },
-        {
-          "species": "sableye",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "zubat",
-          "minLvl": 33,
-          "maxLvl": 33
-        },
-        {
-          "species": "zubat",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "golbat",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "golbat",
-          "minLvl": 35,
-          "maxLvl": 35
-        },
-        {
-          "species": "golbat",
-          "minLvl": 33,
-          "maxLvl": 33
-        },
-        {
-          "species": "golbat",
-          "minLvl": 36,
-          "maxLvl": 36
-        }
-      ]
-    },
-    "surf": {},
-    "rock": {},
-    "fish": {}
+    "name": "Cave Of Origin Unused Ruby Sapphire Map1"
   },
   "caveoforiginunusedrubysapphire2": {
-    "name": "Cave Of Origin Unused Ruby Sapphire Map2",
-    "land": {
-      "baseRate": 4,
-      "encs": [
-        {
-          "species": "zubat",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "zubat",
-          "minLvl": 31,
-          "maxLvl": 31
-        },
-        {
-          "species": "zubat",
-          "minLvl": 32,
-          "maxLvl": 32
-        },
-        {
-          "species": "sableye",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "sableye",
-          "minLvl": 32,
-          "maxLvl": 32
-        },
-        {
-          "species": "sableye",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "zubat",
-          "minLvl": 33,
-          "maxLvl": 33
-        },
-        {
-          "species": "zubat",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "golbat",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "golbat",
-          "minLvl": 35,
-          "maxLvl": 35
-        },
-        {
-          "species": "golbat",
-          "minLvl": 33,
-          "maxLvl": 33
-        },
-        {
-          "species": "golbat",
-          "minLvl": 36,
-          "maxLvl": 36
-        }
-      ]
-    },
-    "surf": {},
-    "rock": {},
-    "fish": {}
+    "name": "Cave Of Origin Unused Ruby Sapphire Map2"
   },
   "caveoforiginunusedrubysapphire3": {
-    "name": "Cave Of Origin Unused Ruby Sapphire Map3",
-    "land": {
-      "baseRate": 4,
-      "encs": [
-        {
-          "species": "zubat",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "zubat",
-          "minLvl": 31,
-          "maxLvl": 31
-        },
-        {
-          "species": "zubat",
-          "minLvl": 32,
-          "maxLvl": 32
-        },
-        {
-          "species": "sableye",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "sableye",
-          "minLvl": 32,
-          "maxLvl": 32
-        },
-        {
-          "species": "sableye",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "zubat",
-          "minLvl": 33,
-          "maxLvl": 33
-        },
-        {
-          "species": "zubat",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "golbat",
-          "minLvl": 34,
-          "maxLvl": 34
-        },
-        {
-          "species": "golbat",
-          "minLvl": 35,
-          "maxLvl": 35
-        },
-        {
-          "species": "golbat",
-          "minLvl": 33,
-          "maxLvl": 33
-        },
-        {
-          "species": "golbat",
-          "minLvl": 36,
-          "maxLvl": 36
-        }
-      ]
-    },
-    "surf": {},
-    "rock": {},
-    "fish": {}
+    "name": "Cave Of Origin Unused Ruby Sapphire Map3"
   },
   "newmauvilleentrance": {
     "name": "New Mauville Entrance",
@@ -6272,63 +5622,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "raikou",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "raikou",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "entei",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "entei",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "suicune",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "suicune",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "mew",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "mew",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "celebi",
-          "minLvl": 25,
-          "maxLvl": 25
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "celebi",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "celebi",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 76,
+          "maxLvl": 76
         },
         {
           "species": "celebi",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 76,
+          "maxLvl": 76
         }
       ]
     },
@@ -6676,65 +6026,65 @@ exports.BattleLocationdex = {
   "victoryroadb1f": {
     "name": "Victory Road B1F",
     "land": {
-      "baseRate": 10,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "grimmsnarl",
+          "species": "dragonite",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "togekiss",
+          "species": "dragapult",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "mimikyu",
+          "species": "tinkaton",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "zygarde",
+          "species": "weavile",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "garchomp",
+          "species": "cinderace",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "excadrill",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "shaymin",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "zarude",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "ferrothorn",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "volcarona",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "heatran",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         },
         {
-          "species": "victini",
+          "species": "yveltal",
           "minLvl": 40,
           "maxLvl": 40
         }
@@ -6742,20 +6092,20 @@ exports.BattleLocationdex = {
     },
     "surf": {},
     "rock": {
-      "baseRate": 20,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "graveler",
+          "species": "tyranitar",
           "minLvl": 30,
           "maxLvl": 40
         },
         {
-          "species": "geodude",
+          "species": "metagross",
           "minLvl": 30,
           "maxLvl": 40
         },
         {
-          "species": "graveler",
+          "species": "mawile",
           "minLvl": 35,
           "maxLvl": 40
         },
@@ -6765,7 +6115,7 @@ exports.BattleLocationdex = {
           "maxLvl": 40
         },
         {
-          "species": "graveler",
+          "species": "diancie",
           "minLvl": 35,
           "maxLvl": 40
         }
@@ -6774,187 +6124,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "victoryroadb2f": {
-    "name": "Victory Road B2F",
-    "land": {
-      "baseRate": 10,
-      "encs": [
-        {
-          "species": "nihilego",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "buzzwole",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "pheromosa",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "xurkitree",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "celesteela",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "kartana",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "guzzlord",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "poipole",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "naganadel",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "stakataka",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "blacephalon",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "necrozma",
-          "minLvl": 40,
-          "maxLvl": 40
-        }
-      ]
-    },
-    "surf": {
-      "baseRate": 4,
-      "encs": [
-        {
-          "species": "suicune",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "manaphy",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "keldeo",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "tapufini",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "volcanion",
-          "minLvl": 40,
-          "maxLvl": 40
-        }
-      ]
-    },
-    "rock": {
-      "baseRate": 0,
-      "encs": [
-        {
-          "species": "regirock",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "regice",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "registeel",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "regidrago",
-          "minLvl": 40,
-          "maxLvl": 40
-        },
-        {
-          "species": "regieleki",
-          "minLvl": 40,
-          "maxLvl": 40
-        }
-      ]
-    },
-    "fish": {
-      "baseRate": 30,
-      "encs": [
-        {
-          "species": "phione",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "phione",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "phione",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "phione",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "phione",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "phione",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "phione",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "phione",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "phione",
-          "minLvl": 35,
-          "maxLvl": 40
-        },
-        {
-          "species": "unown",
-          "minLvl": 40,
-          "maxLvl": 45
-        }
-      ]
-    }
+    "name": "Victory Road B2F"
   },
   "meteorfalls1f1r": {
     "name": "Meteor Falls 1F 1R",
@@ -7379,63 +6549,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "goodrahisui",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "goodrahisui",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "grimmsnarl",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "grimmsnarl",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "kangaskhan",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "kangaskhan",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "medicham",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "medicham",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "stonjourner",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "tinkaton",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "tinkaton",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "tinkaton",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -7450,63 +6620,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "weavile",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "weavile",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "aggron",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "aggron",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "lopunny",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "lopunny",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "altaria",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "altaria",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "golurk",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "floatzel",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "floatzel",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "floatzel",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -7521,63 +6691,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "slowbrogalar",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "slowkinggalar",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "dewgong",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "walrein",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "nidoking",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "nidoqueen",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "quagsire",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "clodsire",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "goodra",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "goodrahisui",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "goodrahisui",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "goodrahisui",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -7586,28 +6756,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "cursola",
-          "minLvl": 5,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "qwilfish",
-          "minLvl": 5,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "overqwil",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "politoed",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "poliwrath",
-          "minLvl": 25,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -7616,54 +6786,29 @@ exports.BattleLocationdex = {
       "baseRate": 50,
       "encs": [
         {
-          "species": "magikarp",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "magikarp",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
           "species": "tentacruel",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "toxapex",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "empoleon",
-          "minLvl": 20,
-          "maxLvl": 25
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "lanturn",
-          "minLvl": 35,
-          "maxLvl": 40
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "slowking",
-          "minLvl": 40,
-          "maxLvl": 45
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     }
@@ -7675,63 +6820,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "sneasler",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "sneasler",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "garganacl",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "garganacl",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "samurotthisui",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "samurotthisui",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "escavalier",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "escavalier",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "golbat",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "spheal",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "golbat",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "spheal",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -7740,28 +6885,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "cloyster",
-          "minLvl": 5,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "barbaracle",
-          "minLvl": 5,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "drednaw",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "omastar",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "blastoise",
-          "minLvl": 25,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -7770,54 +6915,29 @@ exports.BattleLocationdex = {
       "baseRate": 50,
       "encs": [
         {
-          "species": "magikarp",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 10
-        },
-        {
-          "species": "magikarp",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "tentacool",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
           "species": "cloyster",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "barbaracle",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "kingler",
-          "minLvl": 20,
-          "maxLvl": 25
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "crawdaunt",
-          "minLvl": 35,
-          "maxLvl": 40
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "slowbro",
-          "minLvl": 40,
-          "maxLvl": 45
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     }
@@ -8248,8 +7368,8 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "veluza",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "bruxish",
@@ -8342,95 +7462,95 @@ exports.BattleLocationdex = {
   "evergrandecity": {
     "name": "Ever Grande City",
     "land": {
-      "baseRate": 20,
+      "baseRate": 50,
       "encs": [
         {
           "species": "florges",
-          "minLvl": 40,
-          "maxLvl": 40
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "florges",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "togekiss",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "florges",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "ferrothorn",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "florges",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "blaziken",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "florges",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "swampert",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "florges",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "sceptile",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "floetteeternal",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "altaria",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "comfey",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "corviknight",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "grookey",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "hawlucha",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "gossifleur",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "infernape",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "shaymin",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "empoleon",
+          "minLvl": 70,
+          "maxLvl": 70
         },
         {
-          "species": "celebi",
-          "minLvl": 40,
-          "maxLvl": 40
+          "species": "torterra",
+          "minLvl": 70,
+          "maxLvl": 70
         }
       ]
     },
     "surf": {
-      "baseRate": 4,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "tentacool",
+          "species": "dewgong",
           "minLvl": 5,
           "maxLvl": 35
         },
         {
-          "species": "wingull",
+          "species": "dewgong",
           "minLvl": 10,
           "maxLvl": 30
         },
         {
-          "species": "wingull",
+          "species": "kingdra",
           "minLvl": 15,
           "maxLvl": 25
         },
         {
-          "species": "pelipper",
+          "species": "gyarados",
           "minLvl": 25,
           "maxLvl": 30
         },
         {
-          "species": "pelipper",
+          "species": "floatzel",
           "minLvl": 25,
           "maxLvl": 30
         }
@@ -8438,7 +7558,7 @@ exports.BattleLocationdex = {
     },
     "rock": {},
     "fish": {
-      "baseRate": 10,
+      "baseRate": 50,
       "encs": [
         {
           "species": "magikarp",
@@ -8466,27 +7586,27 @@ exports.BattleLocationdex = {
           "maxLvl": 30
         },
         {
-          "species": "luvdisc",
+          "species": "swampert",
           "minLvl": 30,
           "maxLvl": 35
         },
         {
-          "species": "wailmer",
+          "species": "swampert",
           "minLvl": 30,
           "maxLvl": 35
         },
         {
-          "species": "corsola",
+          "species": "seismitoad",
           "minLvl": 30,
           "maxLvl": 35
         },
         {
-          "species": "wailmer",
+          "species": "whiscash",
           "minLvl": 35,
           "maxLvl": 40
         },
         {
-          "species": "wailmer",
+          "species": "cloyster",
           "minLvl": 40,
           "maxLvl": 45
         }
@@ -8625,20 +7745,20 @@ exports.BattleLocationdex = {
   "underwaterroute124": {
     "name": "Underwater Route 124",
     "surf": {
-      "baseRate": 4,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "clamperl",
+          "species": "lanturn",
           "minLvl": 20,
           "maxLvl": 30
         },
         {
-          "species": "chinchou",
+          "species": "dewgong",
           "minLvl": 20,
           "maxLvl": 30
         },
         {
-          "species": "clamperl",
+          "species": "gorebyss",
           "minLvl": 30,
           "maxLvl": 35
         },
@@ -8648,7 +7768,7 @@ exports.BattleLocationdex = {
           "maxLvl": 35
         },
         {
-          "species": "relicanth",
+          "species": "dondozo",
           "minLvl": 30,
           "maxLvl": 35
         }
@@ -8665,63 +7785,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "ninetalesalola",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "ninetalesalola",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "darmanitangalar",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "darmanitangalar",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "weavile",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "weavile",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "baxcalibur",
-          "minLvl": 26,
-          "maxLvl": 26
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "baxcalibur",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "mamoswine",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "frosmoth",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "frosmoth",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "frosmoth",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -9039,63 +8159,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "chienpao",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "wochien",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "tinglu",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "chiyu",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "okidogi",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "fezandipiti",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "munkidori",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "pecharunt",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "zarude",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "magearna",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "marshadow",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "marshadow",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         }
       ]
     },
@@ -9104,28 +8224,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "darkrai",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "manaphy",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "hoopa",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "cresselia",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "volcanion",
-          "minLvl": 35,
-          "maxLvl": 40
+          "minLvl": 80,
+          "maxLvl": 80
         }
       ]
     },
@@ -9160,28 +8280,28 @@ exports.BattleLocationdex = {
         },
         {
           "species": "manaphy",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "manaphy",
-          "minLvl": 25,
-          "maxLvl": 30
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "manaphy",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "manaphy",
-          "minLvl": 30,
-          "maxLvl": 35
+          "minLvl": 80,
+          "maxLvl": 80
         },
         {
           "species": "phione",
-          "minLvl": 35,
-          "maxLvl": 40
+          "minLvl": 80,
+          "maxLvl": 80
         }
       ]
     }
@@ -9293,63 +8413,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "skeledirge",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "skeledirge",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "typhlosionhisui",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "typhlosionhisui",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "chandelure",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "chandelure",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "marowakalola",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "marowakalola",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ceruledge",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ceruledge",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ceruledge",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ceruledge",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -9364,63 +8484,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "taurospaldeablaze",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "taurospaldeablaze",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "charizard",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "charizard",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dachsbun",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dachsbun",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "darmanitan",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "darmanitangalar",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -9435,63 +8555,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "taurospaldeablaze",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "taurospaldeablaze",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "charizard",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "charizard",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dachsbun",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dachsbun",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "darmanitan",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "darmanitangalar",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -9506,63 +8626,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "mimikyu",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "mimikyu",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cinderace",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "infernape",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "garganacl",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "glimmora",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "salamence",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dragonite",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ursaring",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "virizion",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cobalion",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cobalion",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -9577,63 +8697,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "mimikyu",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "mimikyu",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cinderace",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "infernape",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "garganacl",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "glimmora",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "salamence",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dragonite",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ursaring",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "virizion",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cobalion",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cobalion",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -9648,63 +8768,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "ursaluna",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ursalunabloodmoon",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "garchomp",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "lopunny",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "sneasler",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "blaziken",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "hydreigon",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "baxcalibur",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "aerodactyl",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "magcargo",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "terrakion",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "terrakion",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -9719,63 +8839,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "mimikyu",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "mimikyu",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cinderace",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "infernape",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "garganacl",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "glimmora",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "salamence",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dragonite",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "ursaring",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "virizion",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cobalion",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "cobalion",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -9790,63 +8910,63 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "taurospaldeablaze",
-          "minLvl": 27,
-          "maxLvl": 27
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "taurospaldeablaze",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "charizard",
-          "minLvl": 28,
-          "maxLvl": 28
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "charizard",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dachsbun",
-          "minLvl": 29,
-          "maxLvl": 29
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "dachsbun",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "darmanitan",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "darmanitangalar",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 30,
-          "maxLvl": 30
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 31,
-          "maxLvl": 31
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 32,
-          "maxLvl": 32
+          "minLvl": 55,
+          "maxLvl": 55
         },
         {
           "species": "armarouge",
-          "minLvl": 33,
-          "maxLvl": 33
+          "minLvl": 55,
+          "maxLvl": 55
         }
       ]
     },
@@ -11336,75 +10456,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "powerplant": {
-    "name": "Power Plant",
-    "land": {
-      "baseRate": 50,
-      "encs": [
-        {
-          "species": "raikou",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "xurkitree",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "zeraora",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "regieleki",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "zapdos",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "thundurus",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "tapukoko",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "sandyshocks",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "ironhands",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "ironthorns",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "ironthorns",
-          "minLvl": 30,
-          "maxLvl": 30
-        },
-        {
-          "species": "ironthorns",
-          "minLvl": 30,
-          "maxLvl": 30
-        }
-      ]
-    },
-    "surf": {},
-    "rock": {},
-    "fish": {}
+    "name": "Power Plant"
   },
   "route102grove": {
     "name": "Route 102Grove",
@@ -11549,75 +10601,7 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "rusturftunnelsmallroom": {
-    "name": "Rusturf Tunnel Small Room",
-    "land": {
-      "baseRate": 10,
-      "encs": [
-        {
-          "species": "applin",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "applin",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "druddigon",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "druddigon",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "cyclizar",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "swablu",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "drampa",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "turtonator",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "noibat",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "noibat",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "noibat",
-          "minLvl": 15,
-          "maxLvl": 15
-        },
-        {
-          "species": "noibat",
-          "minLvl": 15,
-          "maxLvl": 15
-        }
-      ]
-    },
-    "surf": {},
-    "rock": {},
-    "fish": {}
+    "name": "Rusturf Tunnel Small Room"
   },
   "iciclecave": {
     "name": "Icicle Cave",
@@ -12672,146 +11656,10 @@ exports.BattleLocationdex = {
     "fish": {}
   },
   "birthislandexterior": {
-    "name": "Birth Island Exterior",
-    "land": {
-      "baseRate": 50,
-      "encs": [
-        {
-          "species": "lucario",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "lucario",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "sneasler",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "terrakion",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "medicham",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "gallade",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "hawlucha",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "blaziken",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "infernape",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "pawmot",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "lopunny",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "lopunny",
-          "minLvl": 5,
-          "maxLvl": 5
-        }
-      ]
-    },
-    "surf": {},
-    "rock": {},
-    "fish": {}
+    "name": "Birth Island Exterior"
   },
   "farawayislandinterior": {
-    "name": "Faraway Island Interior",
-    "land": {
-      "baseRate": 50,
-      "encs": [
-        {
-          "species": "tyranitar",
-          "minLvl": 50,
-          "maxLvl": 50
-        },
-        {
-          "species": "metagross",
-          "minLvl": 50,
-          "maxLvl": 50
-        },
-        {
-          "species": "garchomp",
-          "minLvl": 50,
-          "maxLvl": 50
-        },
-        {
-          "species": "unown",
-          "minLvl": 50,
-          "maxLvl": 50
-        },
-        {
-          "species": "unown",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "unown",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "krookodile",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "aerodactyl",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "yanmega",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "vileplume",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "mew",
-          "minLvl": 5,
-          "maxLvl": 5
-        },
-        {
-          "species": "mew",
-          "minLvl": 5,
-          "maxLvl": 5
-        }
-      ]
-    },
-    "surf": {},
-    "rock": {},
-    "fish": {}
+    "name": "Faraway Island Interior"
   },
   "navelrockentrance": {
     "name": "Navel Rock Entrance",
@@ -13155,28 +12003,28 @@ exports.BattleLocationdex = {
       "encs": [
         {
           "species": "mukalola",
-          "minLvl": 5,
-          "maxLvl": 5
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "dragalge",
-          "minLvl": 5,
-          "maxLvl": 5
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "basculegionf",
-          "minLvl": 5,
-          "maxLvl": 5
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "toxapex",
-          "minLvl": 5,
-          "maxLvl": 5
+          "minLvl": 60,
+          "maxLvl": 60
         },
         {
           "species": "sharpedo",
-          "minLvl": 5,
-          "maxLvl": 5
+          "minLvl": 60,
+          "maxLvl": 60
         }
       ]
     },
@@ -13212,5 +12060,147 @@ exports.BattleLocationdex = {
         }
       ]
     }
+  },
+  "victoryfinale": {
+    "name": "Victory Finale",
+    "land": {
+      "baseRate": 50,
+      "encs": [
+        {
+          "species": "garchomp",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "goodrahisui",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "gardevoir",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "lopunny",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "kecleon",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 5,
+          "maxLvl": 5
+        },
+        {
+          "species": "yveltal",
+          "minLvl": 5,
+          "maxLvl": 5
+        }
+      ]
+    },
+    "surf": {},
+    "rock": {},
+    "fish": {}
+  },
+  "southernislandexterior": {
+    "name": "Southern Island Exterior",
+    "land": {
+      "baseRate": 50,
+      "encs": [
+        {
+          "species": "sneaselhisui",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "riolu",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "chimchar",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "torchic",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "mankey",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "buneary",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "meditite",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "pawmi",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "hawlucha",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "timburr",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "terrakion",
+          "minLvl": 25,
+          "maxLvl": 25
+        },
+        {
+          "species": "terrakion",
+          "minLvl": 25,
+          "maxLvl": 52
+        }
+      ]
+    },
+    "surf": {},
+    "rock": {},
+    "fish": {}
   }
 }
