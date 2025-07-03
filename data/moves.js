@@ -14026,7 +14026,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Twin Beam",
-        "basePower": 50,
+        "basePower": 40,
         "type": "Psychic",
         "accuracy": 100,
         "pp": 10,
