@@ -5913,7 +5913,7 @@ exports.BattleMovedex = {
         "basePower": 85,
         "type": "Flying",
         "accuracy": 100,
-        "pp": 5,
+        "pp": 10,
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
@@ -10309,7 +10309,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Water Shuriken",
-        "basePower": 25,
+        "basePower": 15,
         "type": "Water",
         "accuracy": 100,
         "pp": 20,
@@ -10612,7 +10612,7 @@ exports.BattleMovedex = {
             "punch": 1
         },
         "name": "Power-Up Punch",
-        "basePower": 60,
+        "basePower": 40,
         "type": "Fighting",
         "accuracy": 100,
         "pp": 20,
@@ -12637,7 +12637,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Misty Explosion",
-        "basePower": 250,
+        "basePower": 200,
         "type": "Fairy",
         "accuracy": 100,
         "pp": 5,
@@ -13775,7 +13775,7 @@ exports.BattleMovedex = {
             "mirror": 1
         },
         "name": "Flower Trick",
-        "basePower": 60,
+        "basePower": 70,
         "type": "Grass",
         "accuracy": true,
         "pp": 10,
@@ -14078,7 +14078,7 @@ exports.BattleMovedex = {
             "slicing": 1
         },
         "name": "Bitter Blade",
-        "basePower": 50,
+        "basePower": 90,
         "type": "Fire",
         "accuracy": 100,
         "pp": 10,
