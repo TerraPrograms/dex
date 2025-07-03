@@ -919,6 +919,8 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     let isInZone = function (location, enc_mode, pokemon) {
       let for_mode = location[enc_mode];
 
+      console.log(for_mode)
+
       if (!("encs" in for_mode)) {
         return 0;
       }
