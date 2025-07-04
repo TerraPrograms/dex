@@ -3362,67 +3362,9 @@ exports.BattleLocationdex = {
         }
       ]
     },
-    "surf": {
-      "baseRate": 4,
-      "encs": [
-        {
-          "species": "tentacool",
-          "minLvl": 5,
-          "maxLvl": 35
-        },
-        {
-          "species": "wingull",
-          "minLvl": 10,
-          "maxLvl": 30
-        },
-        {
-          "species": "wingull",
-          "minLvl": 15,
-          "maxLvl": 25
-        },
-        {
-          "species": "pelipper",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "pelipper",
-          "minLvl": 25,
-          "maxLvl": 30
-        }
-      ]
-    },
+    "surf": {},
     "rock": {},
-    "fish": {
-      "baseRate": 30,
-      "encs": [
-        {
-          "species": "wailmer",
-          "minLvl": 25,
-          "maxLvl": 30
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 30,
-          "maxLvl": 35
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 20,
-          "maxLvl": 25
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 35,
-          "maxLvl": 40
-        },
-        {
-          "species": "wailmer",
-          "minLvl": 40,
-          "maxLvl": 45
-        }
-      ]
-    }
+    "fish": {}
   },
   "route122": {
     "name": "Route 122",
@@ -9482,67 +9424,67 @@ exports.BattleLocationdex = {
   "alteringcave": {
     "name": "Altering Cave",
     "land": {
-      "baseRate": 7,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "smeargle",
-          "minLvl": 22,
-          "maxLvl": 22
+          "species": "magnemite",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 24,
-          "maxLvl": 24
+          "species": "pawniard",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 20,
-          "maxLvl": 20
+          "species": "bronzor",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 26,
-          "maxLvl": 26
+          "species": "perrserker",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 22,
-          "maxLvl": 22
+          "species": "tinkaton",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 24,
-          "maxLvl": 24
+          "species": "nosepass",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 28,
-          "maxLvl": 28
+          "species": "riolu",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 18,
-          "maxLvl": 18
+          "species": "togedemaru",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 20,
-          "maxLvl": 20
+          "species": "stufful",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 26,
-          "maxLvl": 26
+          "species": "golbat",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 20,
-          "maxLvl": 20
+          "species": "golbat",
+          "minLvl": 40,
+          "maxLvl": 40
         },
         {
-          "species": "smeargle",
-          "minLvl": 26,
-          "maxLvl": 26
+          "species": "crobat",
+          "minLvl": 40,
+          "maxLvl": 40
         }
       ]
     },
