@@ -1,5 +1,4 @@
 exports.BattlePokedex = {
-    
     "bulbasaur": {
     "num": 1,
     "baseStats": {
@@ -10224,7 +10223,7 @@ exports.BattlePokedex = {
        "Whiscash",
     ],
     "tier" : "obtainable",
-    "abilities": { "0": "Oblivious",
+    "abilities": { "0": "Oblivious", "1": "Hydration",
     "H": "Hydration",
    },
 },
@@ -10253,7 +10252,7 @@ exports.BattlePokedex = {
     "evoLevel": 30,
     "evoType": "level",
     "tier" : "obtainable",
-    "abilities": { "0": "Oblivious",
+    "abilities": { "0": "Oblivious", "1": "Hydration",
     "H": "Hydration",
    },
 },
@@ -14320,6 +14319,8 @@ exports.BattlePokedex = {
     "heightm": 1.3,
     "weightkg": 26.6,
     "prevo": "Snorunt",
+    "evoItem": "Dawn Stone",
+    "evoType": "useItem",
     "tier" : "obtainable",
     "abilities": { "0": "Cursed Body",
     "H": "Snow Cloak",
@@ -21116,7 +21117,7 @@ exports.BattlePokedex = {
        "Trevenant",
     ],
     "tier" : "obtainable",
-    "abilities": { "0": "Natural Cure", "1": "Harvest",
+    "abilities": { "0": "Natural Cure",
     "H": "Frisk",
    },
 },
@@ -21146,8 +21147,8 @@ exports.BattlePokedex = {
     "evoLevel": 35,
     "evoType": "level",
     "tier" : "obtainable",
-    "abilities": { "0": "Natural Cure", "1": "Harvest",
-    "H": "Frisk",
+    "abilities": { "0": "Natural Cure",
+    "H": "Harvest",
    },
 },
     "pumpkaboo": {
@@ -36722,7 +36723,7 @@ exports.BattlePokedex = {
     "heightm": 2.4,
     "weightkg": 290.0,
     "prevo": "Ursaring",
-    "evoItem": "Black Augurite",
+    "evoItem": "Moon Stone",
     "evoType": "useItem",
     "tier" : "obtainable",
     "abilities": { "0": "Mind�s Eye",
