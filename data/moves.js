@@ -12762,7 +12762,7 @@ exports.BattleMovedex = {
         "name": "Poltergeist",
         "basePower": 110,
         "type": "Ghost",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 5,
         "priority": 0,
         "category": "Physical",
