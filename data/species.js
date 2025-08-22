@@ -778,20 +778,6 @@ exports.BattlePokedex = {
     "H": "Static",
    },
     "otherFormes": [
-       "Pikachu-Cosplay",
-       "Pikachu-Rock-Star",
-       "Pikachu-Belle",
-       "Pikachu-Pop-Star",
-       "Pikachu-PhD",
-       "Pikachu-Libre",
-       "Pikachu-Original",
-       "Pikachu-Hoenn",
-       "Pikachu-Sinnoh",
-       "Pikachu-Unova",
-       "Pikachu-Kalos",
-       "Pikachu-Alola",
-       "Pikachu-Partner",
-       "Pikachu-World",
     ],
 },
     "raichu": {
@@ -5254,7 +5240,6 @@ exports.BattlePokedex = {
     "H": "Lightning Rod",
    },
     "otherFormes": [
-       "Pichu-Spiky-eared",
     ],
 },
     "cleffa": {
@@ -6124,23 +6109,6 @@ exports.BattlePokedex = {
     "abilities": { "0": "Levitate",
    },
     "otherFormes": [
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
-       "Unown",
     ],
 },
     "wobbuffet": {
@@ -9553,8 +9521,8 @@ exports.BattlePokedex = {
        "Swalot",
     ],
     "tier" : "obtainable",
-    "abilities": { "0": "Liquid Ooze", "1": "Sticky Hold",
-    "H": "Gluttony",
+    "abilities": { "0": "Gluttony", "1": "Thick Fat",
+    "H": "Liquid Ooze",
    },
 },
     "swalot": {
@@ -9582,8 +9550,8 @@ exports.BattlePokedex = {
     "evoLevel": 26,
     "evoType": "level",
     "tier" : "obtainable",
-    "abilities": { "0": "Liquid Ooze", "1": "Sticky Hold",
-    "H": "Gluttony",
+    "abilities": { "0": "Gluttony", "1": "Thick Fat",
+    "H": "Liquid Ooze",
    },
 },
     "carvanha": {
@@ -12379,8 +12347,6 @@ exports.BattlePokedex = {
     "H": "Overcoat",
    },
     "otherFormes": [
-       "Burmy",
-       "Burmy",
     ],
 },
     "wormadam": {
@@ -12679,7 +12645,6 @@ exports.BattlePokedex = {
     "H": "Storm Drain",
    },
     "otherFormes": [
-       "Shellos",
     ],
 },
     "gastrodon": {
@@ -12712,7 +12677,6 @@ exports.BattlePokedex = {
     "H": "Storm Drain",
    },
     "otherFormes": [
-       "Gastrodon",
     ],
 },
     "ambipom": {
@@ -16426,6 +16390,10 @@ exports.BattlePokedex = {
     "name": "Basculin",
     "heightm": 1.0,
     "weightkg": 18.0,
+    "evos": [
+       "Basculegion",
+       "Basculegion-F",
+    ],
     "tier" : "obtainable",
     "abilities": { "0": "Reckless", "1": "Adaptability",
     "H": "Mold Breaker",
@@ -17479,9 +17447,6 @@ exports.BattlePokedex = {
     "H": "Serene Grace",
    },
     "otherFormes": [
-       "Deerling",
-       "Deerling",
-       "Deerling",
     ],
 },
     "sawsbuck": {
@@ -17513,9 +17478,6 @@ exports.BattlePokedex = {
     "H": "Serene Grace",
    },
     "otherFormes": [
-       "Sawsbuck",
-       "Sawsbuck",
-       "Sawsbuck",
     ],
 },
     "emolga": {
@@ -19596,9 +19558,9 @@ exports.BattlePokedex = {
     "tier" : "obtainable",
     "abilities": { "0": "Protean", "1": "Torrent",
     "H": "Libero",
+    "S": "Battle Bond",
    },
     "otherFormes": [
-       "Greninja",
        "Greninja-Ash",
     ],
 },
@@ -19840,23 +19802,6 @@ exports.BattlePokedex = {
     "H": "Friend Guard",
    },
     "otherFormes": [
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
-       "Vivillon",
     ],
 },
     "litleo": {
@@ -19946,10 +19891,6 @@ exports.BattlePokedex = {
     "H": "Symbiosis",
    },
     "otherFormes": [
-       "Flabébé",
-       "Flabébé",
-       "Flabébé",
-       "Flabébé",
     ],
 },
     "floette": {
@@ -19984,10 +19925,6 @@ exports.BattlePokedex = {
     "H": "Symbiosis",
    },
     "otherFormes": [
-       "Floette",
-       "Floette",
-       "Floette",
-       "Floette",
        "Floette-Eternal",
     ],
 },
@@ -20020,10 +19957,6 @@ exports.BattlePokedex = {
     "H": "Symbiosis",
    },
     "otherFormes": [
-       "Florges",
-       "Florges",
-       "Florges",
-       "Florges",
     ],
 },
     "skiddo": {
@@ -20167,15 +20100,6 @@ exports.BattlePokedex = {
     "abilities": { "0": "Fur Coat",
    },
     "otherFormes": [
-       "Furfrou",
-       "Furfrou",
-       "Furfrou",
-       "Furfrou",
-       "Furfrou",
-       "Furfrou",
-       "Furfrou",
-       "Furfrou",
-       "Furfrou",
     ],
 },
     "espurr": {
@@ -21417,11 +21341,10 @@ exports.BattlePokedex = {
     "weightkg": 305.0,
     "tier" : "obtainable",
     "abilities": { "0": "Aura Break",
+    "S": "Power Construct",
    },
     "otherFormes": [
        "Zygarde-10",
-       "Zygarde-10",
-       "Zygarde",
        "Zygarde-Complete",
     ],
 },
@@ -23078,19 +23001,6 @@ exports.BattlePokedex = {
     "abilities": { "0": "Shields Down",
    },
     "otherFormes": [
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
-       "Minior",
     ],
 },
     "komala": {
@@ -25383,7 +25293,6 @@ exports.BattlePokedex = {
     "H": "Cursed Body",
    },
     "otherFormes": [
-       "Sinistea-Antique",
     ],
 },
     "polteageist": {
@@ -25416,7 +25325,6 @@ exports.BattlePokedex = {
     "H": "Cursed Body",
    },
     "otherFormes": [
-       "Polteageist-Antique",
     ],
 },
     "hatenna": {
@@ -25836,14 +25744,6 @@ exports.BattlePokedex = {
     "H": "Aroma Veil",
    },
     "otherFormes": [
-       "Alcremie",
-       "Alcremie",
-       "Alcremie",
-       "Alcremie",
-       "Alcremie",
-       "Alcremie",
-       "Alcremie",
-       "Alcremie",
     ],
 },
     "falinks": {
@@ -26772,6 +26672,9 @@ exports.BattlePokedex = {
     "name": "Basculegion",
     "heightm": 3.0,
     "weightkg": 110.0,
+    "prevo": "Basculin",
+    "prevo": "Basculin-Blue-Striped",
+    "prevo": "Basculin-White-Striped",
     "tier" : "obtainable",
     "abilities": { "0": "Swift Swim", "1": "Adaptability",
     "H": "Mold Breaker",
@@ -27649,9 +27552,6 @@ exports.BattlePokedex = {
     "H": "Guts",
    },
     "otherFormes": [
-       "Squawkabilly-Blue",
-       "Squawkabilly-Yellow",
-       "Squawkabilly-White",
     ],
 },
     "nacli": {
@@ -29171,7 +29071,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Great Tusk",
@@ -29196,7 +29096,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Scream Tail",
@@ -29221,7 +29121,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Brute Bonnet",
@@ -29246,7 +29146,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Flutter Mane",
@@ -29271,7 +29171,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Slither Wing",
@@ -29296,7 +29196,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Sandy Shocks",
@@ -29321,7 +29221,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Iron Treads",
@@ -29346,7 +29246,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Iron Bundle",
@@ -29371,7 +29271,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Iron Hands",
@@ -29396,7 +29296,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Iron Jugulis",
@@ -29421,7 +29321,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Iron Moth",
@@ -29446,7 +29346,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 285,
     "gender": "N",
     "name": "Iron Thorns",
@@ -29535,7 +29435,7 @@ exports.BattlePokedex = {
        "Dragon",
        "Mineral",
    ],
-    "catchRate": 200,
+    "catchRate": 40,
     "expYield": 300,
     "genderRatio": {"M": 0.5, "F": 0.5},
     "name": "Baxcalibur",
@@ -29723,7 +29623,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Roaring Moon",
@@ -29748,7 +29648,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 200,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Iron Valiant",
@@ -29823,7 +29723,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 5,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Walking Wake",
@@ -29848,7 +29748,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 5,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Iron Leaves",
@@ -29874,7 +29774,7 @@ exports.BattlePokedex = {
        "Grass",
        "Dragon",
    ],
-    "catchRate": 45,
+    "catchRate": 200,
     "expYield": 170,
     "genderRatio": {"M": 0.5, "F": 0.5},
     "name": "Dipplin",
@@ -30039,7 +29939,7 @@ exports.BattlePokedex = {
        "Mineral",
        "Dragon",
    ],
-    "catchRate": 10,
+    "catchRate": 40,
     "expYield": 300,
     "genderRatio": {"M": 0.5, "F": 0.5},
     "name": "Archaludon",
@@ -30069,7 +29969,7 @@ exports.BattlePokedex = {
        "Grass",
        "Dragon",
    ],
-    "catchRate": 10,
+    "catchRate": 40,
     "expYield": 270,
     "genderRatio": {"M": 0.5, "F": 0.5},
     "name": "Hydrapple",
@@ -30098,7 +29998,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 10,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Gouging-Fire",
@@ -30123,7 +30023,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 10,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Raging-Bolt",
@@ -30148,7 +30048,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 10,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Iron-Boulder",
@@ -30173,7 +30073,7 @@ exports.BattlePokedex = {
     "eggGroups": [
        "Undiscovered",
    ],
-    "catchRate": 10,
+    "catchRate": 30,
     "expYield": 295,
     "gender": "N",
     "name": "Iron-Crown",
@@ -33311,6 +33211,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Forecast",
    },
     "baseSpecies": "Castform",
+    "forme": "Sunny",
 },
     "castformrainy": {
     "num": 351,
@@ -33338,6 +33239,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Forecast",
    },
     "baseSpecies": "Castform",
+    "forme": "Rainy",
 },
     "castformsnowy": {
     "num": 351,
@@ -33365,6 +33267,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Forecast",
    },
     "baseSpecies": "Castform",
+    "forme": "Snowy",
 },
     "deoxysattack": {
     "num": 386,
@@ -33391,6 +33294,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Pressure",
    },
     "baseSpecies": "Deoxys",
+    "forme": "Attack",
 },
     "deoxysdefense": {
     "num": 386,
@@ -33417,6 +33321,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Pressure",
    },
     "baseSpecies": "Deoxys",
+    "forme": "Defense",
 },
     "deoxysspeed": {
     "num": 386,
@@ -33443,6 +33348,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Pressure",
    },
     "baseSpecies": "Deoxys",
+    "forme": "Speed",
 },
     "wormadamsandy": {
     "num": 413,
@@ -33471,6 +33377,7 @@ exports.BattlePokedex = {
     "H": "Anticipation",
    },
     "baseSpecies": "Wormadam",
+    "forme": "Sandy",
 },
     "wormadamtrash": {
     "num": 413,
@@ -33499,6 +33406,7 @@ exports.BattlePokedex = {
     "H": "Anticipation",
    },
     "baseSpecies": "Wormadam",
+    "forme": "Trash",
 },
     "cherrimsunshine": {
     "num": 421,
@@ -33526,6 +33434,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Flower Gift",
    },
     "baseSpecies": "Cherrim",
+    "forme": "Sunshine",
 },
     "rotomheat": {
     "num": 479,
@@ -33552,6 +33461,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Levitate",
    },
     "baseSpecies": "Rotom",
+    "forme": "Heat",
 },
     "rotomwash": {
     "num": 479,
@@ -33578,6 +33488,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Levitate",
    },
     "baseSpecies": "Rotom",
+    "forme": "Wash",
 },
     "rotomfrost": {
     "num": 479,
@@ -33604,6 +33515,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Levitate",
    },
     "baseSpecies": "Rotom",
+    "forme": "Frost",
 },
     "rotomfan": {
     "num": 479,
@@ -33630,6 +33542,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Levitate",
    },
     "baseSpecies": "Rotom",
+    "forme": "Fan",
 },
     "rotommow": {
     "num": 479,
@@ -33656,6 +33569,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Levitate",
    },
     "baseSpecies": "Rotom",
+    "forme": "Mow",
 },
     "dialgaorigin": {
     "num": 483,
@@ -33683,6 +33597,7 @@ exports.BattlePokedex = {
     "H": "Telepathy",
    },
     "baseSpecies": "Dialga",
+    "forme": "Origin",
 },
     "palkiaorigin": {
     "num": 484,
@@ -33710,6 +33625,7 @@ exports.BattlePokedex = {
     "H": "Telepathy",
    },
     "baseSpecies": "Palkia",
+    "forme": "Origin",
 },
     "giratinaorigin": {
     "num": 487,
@@ -33736,6 +33652,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Levitate",
    },
     "baseSpecies": "Giratina",
+    "forme": "Origin",
 },
     "shayminsky": {
     "num": 492,
@@ -33762,6 +33679,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Serene Grace",
    },
     "baseSpecies": "Shaymin",
+    "forme": "Sky",
 },
     "arceusfighting": {
     "num": 493,
@@ -33788,6 +33706,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Fighting",
 },
     "arceusflying": {
     "num": 493,
@@ -33814,6 +33733,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Flying",
 },
     "arceuspoison": {
     "num": 493,
@@ -33840,6 +33760,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Poison",
 },
     "arceusground": {
     "num": 493,
@@ -33866,6 +33787,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Ground",
 },
     "arceusrock": {
     "num": 493,
@@ -33892,6 +33814,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Rock",
 },
     "arceusbug": {
     "num": 493,
@@ -33918,6 +33841,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Bug",
 },
     "arceusghost": {
     "num": 493,
@@ -33944,6 +33868,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Ghost",
 },
     "arceussteel": {
     "num": 493,
@@ -33970,6 +33895,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Steel",
 },
     "arceusfire": {
     "num": 493,
@@ -33996,6 +33922,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Fire",
 },
     "arceuswater": {
     "num": 493,
@@ -34022,6 +33949,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Water",
 },
     "arceusgrass": {
     "num": 493,
@@ -34048,6 +33976,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Grass",
 },
     "arceuselectric": {
     "num": 493,
@@ -34074,6 +34003,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Electric",
 },
     "arceuspsychic": {
     "num": 493,
@@ -34100,6 +34030,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Psychic",
 },
     "arceusice": {
     "num": 493,
@@ -34126,6 +34057,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Ice",
 },
     "arceusdragon": {
     "num": 493,
@@ -34152,6 +34084,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Dragon",
 },
     "arceusdark": {
     "num": 493,
@@ -34178,6 +34111,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Dark",
 },
     "arceusfairy": {
     "num": 493,
@@ -34204,6 +34138,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multitype",
    },
     "baseSpecies": "Arceus",
+    "forme": "Fairy",
 },
     "basculinbluestriped": {
     "num": 550,
@@ -34226,11 +34161,16 @@ exports.BattlePokedex = {
     "name": "Basculin-Blue-Striped",
     "heightm": 1.0,
     "weightkg": 18.0,
+    "evos": [
+       "Basculegion",
+       "Basculegion-F",
+    ],
     "tier" : "obtainable",
     "abilities": { "0": "Rock Head", "1": "Adaptability",
     "H": "Mold Breaker",
    },
     "baseSpecies": "Basculin",
+    "forme": "Blue-Striped",
 },
     "basculinwhitestriped": {
     "num": 550,
@@ -34253,11 +34193,16 @@ exports.BattlePokedex = {
     "name": "Basculin-White-Striped",
     "heightm": 1.0,
     "weightkg": 18.0,
+    "evos": [
+       "Basculegion",
+       "Basculegion-F",
+    ],
     "tier" : "obtainable",
     "abilities": { "0": "Rattled", "1": "Adaptability",
     "H": "Mold Breaker",
    },
     "baseSpecies": "Basculin",
+    "forme": "White-Striped",
 },
     "darmanitanzen": {
     "num": 555,
@@ -34285,6 +34230,7 @@ exports.BattlePokedex = {
     "H": "Sheer Force",
    },
     "baseSpecies": "Darmanitan",
+    "forme": "Zen",
 },
     "darmanitangalarzen": {
     "num": 555,
@@ -34312,6 +34258,7 @@ exports.BattlePokedex = {
     "H": "Gorilla Tactics",
    },
     "baseSpecies": "Darmanitan",
+    "forme": "Galar-Zen",
 },
     "tornadustherian": {
     "num": 641,
@@ -34338,6 +34285,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Regenerator",
    },
     "baseSpecies": "Tornadus",
+    "forme": "Therian",
 },
     "thundurustherian": {
     "num": 642,
@@ -34365,6 +34313,7 @@ exports.BattlePokedex = {
     "H": "Volt Absorb",
    },
     "baseSpecies": "Thundurus",
+    "forme": "Therian",
 },
     "landorustherian": {
     "num": 645,
@@ -34391,6 +34340,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Intimidate",
    },
     "baseSpecies": "Landorus",
+    "forme": "Therian",
 },
     "enamorustherian": {
     "num": 905,
@@ -34417,6 +34367,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Overcoat",
    },
     "baseSpecies": "Enamorus",
+    "forme": "Therian",
 },
     "kyuremwhite": {
     "num": 646,
@@ -34443,6 +34394,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Turboblaze",
    },
     "baseSpecies": "Kyurem",
+    "forme": "White",
 },
     "kyuremblack": {
     "num": 646,
@@ -34469,6 +34421,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Teravolt",
    },
     "baseSpecies": "Kyurem",
+    "forme": "Black",
 },
     "keldeoresolute": {
     "num": 647,
@@ -34495,6 +34448,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Justified",
    },
     "baseSpecies": "Keldeo",
+    "forme": "Resolute",
 },
     "meloettapirouette": {
     "num": 648,
@@ -34521,6 +34475,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Serene Grace",
    },
     "baseSpecies": "Meloetta",
+    "forme": "Pirouette",
 },
     "genesectdouse": {
     "num": 649,
@@ -34547,6 +34502,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Download",
    },
     "baseSpecies": "Genesect",
+    "forme": "Douse",
 },
     "genesectshock": {
     "num": 649,
@@ -34573,6 +34529,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Download",
    },
     "baseSpecies": "Genesect",
+    "forme": "Shock",
 },
     "genesectburn": {
     "num": 649,
@@ -34599,6 +34556,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Download",
    },
     "baseSpecies": "Genesect",
+    "forme": "Burn",
 },
     "genesectchill": {
     "num": 649,
@@ -34626,32 +34584,6 @@ exports.BattlePokedex = {
    },
     "baseSpecies": "Genesect",
 },
-    "greninjabattlebond": {
-    "num": 658,
-    "baseStats": {
-        "hp": 72,
-        "atk": 95,
-        "def": 67,
-        "spa": 103,
-        "spd": 71,
-        "spe": 122,
-    },
-    "types": ["Water", "Dark"],
-    "items": {},
-    "eggGroups": [
-       "Undiscovered",
-   ],
-    "catchRate": 200,
-    "expYield": 239,
-    "genderRatio": {"M": 1.0, "F": 0.0},
-    "name": "Greninja",
-    "heightm": 1.5,
-    "weightkg": 40.0,
-    "tier" : "unobtainable",
-    "abilities": { "0": "Battle Bond",
-   },
-    "baseSpecies": "Greninja",
-},
     "greninjaash": {
     "num": 658,
     "baseStats": {
@@ -34677,6 +34609,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Battle Bond",
    },
     "baseSpecies": "Greninja",
+    "forme": "Ash",
 },
     "floetteeternal": {
     "num": 670,
@@ -34704,6 +34637,7 @@ exports.BattlePokedex = {
     "H": "Symbiosis",
    },
     "baseSpecies": "Floette",
+    "forme": "Eternal",
 },
     "meowsticf": {
     "num": 678,
@@ -34732,6 +34666,7 @@ exports.BattlePokedex = {
     "H": "Keen Eye",
    },
     "baseSpecies": "Meowstic",
+    "forme": "Female",
 },
     "aegislashshield": {
     "num": 681,
@@ -34758,6 +34693,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Stance Change",
    },
     "baseSpecies": "Aegislash",
+    "forme": "Blade",
 },
     "pumpkaboosmall": {
     "num": 710,
@@ -34788,6 +34724,7 @@ exports.BattlePokedex = {
     "H": "Insomnia",
    },
     "baseSpecies": "Pumpkaboo",
+    "forme": "Small",
 },
     "pumpkaboolarge": {
     "num": 710,
@@ -34818,6 +34755,7 @@ exports.BattlePokedex = {
     "H": "Insomnia",
    },
     "baseSpecies": "Pumpkaboo",
+    "forme": "Large",
 },
     "pumpkaboosuper": {
     "num": 710,
@@ -34848,6 +34786,7 @@ exports.BattlePokedex = {
     "H": "Insomnia",
    },
     "baseSpecies": "Pumpkaboo",
+    "forme": "Super",
 },
     "gourgeistsmall": {
     "num": 711,
@@ -34878,6 +34817,7 @@ exports.BattlePokedex = {
     "H": "Insomnia",
    },
     "baseSpecies": "Gourgeist",
+    "forme": "Small",
 },
     "gourgeistlarge": {
     "num": 711,
@@ -34911,6 +34851,7 @@ exports.BattlePokedex = {
     "H": "Insomnia",
    },
     "baseSpecies": "Gourgeist",
+    "forme": "Large",
 },
     "gourgeistsuper": {
     "num": 711,
@@ -34938,6 +34879,7 @@ exports.BattlePokedex = {
     "H": "Insomnia",
    },
     "baseSpecies": "Gourgeist",
+    "forme": "Super",
 },
     "xerneas": {
     "num": 716,
@@ -34964,6 +34906,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Fairy Aura",
    },
     "baseSpecies": "Xerneas",
+    "forme": "Neutral",
 },
     "zygarde10": {
     "num": 718,
@@ -34988,60 +34931,10 @@ exports.BattlePokedex = {
     "weightkg": 33.5,
     "tier" : "obtainable",
     "abilities": { "0": "Aura Break",
+    "S": "Power Construct",
    },
     "baseSpecies": "Zygarde",
-},
-    "zygarde10": {
-    "num": 718,
-    "baseStats": {
-        "hp": 108,
-        "atk": 100,
-        "def": 121,
-        "spa": 81,
-        "spd": 95,
-        "spe": 95,
-    },
-    "types": ["Dragon", "Ground"],
-    "items": {},
-    "eggGroups": [
-       "Undiscovered",
-   ],
-    "catchRate": 200,
-    "expYield": 270,
-    "gender": "N",
-    "name": "Zygarde-10",
-    "heightm": 1.2,
-    "weightkg": 33.5,
-    "tier" : "obtainable",
-    "abilities": { "0": "Power Construct",
-   },
-    "baseSpecies": "Zygarde",
-},
-    "zygarde": {
-    "num": 718,
-    "baseStats": {
-        "hp": 108,
-        "atk": 100,
-        "def": 121,
-        "spa": 81,
-        "spd": 95,
-        "spe": 95,
-    },
-    "types": ["Dragon", "Ground"],
-    "items": {},
-    "eggGroups": [
-       "Undiscovered",
-   ],
-    "catchRate": 200,
-    "expYield": 270,
-    "gender": "N",
-    "name": "Zygarde",
-    "heightm": 5.0,
-    "weightkg": 305.0,
-    "tier" : "obtainable",
-    "abilities": { "0": "Power Construct",
-   },
-    "baseSpecies": "Zygarde",
+    "forme": "10%",
 },
     "zygardecomplete": {
     "num": 718,
@@ -35068,6 +34961,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Power Construct",
    },
     "baseSpecies": "Zygarde",
+    "forme": "Complete",
 },
     "hoopaunbound": {
     "num": 720,
@@ -35094,6 +34988,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Magic Guard",
    },
     "baseSpecies": "Hoopa",
+    "forme": "Unbound",
 },
     "oricoriopompom": {
     "num": 741,
@@ -36231,6 +36126,9 @@ exports.BattlePokedex = {
     "name": "Basculegion-F",
     "heightm": 3.0,
     "weightkg": 110.0,
+    "prevo": "Basculin",
+    "prevo": "Basculin-Blue-Striped",
+    "prevo": "Basculin-White-Striped",
     "tier" : "obtainable",
     "abilities": { "0": "Swift Swim", "1": "Adaptability",
     "H": "Mold Breaker",
