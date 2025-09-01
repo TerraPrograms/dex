@@ -877,7 +877,7 @@ exports.BattleMovedex = {
         "name": "Supersonic",
         "basePower": 0,
         "type": "Normal",
-        "accuracy": 100,
+        "accuracy": 80,
         "pp": 20,
         "priority": 0,
         "category": "Status",
