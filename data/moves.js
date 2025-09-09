@@ -280,7 +280,7 @@ exports.BattleMovedex = {
         },
         "name": "Cut",
         "basePower": 50,
-        "type": "Normal",
+        "type": "Grass",
         "accuracy": 100,
         "pp": 30,
         "priority": 0,
@@ -2948,8 +2948,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.",
-        "shortDesc": "If the user has no item, it steals the target's."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "spiderweb": {
         "num": 169,
@@ -5971,8 +5971,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
-        "desc": "If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.",
-        "shortDesc": "If the user has no item, it steals the target's."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "volttackle": {
         "num": 344,
