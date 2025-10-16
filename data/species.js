@@ -31310,7 +31310,7 @@ exports.BattlePokedex = {
     "heightm": 2.7,
     "weightkg": 185.0,
     "tier" : "obtainable",
-    "abilities": { "0": "Soundproof",
+    "abilities": { "0": "Bulletproof",
     "H": "Snow Warning",
    },
     "baseSpecies": "Abomasnow",
