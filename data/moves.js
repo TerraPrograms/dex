@@ -7909,7 +7909,7 @@ exports.BattleMovedex = {
         "name": "Attack Order",
         "basePower": 90,
         "type": "Bug",
-        "accuracy": 100,
+        "accuracy": true,
         "critRatio": 2,
         "pp": 15,
         "priority": 0,
