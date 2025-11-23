@@ -675,6 +675,7 @@ var PokedexMovePanel = PokedexResultPanel.extend({
   },
   renderRow: function (i, offscreen) {
     var results = this.results;
+    console.log(results)
     var id = results[i].substr(5);
     var template = id ? BattlePokedex[id] : undefined;
     if (!template) {
