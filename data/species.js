@@ -811,6 +811,8 @@ exports.BattlePokedex = {
    },
     "otherFormes": [
        "Raichu-Alola",
+       "Raichu-Mega-X",
+       "Raichu-Mega-Y",
     ],
 },
     "sandshrew": {
@@ -1120,6 +1122,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Unaware", "1": "Magic Guard",
     "H": "Cute Charm",
    },
+    "otherFormes": [
+       "Clefable-Mega",
+    ],
 },
     "vulpix": {
     "num": 37,
@@ -2193,6 +2198,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Chlorophyll",
     "H": "Gluttony",
    },
+    "otherFormes": [
+       "Victreebel-Mega",
+    ],
 },
     "tentacool": {
     "num": 72,
@@ -3715,6 +3723,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Illuminate",
     "H": "Analytic",
    },
+    "otherFormes": [
+       "Starmie-Mega",
+    ],
 },
     "mrmime": {
     "num": 122,
@@ -4554,6 +4565,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Multiscale", "1": "Inner Focus",
     "H": "Inner Focus",
    },
+    "otherFormes": [
+       "Dragonite-Mega",
+    ],
 },
     "mewtwo": {
     "num": 150,
@@ -4703,6 +4717,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Leaf Guard",
     "H": "Overgrow",
    },
+    "otherFormes": [
+       "Meganium-Mega",
+    ],
 },
     "cyndaquil": {
     "num": 155,
@@ -4890,6 +4907,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Sheer Force",
     "H": "Torrent",
    },
+    "otherFormes": [
+       "Feraligatr-Mega",
+    ],
 },
     "sentret": {
     "num": 161,
@@ -6876,6 +6896,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Keen Eye", "1": "Sturdy",
     "H": "Weak Armor",
    },
+    "otherFormes": [
+       "Skarmory-Mega",
+    ],
 },
     "houndour": {
     "num": 228,
@@ -10748,6 +10771,9 @@ exports.BattlePokedex = {
     "tier" : "unobtainable",
     "abilities": { "0": "Levitate",
    },
+    "otherFormes": [
+       "Chimecho-Mega",
+    ],
 },
     "absol": {
     "num": 359,
@@ -10776,6 +10802,7 @@ exports.BattlePokedex = {
    },
     "otherFormes": [
        "Absol-Mega",
+       "Absol-Mega-Z",
     ],
 },
     "wynaut": {
@@ -11932,6 +11959,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Reckless",
     "H": "Intimidate",
    },
+    "otherFormes": [
+       "Staraptor-Mega",
+    ],
 },
     "bidoof": {
     "num": 399,
@@ -13322,6 +13352,7 @@ exports.BattlePokedex = {
    },
     "otherFormes": [
        "Garchomp-Mega",
+       "Garchomp-Mega-Z",
     ],
 },
     "munchlax": {
@@ -13413,6 +13444,7 @@ exports.BattlePokedex = {
    },
     "otherFormes": [
        "Lucario-Mega",
+       "Lucario-Mega-Z",
     ],
 },
     "hippopotas": {
@@ -14290,6 +14322,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Cursed Body",
     "H": "Snow Cloak",
    },
+    "otherFormes": [
+       "Froslass-Mega",
+    ],
 },
     "rotom": {
     "num": 479,
@@ -14481,6 +14516,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Flame Body",
     "H": "Flash Fire",
    },
+    "otherFormes": [
+       "Heatran-Mega",
+    ],
 },
     "regigigas": {
     "num": 486,
@@ -14892,6 +14930,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Blaze",
     "H": "Reckless",
    },
+    "otherFormes": [
+       "Emboar-Mega",
+    ],
 },
     "oshawott": {
     "num": 501,
@@ -15780,6 +15821,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Mold Breaker", "1": "Sand Rush",
     "H": "Sand Force",
    },
+    "otherFormes": [
+       "Excadrill-Mega",
+    ],
 },
     "audino": {
     "num": 531,
@@ -16222,6 +16266,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Poison Point", "1": "Speed Boost",
     "H": "Swarm",
    },
+    "otherFormes": [
+       "Scolipede-Mega",
+    ],
 },
     "cottonee": {
     "num": 546,
@@ -16680,6 +16727,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Intimidate",
     "H": "Shed Skin",
    },
+    "otherFormes": [
+       "Scrafty-Mega",
+    ],
 },
     "sigilyph": {
     "num": 561,
@@ -17976,6 +18026,9 @@ exports.BattlePokedex = {
     "tier" : "obtainable",
     "abilities": { "0": "Levitate",
    },
+    "otherFormes": [
+       "Eelektross-Mega",
+    ],
 },
     "elgyem": {
     "num": 605,
@@ -18124,6 +18177,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Infiltrator", "1": "Shadow Tag",
     "H": "Flash Fire",
    },
+    "otherFormes": [
+       "Chandelure-Mega",
+    ],
 },
     "axew": {
     "num": 610,
@@ -18533,6 +18589,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Iron Fist", "1": "No Guard",
     "H": "Klutz",
    },
+    "otherFormes": [
+       "Golurk-Mega",
+    ],
 },
     "pawniard": {
     "num": 624,
@@ -19356,6 +19415,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Battle Armor", "1": "Overgrow",
     "H": "Bulletproof",
    },
+    "otherFormes": [
+       "Chesnaught-Mega",
+    ],
 },
     "fennekin": {
     "num": 653,
@@ -19446,6 +19508,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Magic Guard",
     "H": "Blaze",
    },
+    "otherFormes": [
+       "Delphox-Mega",
+    ],
 },
     "froakie": {
     "num": 656,
@@ -19838,6 +19903,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Moxie", "1": "Unnerve",
     "H": "Rivalry",
    },
+    "otherFormes": [
+       "Pyroar-Mega",
+    ],
 },
     "flabebe": {
     "num": 669,
@@ -19903,6 +19971,7 @@ exports.BattlePokedex = {
    },
     "otherFormes": [
        "Floette-Eternal",
+       "Floette-Mega",
     ],
 },
     "florges": {
@@ -20137,6 +20206,7 @@ exports.BattlePokedex = {
    },
     "otherFormes": [
        "Meowstic-F",
+       "Meowstic-Mega",
     ],
 },
     "honedge": {
@@ -20404,6 +20474,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Contrary",
     "H": "Infiltrator",
    },
+    "otherFormes": [
+       "Malamar-Mega",
+    ],
 },
     "binacle": {
     "num": 688,
@@ -20462,6 +20535,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Tough Claws",
     "H": "Sniper",
    },
+    "otherFormes": [
+       "Barbaracle-Mega",
+    ],
 },
     "skrelp": {
     "num": 690,
@@ -20522,6 +20598,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Adaptability",
     "H": "Poison Point",
    },
+    "otherFormes": [
+       "Dragalge-Mega",
+    ],
 },
     "clauncher": {
     "num": 692,
@@ -20814,6 +20893,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Unburden",
     "H": "Mold Breaker",
    },
+    "otherFormes": [
+       "Hawlucha-Mega",
+    ],
 },
     "dedenne": {
     "num": 702,
@@ -21323,6 +21405,7 @@ exports.BattlePokedex = {
     "otherFormes": [
        "Zygarde-10",
        "Zygarde-Complete",
+       "Zygarde-Mega",
     ],
 },
     "diancie": {
@@ -21974,6 +22057,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Hyper Cutter", "1": "Iron Fist",
     "H": "Anger Point",
    },
+    "otherFormes": [
+       "Crabominable-Mega",
+    ],
 },
     "oricorio": {
     "num": 741,
@@ -22793,6 +22879,9 @@ exports.BattlePokedex = {
     "tier" : "obtainable",
     "abilities": { "0": "Emergency Exit",
    },
+    "otherFormes": [
+       "Golisopod-Mega",
+    ],
 },
     "sandygast": {
     "num": 769,
@@ -23138,6 +23227,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Berserk",
     "H": "Sap Sipper",
    },
+    "otherFormes": [
+       "Drampa-Mega",
+    ],
 },
     "dhelmise": {
     "num": 781,
@@ -23713,6 +23805,8 @@ exports.BattlePokedex = {
    },
     "otherFormes": [
        "Magearna-Original",
+       "Magearna-Mega",
+       "Magearna-Mega",
     ],
 },
     "marshadow": {
@@ -23874,6 +23968,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Inner Focus",
     "H": "Volt Absorb",
    },
+    "otherFormes": [
+       "Zeraora-Mega",
+    ],
 },
     "meltan": {
     "num": 808,
@@ -25755,6 +25852,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Battle Armor",
     "H": "Defiant",
    },
+    "otherFormes": [
+       "Falinks-Mega",
+    ],
 },
     "pincurchin": {
     "num": 871,
@@ -28146,6 +28246,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Chlorophyll",
     "H": "Moody",
    },
+    "otherFormes": [
+       "Scovillain-Mega",
+    ],
 },
     "rellor": {
     "num": 953,
@@ -28665,6 +28768,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Corrosion",
     "H": "Toxic Debris",
    },
+    "otherFormes": [
+       "Glimmora-Mega",
+    ],
 },
     "greavard": {
     "num": 971,
@@ -28888,6 +28994,9 @@ exports.BattlePokedex = {
     "otherFormes": [
        "Tatsugiri",
        "Tatsugiri",
+       "Tatsugiri-Mega",
+       "Tatsugiri-Droopy-Mega",
+       "Tatsugiri-Stretchy-Mega",
     ],
 },
     "annihilape": {
@@ -29431,6 +29540,9 @@ exports.BattlePokedex = {
     "abilities": { "0": "Thermal Exchange",
     "H": "Ice Body",
    },
+    "otherFormes": [
+       "Baxcalibur-Mega",
+    ],
 },
     "gimmighoul": {
     "num": 999,
@@ -37695,7 +37807,7 @@ exports.BattlePokedex = {
     "baseSpecies": "Golurk",
     "forme": "Mega",
 },
-    "meowsticmega": {
+    "meowsticmmega": {
     "num": 678,
     "baseStats": {
         "hp": 74,
@@ -37713,7 +37825,7 @@ exports.BattlePokedex = {
     "catchRate": 200,
     "expYield": 163,
     "genderRatio": {"M": 1.0, "F": 0.0},
-    "name": "Meowstic-Mega",
+    "name": "Meowstic-M-Mega",
     "heightm": 0.8,
     "weightkg": 10.1,
     "tier" : "obtainable",
@@ -37889,7 +38001,7 @@ exports.BattlePokedex = {
     "baseSpecies": "Glimmora",
     "forme": "Mega",
 },
-    "tatsugirimega": {
+    "tatsugiricurlymega": {
     "num": 978,
     "baseStats": {
         "hp": 68,
@@ -37907,7 +38019,7 @@ exports.BattlePokedex = {
     "catchRate": 200,
     "expYield": 166,
     "genderRatio": {"M": 0.5, "F": 0.5},
-    "name": "Tatsugiri-Mega",
+    "name": "Tatsugiri-Curly-Mega",
     "heightm": 0.3,
     "weightkg": 8.0,
     "tier" : "obtainable",
