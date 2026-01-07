@@ -2054,7 +2054,7 @@ var BattlePokemonIconIndexes = {
   delphoxmega: 1320 + 99,
   greninjamega: 1320 + 100,
   pyroarmega: 1320 + 101,
-  floettmega: 1320 + 102,
+  floettemega: 1320 + 102,
   malamarmega: 1320 + 103,
   barbaraclemega: 1320 + 104,
   dragalgemega: 1320 + 105,
