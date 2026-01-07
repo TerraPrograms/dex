@@ -37917,7 +37917,7 @@ exports.BattlePokedex = {
     "baseSpecies": "Magearna",
     "forme": "Mega",
 },
-    "magearnamega": {
+    "magearnaoriginalmega": {
     "num": 801,
     "baseStats": {
         "hp": 80,
@@ -37935,7 +37935,7 @@ exports.BattlePokedex = {
     "catchRate": 200,
     "expYield": 270,
     "gender": "N",
-    "name": "Magearna-Mega",
+    "name": "Magearna-Original-Mega",
     "heightm": 1.3,
     "weightkg": 248.1,
     "tier" : "obtainable",
