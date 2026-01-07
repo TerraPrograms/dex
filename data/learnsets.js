@@ -636,6 +636,9 @@ exports.BattleLearnsets = {
            "scaleshot": [
            "L1",
         ],
+           "knockoff": [
+           "L1",
+        ],
            "roost": [
            "L1",
         ],
@@ -695,10 +698,17 @@ exports.BattleLearnsets = {
            "L74",
         ],
            "flareblitz": [
-           "L80",
+           "L78",
+        ],
+           "dragonrush": [
+           "L82",
         ],
            "dragonclaw": [
            "L85",
+           "M",
+        ],
+           "defog": [
+           "L90",
            "M",
         ],
            "flamecharge": [
@@ -1205,7 +1215,7 @@ exports.BattleLearnsets = {
            "L80",
            "M",
         ],
-           "curse": [
+           "powder": [
            "L90",
         ],
     },
@@ -1341,10 +1351,10 @@ exports.BattleLearnsets = {
            "leechlife": [
            "L78",
         ],
-           "uturn": [
+           "gunkshot": [
            "L84",
         ],
-           "gunkshot": [
+           "uturn": [
            "L88",
         ],
            "endeavor": [
@@ -1577,6 +1587,13 @@ exports.BattleLearnsets = {
         ],
            "hyperbeam": [
            "L86",
+        ],
+           "defog": [
+           "L90",
+           "M",
+        ],
+           "skyattack": [
+           "L95",
         ],
     },
 },
@@ -1837,11 +1854,14 @@ exports.BattleLearnsets = {
            "gunkshot": [
            "L70",
         ],
+           "toxic": [
+           "L75",
+        ],
            "knockoff": [
            "L80",
         ],
            "toxicspikes": [
-           "L100",
+           "L99",
         ],
     },
 },
@@ -2073,6 +2093,9 @@ exports.BattleLearnsets = {
         ],
            "followme": [
            "L83",
+        ],
+           "spotlight": [
+           "L95",
         ],
     },
 },
@@ -2412,7 +2435,6 @@ exports.BattleLearnsets = {
         ],
            "rockslide": [
            "L47",
-           "L52",
            "T",
         ],
            "flamethrower": [
@@ -2426,6 +2448,9 @@ exports.BattleLearnsets = {
            "thunderbolt": [
            "L56",
            "M",
+        ],
+           "superpower": [
+           "L58",
         ],
            "earthpower": [
            "L60",
@@ -2449,6 +2474,9 @@ exports.BattleLearnsets = {
         ],
            "toxicspikes": [
            "L95",
+        ],
+           "horndrill": [
+           "L100",
         ],
     },
 },
@@ -2832,6 +2860,9 @@ exports.BattleLearnsets = {
            "sandsearstorm": [
            "L95",
         ],
+           "horndrill": [
+           "L100",
+        ],
     },
 },
     "clefairy": {
@@ -2938,15 +2969,6 @@ exports.BattleLearnsets = {
            "growl": [
            "L1",
         ],
-           "encore": [
-           "L1",
-        ],
-           "wish": [
-           "L1",
-        ],
-           "followme": [
-           "L1",
-        ],
            "sing": [
            "L7",
         ],
@@ -2986,16 +3008,37 @@ exports.BattleLearnsets = {
            "meteormash": [
            "L52",
         ],
-           "healingwish": [
-           "L55",
+           "knockoff": [
+           "L58",
         ],
            "moonblast": [
-           "L58",
+           "L64",
+        ],
+           "spotlight": [
+           "L71",
+        ],
+           "airslash": [
+           "L77",
+        ],
+           "followme": [
+           "L82",
+        ],
+           "healingwish": [
+           "L86",
+        ],
+           "hypervoice": [
+           "L90",
+        ],
+           "meteorbeam": [
+           "L100",
         ],
     },
 },
     "clefable": {
        "learnset": {
+           "magicroom": [
+           "T",
+        ],
            "afteryou": [
            "T",
         ],
@@ -3261,30 +3304,76 @@ exports.BattleLearnsets = {
            "L19",
         ],
            "superfang": [
-           "L23",
+           "L26",
         ],
            "poisonfang": [
-           "L25",
+           "L29",
         ],
            "dualwingbeat": [
-           "L29",
+           "L32",
            "M",
         ],
            "leechlife": [
-           "L31",
-        ],
-           "screech": [
            "L35",
         ],
+           "screech": [
+           "L38",
+        ],
+           "crosspoison": [
+           "L41",
+           "T",
+        ],
            "sludgebomb": [
-           "L37",
+           "L41",
            "M",
         ],
            "airslash": [
-           "L41",
+           "L43",
+        ],
+           "heatwave": [
+           "L45",
+        ],
+           "acrobatics": [
+           "L49",
         ],
            "bravebird": [
-           "L41",
+           "L55",
+        ],
+           "defog": [
+           "L61",
+           "M",
+        ],
+           "haze": [
+           "L66",
+        ],
+           "toxic": [
+           "L66",
+        ],
+           "roost": [
+           "L70",
+        ],
+           "hurricane": [
+           "L75",
+           "T",
+        ],
+           "knockoff": [
+           "L80",
+        ],
+           "taunt": [
+           "L85",
+           "M",
+        ],
+           "uturn": [
+           "L90",
+        ],
+           "skyattack": [
+           "L95",
+        ],
+           "gunkshot": [
+           "L95",
+        ],
+           "snatch": [
+           "L99",
         ],
     },
 },
@@ -3366,6 +3455,10 @@ exports.BattleLearnsets = {
            "screech": [
            "L38",
         ],
+           "crosspoison": [
+           "L41",
+           "T",
+        ],
            "sludgebomb": [
            "L41",
            "M",
@@ -3373,8 +3466,50 @@ exports.BattleLearnsets = {
            "airslash": [
            "L43",
         ],
-           "bravebird": [
+           "heatwave": [
+           "L45",
+        ],
+           "acrobatics": [
            "L49",
+        ],
+           "bravebird": [
+           "L55",
+        ],
+           "defog": [
+           "L61",
+           "M",
+        ],
+           "haze": [
+           "L66",
+        ],
+           "toxic": [
+           "L66",
+        ],
+           "roost": [
+           "L70",
+        ],
+           "hurricane": [
+           "L75",
+           "T",
+        ],
+           "knockoff": [
+           "L80",
+        ],
+           "taunt": [
+           "L85",
+           "M",
+        ],
+           "uturn": [
+           "L90",
+        ],
+           "skyattack": [
+           "L95",
+        ],
+           "gunkshot": [
+           "L95",
+        ],
+           "snatch": [
+           "L99",
         ],
     },
 },
@@ -3662,6 +3797,10 @@ exports.BattleLearnsets = {
         ],
            "aromatherapy": [
            "L70",
+        ],
+           "weatherball": [
+           "L75",
+           "T",
         ],
            "leafstorm": [
            "L80",
@@ -3963,6 +4102,12 @@ exports.BattleLearnsets = {
            "doubleedge": [
            "L80",
         ],
+           "psychup": [
+           "L90",
+        ],
+           "flail": [
+           "L95",
+        ],
     },
 },
     "psyduck": {
@@ -4185,9 +4330,6 @@ exports.BattleLearnsets = {
         ],
            "thunderbolt": [
            "M",
-        ],
-           "fakeout": [
-           "L1",
         ],
            "covet": [
            "L1",
@@ -5138,25 +5280,29 @@ exports.BattleLearnsets = {
            "L65",
         ],
            "taunt": [
-           "L73",
+           "L71",
            "M",
         ],
-           "psystrike": [
+           "grassknot": [
+           "L77",
+           "M",
+        ],
+           "futuresight": [
            "L80",
         ],
            "foulplay": [
            "L85",
            "M",
         ],
-           "futuresight": [
+           "gravity": [
            "L90",
         ],
            "focusblast": [
            "L95",
            "M",
         ],
-           "psychoboost": [
-           "L99",
+           "psystrike": [
+           "L100",
         ],
     },
 },
@@ -5596,6 +5742,9 @@ exports.BattleLearnsets = {
            "poisonsting": [
            "L1",
         ],
+           "mudshot": [
+           "L1",
+        ],
            "supersonic": [
            "L4",
         ],
@@ -5629,18 +5778,14 @@ exports.BattleLearnsets = {
            "screech": [
            "L41",
         ],
-           "hex": [
+           "scald": [
            "L45",
         ],
-           "sludgebomb": [
+           "sludgewave": [
            "L49",
-           "M",
         ],
            "knockoff": [
            "L53",
-        ],
-           "scald": [
-           "L60",
         ],
     },
 },
@@ -5700,6 +5845,9 @@ exports.BattleLearnsets = {
            "poisonsting": [
            "L1",
         ],
+           "mudshot": [
+           "L1",
+        ],
            "supersonic": [
            "L4",
         ],
@@ -5755,15 +5903,21 @@ exports.BattleLearnsets = {
            "L72",
         ],
            "weatherball": [
-           "L73",
+           "L74",
            "T",
         ],
            "gigadrain": [
            "L77",
         ],
+           "toxic": [
+           "L81",
+        ],
            "liquidation": [
            "L85",
            "M",
+        ],
+           "sludgewave": [
+           "L90",
         ],
     },
 },
@@ -6119,7 +6273,7 @@ exports.BattleLearnsets = {
            "L75",
            "M",
         ],
-           "rockclimb": [
+           "headsmash": [
            "L82",
         ],
            "wideguard": [
@@ -6245,21 +6399,31 @@ exports.BattleLearnsets = {
            "lifedew": [
            "L36",
         ],
-           "psychic": [
+           "flamethrower": [
            "L45",
            "M",
+        ],
+           "psybeam": [
+           "L49",
         ],
            "yawn": [
            "L54",
         ],
-           "slackoff": [
+           "healpulse": [
            "L58",
         ],
-           "surf": [
+           "scald": [
            "L65",
         ],
-           "futuresight": [
+           "psychic": [
+           "L70",
+           "M",
+        ],
+           "slackoff": [
            "L75",
+        ],
+           "futuresight": [
+           "L80",
         ],
     },
 },
@@ -6393,9 +6557,8 @@ exports.BattleLearnsets = {
            "L45",
            "M",
         ],
-           "psychic": [
+           "psybeam": [
            "L49",
-           "M",
         ],
            "yawn": [
            "L54",
@@ -6403,18 +6566,21 @@ exports.BattleLearnsets = {
            "healpulse": [
            "L58",
         ],
-           "surf": [
+           "scald": [
            "L65",
         ],
-           "slackoff": [
+           "psychic": [
            "L70",
+           "M",
         ],
-           "futuresight": [
+           "slackoff": [
            "L75",
         ],
-           "hydropump": [
+           "futuresight": [
            "L80",
-           "T",
+        ],
+           "bodypress": [
+           "L85",
         ],
     },
 },
@@ -6777,6 +6943,7 @@ exports.BattleLearnsets = {
         ],
            "glaciate": [
            "L1",
+           "L95",
         ],
            "headbutt": [
            "L1",
@@ -6803,6 +6970,7 @@ exports.BattleLearnsets = {
         ],
            "encore": [
            "L23",
+           "L86",
         ],
            "brine": [
            "L27",
@@ -7109,6 +7277,12 @@ exports.BattleLearnsets = {
         ],
            "avalanche": [
            "L88",
+        ],
+           "reflect": [
+           "L92",
+        ],
+           "lightscreen": [
+           "L95",
         ],
     },
 },
@@ -7933,6 +8107,9 @@ exports.BattleLearnsets = {
            "wavecrash": [
            "L91",
         ],
+           "guillotine": [
+           "L95",
+        ],
     },
 },
     "voltorb": {
@@ -8409,6 +8586,16 @@ exports.BattleLearnsets = {
            "futuresight": [
            "L76",
         ],
+           "leechseed": [
+           "L82",
+        ],
+           "explosion": [
+           "L86",
+           "M",
+        ],
+           "trickroom": [
+           "L95",
+        ],
     },
 },
     "cubone": {
@@ -8678,6 +8865,12 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L81",
         ],
+           "suckerpunch": [
+           "L86",
+        ],
+           "perishsong": [
+           "L90",
+        ],
     },
 },
     "hitmonlee": {
@@ -8745,8 +8938,18 @@ exports.BattleLearnsets = {
            "upperhand": [
            "L1",
         ],
+           "foresight": [
+           "L1",
+        ],
+           "rollingkick": [
+           "L5",
+        ],
+           "lowsweep": [
+           "L10",
+        ],
            "fakeout": [
            "L20",
+           "L65",
         ],
            "rapidspin": [
            "L20",
@@ -8784,11 +8987,20 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L60",
         ],
+           "mimic": [
+           "L70",
+        ],
            "highjumpkick": [
            "L77",
         ],
            "knockoff": [
            "L82",
+        ],
+           "roleplay": [
+           "L86",
+        ],
+           "feint": [
+           "L90",
         ],
     },
 },
@@ -8860,8 +9072,18 @@ exports.BattleLearnsets = {
            "upperhand": [
            "L1",
         ],
+           "foresight": [
+           "L1",
+        ],
+           "rollingkick": [
+           "L5",
+        ],
+           "lowsweep": [
+           "L10",
+        ],
            "fakeout": [
            "L20",
+           "L65",
         ],
            "rapidspin": [
            "L20",
@@ -8900,11 +9122,20 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L60",
         ],
+           "mimic": [
+           "L70",
+        ],
            "drainpunch": [
            "L77",
         ],
            "knockoff": [
            "L82",
+        ],
+           "roleplay": [
+           "L86",
+        ],
+           "feint": [
+           "L90",
         ],
     },
 },
@@ -9733,6 +9964,9 @@ exports.BattleLearnsets = {
 },
     "kangaskhan": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -10162,12 +10396,48 @@ exports.BattleLearnsets = {
            "L46",
            "M",
         ],
-           "surf": [
+           "scald": [
            "L49",
         ],
            "icebeam": [
-           "L53",
+           "L55",
            "M",
+        ],
+           "gravity": [
+           "L60",
+        ],
+           "psychic": [
+           "L63",
+           "M",
+        ],
+           "surf": [
+           "L65",
+        ],
+           "blizzard": [
+           "L69",
+        ],
+           "naturepower": [
+           "L72",
+        ],
+           "thunder": [
+           "L77",
+           "T",
+        ],
+           "spotlight": [
+           "L80",
+        ],
+           "zapcannon": [
+           "L86",
+        ],
+           "waterfall": [
+           "L90",
+        ],
+           "liquidation": [
+           "L95",
+           "M",
+        ],
+           "selfdestruct": [
+           "L99",
         ],
     },
 },
@@ -10283,7 +10553,7 @@ exports.BattleLearnsets = {
            "L46",
            "M",
         ],
-           "surf": [
+           "scald": [
            "L49",
         ],
            "icebeam": [
@@ -10297,9 +10567,8 @@ exports.BattleLearnsets = {
            "L63",
            "M",
         ],
-           "hydropump": [
+           "surf": [
            "L65",
-           "T",
         ],
            "blizzard": [
            "L69",
@@ -10311,11 +10580,24 @@ exports.BattleLearnsets = {
            "L77",
            "T",
         ],
-           "psychoboost": [
+           "spotlight": [
            "L80",
         ],
            "zapcannon": [
            "L86",
+        ],
+           "waterfall": [
+           "L90",
+        ],
+           "liquidation": [
+           "L95",
+           "M",
+        ],
+           "selfdestruct": [
+           "L99",
+        ],
+           "tripleaxel": [
+           "L100",
         ],
     },
 },
@@ -10508,8 +10790,17 @@ exports.BattleLearnsets = {
            "substitute": [
            "L75",
         ],
+           "knockoff": [
+           "L82",
+        ],
            "instruct": [
-           "L80",
+           "L86",
+        ],
+           "healingwish": [
+           "L90",
+        ],
+           "spotlight": [
+           "L95",
         ],
     },
 },
@@ -10705,6 +10996,9 @@ exports.BattleLearnsets = {
         ],
            "wonderroom": [
            "T",
+        ],
+           "spotlight": [
+           "L1",
         ],
            "charm": [
            "L1",
@@ -11000,6 +11294,9 @@ exports.BattleLearnsets = {
 },
     "pinsir": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bind": [
            "T",
         ],
@@ -11103,6 +11400,7 @@ exports.BattleLearnsets = {
         ],
            "guillotine": [
            "L50",
+           "L100",
         ],
            "return": [
            "L55",
@@ -11136,6 +11434,9 @@ exports.BattleLearnsets = {
         ],
            "gigaimpact": [
            "L99",
+        ],
+           "flail": [
+           "L100",
         ],
     },
 },
@@ -11281,6 +11582,9 @@ exports.BattleLearnsets = {
         ],
            "spite": [
            "L81",
+        ],
+           "horndrill": [
+           "L88",
         ],
     },
 },
@@ -11437,6 +11741,12 @@ exports.BattleLearnsets = {
            "flamethrower": [
            "L90",
            "M",
+        ],
+           "payback": [
+           "L95",
+        ],
+           "outrage": [
+           "L99",
         ],
     },
 },
@@ -11597,6 +11907,9 @@ exports.BattleLearnsets = {
        "learnset": {
            "transform": [
            "L1",
+        ],
+           "celebrate": [
+           "L100",
         ],
     },
 },
@@ -12656,16 +12969,17 @@ exports.BattleLearnsets = {
            "L80",
            "M",
         ],
-           "rockclimb": [
+           "defog": [
            "L85",
+           "M",
         ],
            "skyattack": [
            "L90",
         ],
-           "headsmash": [
+           "roost": [
            "L95",
         ],
-           "bravebird": [
+           "headsmash": [
            "L100",
         ],
     },
@@ -12914,6 +13228,9 @@ exports.BattleLearnsets = {
            "roost": [
            "L85",
         ],
+           "auroraveil": [
+           "L90",
+        ],
            "sheercold": [
            "L95",
         ],
@@ -12992,7 +13309,7 @@ exports.BattleLearnsets = {
            "charge": [
            "L36",
         ],
-           "heatwave": [
+           "signalbeam": [
            "L43",
         ],
            "discharge": [
@@ -13011,6 +13328,9 @@ exports.BattleLearnsets = {
         ],
            "roost": [
            "L85",
+        ],
+           "heatwave": [
+           "L90",
         ],
            "zapcannon": [
            "L95",
@@ -14083,6 +14403,10 @@ exports.BattleLearnsets = {
            "leechseed": [
            "L1",
         ],
+           "earthpower": [
+           "L1",
+           "M",
+        ],
            "tackle": [
            "L1",
         ],
@@ -14134,11 +14458,20 @@ exports.BattleLearnsets = {
            "L63",
         ],
            "energyball": [
-           "L68",
+           "L69",
            "M",
         ],
            "leafstorm": [
            "L75",
+        ],
+           "bodypress": [
+           "L85",
+        ],
+           "healingwish": [
+           "L90",
+        ],
+           "spotlight": [
+           "L95",
         ],
     },
 },
@@ -14396,6 +14729,7 @@ exports.BattleLearnsets = {
         ],
            "scorchingsands": [
            "L1",
+           "L80",
         ],
            "tackle": [
            "L1",
@@ -14458,6 +14792,12 @@ exports.BattleLearnsets = {
         ],
            "eruption": [
            "L75",
+        ],
+           "overheat": [
+           "L85",
+        ],
+           "fling": [
+           "L90",
         ],
     },
 },
@@ -14765,9 +15105,13 @@ exports.BattleLearnsets = {
            "whirlpool": [
            "T",
         ],
-           "rage": [
+           "liquidation": [
            "L1",
-           "L8",
+           "L85",
+           "M",
+        ],
+           "breakingswipe": [
+           "L1",
         ],
            "scratch": [
            "L1",
@@ -14812,7 +15156,7 @@ exports.BattleLearnsets = {
            "screech": [
            "L41",
         ],
-           "thrash": [
+           "psychicfangs": [
            "L45",
         ],
            "aquatail": [
@@ -14820,22 +15164,33 @@ exports.BattleLearnsets = {
         ],
            "superpower": [
            "L52",
-           "L59",
         ],
            "hydropump": [
-           "L55",
+           "L57",
            "T",
+        ],
+           "scaleshot": [
+           "L63",
         ],
            "waterfall": [
            "L73",
         ],
-           "rockslide": [
+           "dragonclaw": [
            "L77",
-           "T",
+           "M",
         ],
            "liquidation": [
            "L85",
            "M",
+        ],
+           "dragonhammer": [
+           "L90",
+        ],
+           "wavecrash": [
+           "L95",
+        ],
+           "outrage": [
+           "L99",
         ],
     },
 },
@@ -15012,7 +15367,7 @@ exports.BattleLearnsets = {
            "L75",
            "T",
         ],
-           "gunkshot": [
+           "knockoff": [
            "L80",
         ],
            "taunt": [
@@ -15020,6 +15375,9 @@ exports.BattleLearnsets = {
            "M",
         ],
            "skyattack": [
+           "L95",
+        ],
+           "gunkshot": [
            "L95",
         ],
            "snatch": [
@@ -15194,6 +15552,7 @@ exports.BattleLearnsets = {
         ],
            "thunderwave": [
            "L6",
+           "L90",
            "M",
         ],
            "electroball": [
@@ -15248,6 +15607,12 @@ exports.BattleLearnsets = {
         ],
            "soak": [
            "L85",
+        ],
+           "aquaring": [
+           "L95",
+        ],
+           "mimic": [
+           "L100",
         ],
     },
 },
@@ -15387,17 +15752,71 @@ exports.BattleLearnsets = {
            "pound": [
            "L1",
         ],
-           "charm": [
+           "growl": [
            "L1",
         ],
            "sing": [
            "L7",
         ],
-           "sweetkiss": [
+           "doubleslap": [
            "L10",
         ],
-           "copycat": [
-           "L13",
+           "bestow": [
+           "L20",
+        ],
+           "wakeupslap": [
+           "L23",
+        ],
+           "drainingkiss": [
+           "L27",
+           "M",
+        ],
+           "mysticalfire": [
+           "L31",
+        ],
+           "luckychant": [
+           "L35",
+        ],
+           "dazzlinggleam": [
+           "L40",
+           "M",
+        ],
+           "moonlight": [
+           "L45",
+        ],
+           "flamethrower": [
+           "L46",
+           "M",
+        ],
+           "gravity": [
+           "L49",
+        ],
+           "meteormash": [
+           "L52",
+        ],
+           "knockoff": [
+           "L58",
+        ],
+           "moonblast": [
+           "L64",
+        ],
+           "spotlight": [
+           "L71",
+        ],
+           "airslash": [
+           "L77",
+        ],
+           "followme": [
+           "L82",
+        ],
+           "healingwish": [
+           "L86",
+        ],
+           "hypervoice": [
+           "L90",
+        ],
+           "meteorbeam": [
+           "L100",
         ],
     },
 },
@@ -15503,9 +15922,8 @@ exports.BattleLearnsets = {
            "L68",
            "M",
         ],
-           "telekinesis": [
+           "magiccoat": [
            "L72",
-           "T",
         ],
            "followme": [
            "L77",
@@ -15657,9 +16075,8 @@ exports.BattleLearnsets = {
            "L68",
            "M",
         ],
-           "telekinesis": [
+           "magiccoat": [
            "L72",
-           "T",
         ],
            "followme": [
            "L77",
@@ -15746,27 +16163,55 @@ exports.BattleLearnsets = {
            "confuseray": [
            "L23",
         ],
-           "wish": [
+           "drillpeck": [
+           "L25",
+        ],
+           "tailwind": [
            "L28",
         ],
-           "psychic": [
-           "L33",
-           "M",
+           "wish": [
+           "L31",
+        ],
+           "psyshock": [
+           "L35",
         ],
            "guardswap": [
-           "L36",
+           "L38",
         ],
            "psychoshift": [
-           "L39",
+           "L43",
         ],
-           "futuresight": [
-           "L44",
+           "psychic": [
+           "L47",
+           "M",
         ],
            "powerswap": [
-           "L47",
+           "L50",
         ],
            "mefirst": [
-           "L50",
+           "L54",
+        ],
+           "airslash": [
+           "L59",
+        ],
+           "foulplay": [
+           "L63",
+           "M",
+        ],
+           "synchronoise": [
+           "L66",
+        ],
+           "roost": [
+           "L68",
+        ],
+           "futuresight": [
+           "L74",
+        ],
+           "imprison": [
+           "L86",
+        ],
+           "psychoboost": [
+           "L99",
         ],
     },
 },
@@ -15909,6 +16354,9 @@ exports.BattleLearnsets = {
         ],
            "imprison": [
            "L86",
+        ],
+           "psychoboost": [
+           "L99",
         ],
     },
 },
@@ -16373,6 +16821,9 @@ exports.BattleLearnsets = {
         ],
            "mimic": [
            "L74",
+        ],
+           "spotlight": [
+           "L86",
         ],
     },
 },
@@ -17280,6 +17731,9 @@ exports.BattleLearnsets = {
            "aquatail": [
            "L80",
         ],
+           "spikes": [
+           "L85",
+        ],
     },
 },
     "espeon": {
@@ -17658,6 +18112,9 @@ exports.BattleLearnsets = {
 },
     "slowking": {
        "learnset": {
+           "magicroom": [
+           "T",
+        ],
            "afteryou": [
            "T",
         ],
@@ -18054,6 +18511,9 @@ exports.BattleLearnsets = {
            "thunderbolt": [
            "M",
         ],
+           "rest": [
+           "L1",
+        ],
            "astonish": [
            "L1",
         ],
@@ -18332,6 +18792,9 @@ exports.BattleLearnsets = {
            "L84",
            "M",
         ],
+           "gravity": [
+           "L90",
+        ],
     },
 },
     "dunsparce": {
@@ -18603,9 +19066,12 @@ exports.BattleLearnsets = {
            "L58",
            "T",
         ],
-           "earthquake": [
+           "torment": [
            "L66",
            "M",
+        ],
+           "highhorsepower": [
+           "L69",
         ],
            "roost": [
            "L74",
@@ -18613,10 +19079,17 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L80",
         ],
+           "earthquake": [
+           "L86",
+           "M",
+        ],
     },
 },
     "steelix": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bind": [
            "T",
         ],
@@ -18744,12 +19217,15 @@ exports.BattleLearnsets = {
            "bodypress": [
            "L65",
         ],
+           "roar": [
+           "L71",
+        ],
            "earthquake": [
-           "L73",
+           "L76",
            "M",
         ],
            "heavyslam": [
-           "L80",
+           "L82",
         ],
     },
 },
@@ -18865,6 +19341,12 @@ exports.BattleLearnsets = {
 },
     "granbull": {
        "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
            "brickbreak": [
            "T",
         ],
@@ -18964,6 +19446,10 @@ exports.BattleLearnsets = {
            "firefang": [
            "L1",
         ],
+           "fakeout": [
+           "L1",
+           "L86",
+        ],
            "covet": [
            "L1",
         ],
@@ -19005,12 +19491,19 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L52",
         ],
-           "thunderwave": [
+           "luckychant": [
+           "L54",
+        ],
+           "taunt": [
            "L59",
            "M",
         ],
+           "thunderwave": [
+           "L64",
+           "M",
+        ],
            "earthquake": [
-           "L68",
+           "L69",
            "M",
         ],
            "trailblaze": [
@@ -19018,6 +19511,9 @@ exports.BattleLearnsets = {
         ],
            "knockoff": [
            "L82",
+        ],
+           "healingwish": [
+           "L90",
         ],
     },
 },
@@ -19079,6 +19575,10 @@ exports.BattleLearnsets = {
         ],
            "whirlpool": [
            "T",
+        ],
+           "chillingwater": [
+           "L1",
+           "M",
         ],
            "poisonsting": [
            "L5",
@@ -19485,6 +19985,7 @@ exports.BattleLearnsets = {
         ],
            "feint": [
            "L7",
+           "L91",
         ],
            "aerialace": [
            "L10",
@@ -19546,11 +20047,11 @@ exports.BattleLearnsets = {
            "leechlife": [
            "L86",
         ],
-           "reversal": [
-           "L91",
-        ],
            "sleeptalk": [
            "L95",
+        ],
+           "reversal": [
+           "L100",
         ],
     },
 },
@@ -20865,7 +21366,7 @@ exports.BattleLearnsets = {
            "takedown": [
            "L27",
         ],
-           "agility": [
+           "tailwind": [
            "L32",
         ],
            "airslash": [
@@ -20877,10 +21378,6 @@ exports.BattleLearnsets = {
            "bounce": [
            "L46",
         ],
-           "hydropump": [
-           "L49",
-           "T",
-        ],
            "scald": [
            "L60",
         ],
@@ -20890,10 +21387,31 @@ exports.BattleLearnsets = {
            "surf": [
            "L70",
         ],
+           "hurricane": [
+           "L73",
+           "T",
+        ],
+           "hydropump": [
+           "L77",
+           "T",
+        ],
+           "defog": [
+           "L80",
+           "M",
+        ],
+           "mirrorcoat": [
+           "L85",
+        ],
+           "haze": [
+           "L90",
+        ],
     },
 },
     "skarmory": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -20942,6 +21460,9 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "magnetbomb": [
+           "L1",
+        ],
            "spikes": [
            "L1",
         ],
@@ -20968,6 +21489,7 @@ exports.BattleLearnsets = {
         ],
            "feint": [
            "L20",
+           "L85",
         ],
            "swift": [
            "L23",
@@ -21009,6 +21531,10 @@ exports.BattleLearnsets = {
         ],
            "bravebird": [
            "L80",
+        ],
+           "hardpress": [
+           "L90",
+           "M",
         ],
     },
 },
@@ -21087,31 +21613,53 @@ exports.BattleLearnsets = {
            "L20",
         ],
            "snarl": [
-           "L24",
+           "L25",
         ],
            "firefang": [
-           "L28",
+           "L29",
         ],
-           "flameburst": [
-           "L32",
+           "burningjealousy": [
+           "L34",
         ],
            "foulplay": [
            "L40",
            "M",
         ],
+           "psychicfangs": [
+           "L45",
+        ],
            "flamethrower": [
-           "L44",
+           "L47",
+           "M",
+        ],
+           "sludgebomb": [
+           "L50",
            "M",
         ],
            "darkpulse": [
-           "L49",
+           "L54",
            "M",
         ],
-           "inferno": [
-           "L56",
+           "heatwave": [
+           "L59",
+        ],
+           "suckerpunch": [
+           "L62",
         ],
            "destinybond": [
-           "L60",
+           "L66",
+        ],
+           "overheat": [
+           "L70",
+        ],
+           "nightdaze": [
+           "L75",
+        ],
+           "comeuppance": [
+           "L80",
+        ],
+           "fierywrath": [
+           "L85",
         ],
     },
 },
@@ -21176,6 +21724,10 @@ exports.BattleLearnsets = {
         ],
            "heatwave": [
            "L1",
+           "L59",
+        ],
+           "beatup": [
+           "L1",
         ],
            "sludgebomb": [
            "L1",
@@ -21220,6 +21772,9 @@ exports.BattleLearnsets = {
            "L40",
            "M",
         ],
+           "psychicfangs": [
+           "L45",
+        ],
            "flamethrower": [
            "L47",
            "M",
@@ -21228,23 +21783,26 @@ exports.BattleLearnsets = {
            "L54",
            "M",
         ],
-           "inferno": [
+           "heatwave": [
            "L59",
         ],
            "suckerpunch": [
            "L62",
         ],
            "destinybond": [
-           "L64",
+           "L66",
         ],
            "overheat": [
            "L70",
         ],
-           "fierywrath": [
-           "L80",
+           "nightdaze": [
+           "L75",
         ],
            "comeuppance": [
-           "L90",
+           "L80",
+        ],
+           "fierywrath": [
+           "L85",
         ],
     },
 },
@@ -21762,28 +22320,54 @@ exports.BattleLearnsets = {
            "psyshock": [
            "L27",
         ],
+           "psyshieldbash": [
+           "L30",
+        ],
            "roleplay": [
            "L33",
         ],
-           "zenheadbutt": [
+           "spite": [
            "L38",
+        ],
+           "zenheadbutt": [
+           "L39",
         ],
            "jumpkick": [
            "L43",
         ],
-           "psychic": [
+           "imprison": [
            "L45",
+        ],
+           "psychic": [
+           "L49",
            "M",
         ],
-           "imprison": [
-           "L49",
-        ],
            "return": [
-           "L50",
+           "L51",
+           "M",
+        ],
+           "shadowball": [
+           "L56",
            "M",
         ],
            "doubleedge": [
-           "L55",
+           "L61",
+        ],
+           "suckerpunch": [
+           "L66",
+        ],
+           "energyball": [
+           "L72",
+           "M",
+        ],
+           "psychoshift": [
+           "L77",
+        ],
+           "gravity": [
+           "L82",
+        ],
+           "trickroom": [
+           "L86",
         ],
     },
 },
@@ -21874,6 +22458,9 @@ exports.BattleLearnsets = {
            "rollingkick": [
            "L5",
         ],
+           "lowsweep": [
+           "L10",
+        ],
            "upperhand": [
            "L50",
         ],
@@ -21938,8 +22525,18 @@ exports.BattleLearnsets = {
            "upperhand": [
            "L1",
         ],
+           "foresight": [
+           "L1",
+        ],
+           "rollingkick": [
+           "L5",
+        ],
+           "lowsweep": [
+           "L10",
+        ],
            "fakeout": [
            "L20",
+           "L65",
         ],
            "rapidspin": [
            "L20",
@@ -21947,8 +22544,9 @@ exports.BattleLearnsets = {
            "icespinner": [
            "L25",
         ],
-           "rollingkick": [
+           "lowkick": [
            "L28",
+           "M",
         ],
            "suckerpunch": [
            "L35",
@@ -21978,11 +22576,20 @@ exports.BattleLearnsets = {
            "detect": [
            "L60",
         ],
+           "mimic": [
+           "L70",
+        ],
            "triplekick": [
            "L77",
         ],
            "knockoff": [
            "L82",
+        ],
+           "roleplay": [
+           "L86",
+        ],
+           "feint": [
+           "L90",
         ],
     },
 },
@@ -22039,6 +22646,13 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
+           "drainingkiss": [
+           "L1",
+           "M",
+        ],
+           "fakeout": [
+           "L1",
+        ],
            "pound": [
            "L1",
         ],
@@ -22078,6 +22692,31 @@ exports.BattleLearnsets = {
         ],
            "icebeam": [
            "L49",
+           "M",
+        ],
+           "perishsong": [
+           "L55",
+        ],
+           "psychic": [
+           "L60",
+           "M",
+        ],
+           "luckychant": [
+           "L65",
+           "L85",
+        ],
+           "energyball": [
+           "L70",
+           "M",
+        ],
+           "glaciate": [
+           "L75",
+        ],
+           "psychoboost": [
+           "L80",
+        ],
+           "focusblast": [
+           "L90",
            "M",
         ],
     },
@@ -22562,8 +23201,11 @@ exports.BattleLearnsets = {
            "extremespeed": [
            "L81",
         ],
+           "discharge": [
+           "L87",
+        ],
            "thunderbolt": [
-           "L85",
+           "L95",
            "M",
         ],
     },
@@ -22669,8 +23311,11 @@ exports.BattleLearnsets = {
            "extremespeed": [
            "L81",
         ],
+           "blazekick": [
+           "L87",
+        ],
            "sacredfire": [
-           "L85",
+           "L95",
         ],
     },
 },
@@ -22730,12 +23375,11 @@ exports.BattleLearnsets = {
            "leer": [
            "L1",
         ],
-           "bubblebeam": [
-           "L1",
+           "chillingwater": [
            "L8",
+           "M",
         ],
-           "raindance": [
-           "L1",
+           "roar": [
            "L15",
         ],
            "gust": [
@@ -22770,7 +23414,10 @@ exports.BattleLearnsets = {
            "L81",
         ],
            "scald": [
-           "L85",
+           "L87",
+        ],
+           "aquaring": [
+           "L95",
         ],
     },
 },
@@ -24123,40 +24770,46 @@ exports.BattleLearnsets = {
            "L12",
         ],
            "bulldoze": [
-           "L17",
+           "L19",
            "M",
         ],
            "mudsport": [
-           "L20",
+           "L22",
         ],
            "waterpulse": [
-           "L25",
+           "L27",
         ],
-           "earthpower": [
-           "L28",
-           "M",
+           "mudbomb": [
+           "L31",
         ],
-           "liquidation": [
-           "L33",
-           "M",
-        ],
-           "rockslide": [
+           "waterfall": [
            "L36",
-           "T",
+        ],
+           "lowkick": [
+           "L46",
+           "M",
         ],
            "surf": [
-           "L41",
+           "L51",
+        ],
+           "earthpower": [
+           "L55",
+           "M",
+        ],
+           "avalanche": [
+           "L60",
+        ],
+           "liquidation": [
+           "L65",
+           "M",
         ],
            "earthquake": [
-           "L44",
+           "L71",
            "M",
         ],
            "hydropump": [
-           "L52",
+           "L76",
            "T",
-        ],
-           "flipturn": [
-           "L65",
         ],
     },
 },
@@ -24244,31 +24897,40 @@ exports.BattleLearnsets = {
            "waterpulse": [
            "L27",
         ],
-           "earthpower": [
+           "mudbomb": [
            "L31",
-           "M",
         ],
-           "liquidation": [
-           "L35",
-           "M",
+           "waterfall": [
+           "L36",
         ],
-           "rockslide": [
-           "L39",
-           "T",
+           "lowkick": [
+           "L46",
+           "M",
         ],
            "surf": [
-           "L43",
+           "L51",
+        ],
+           "earthpower": [
+           "L55",
+           "M",
+        ],
+           "avalanche": [
+           "L60",
+        ],
+           "liquidation": [
+           "L65",
+           "M",
         ],
            "earthquake": [
-           "L47",
+           "L71",
            "M",
         ],
            "hydropump": [
-           "L55",
+           "L76",
            "T",
         ],
            "flipturn": [
-           "L66",
+           "L85",
         ],
     },
 },
@@ -24972,9 +25634,15 @@ exports.BattleLearnsets = {
            "L76",
            "T",
         ],
-           "hydropump": [
+           "teeterdance": [
            "L85",
-           "T",
+        ],
+           "focusblast": [
+           "L90",
+           "M",
+        ],
+           "synthesis": [
+           "L95",
         ],
     },
 },
@@ -26407,7 +27075,7 @@ exports.BattleLearnsets = {
            "dig": [
            "L59",
         ],
-           "closecombat": [
+           "superpower": [
            "L66",
         ],
            "grassyglide": [
@@ -26422,6 +27090,12 @@ exports.BattleLearnsets = {
         ],
            "trailblaze": [
            "L85",
+        ],
+           "closecombat": [
+           "L90",
+        ],
+           "leafblade": [
+           "L95",
         ],
     },
 },
@@ -26901,6 +27575,7 @@ exports.BattleLearnsets = {
         ],
            "fakeout": [
            "L10",
+           "L83",
         ],
            "forcepalm": [
            "L13",
@@ -26911,6 +27586,7 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L19",
            "L40",
+           "L86",
         ],
            "vitalthrow": [
            "L22",
@@ -26950,6 +27626,12 @@ exports.BattleLearnsets = {
         ],
            "coaching": [
            "L75",
+        ],
+           "feint": [
+           "L90",
+        ],
+           "counter": [
+           "L99",
         ],
     },
 },
@@ -27426,6 +28108,9 @@ exports.BattleLearnsets = {
            "lowkick": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -27480,6 +28165,9 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "partingshot": [
+           "L1",
+        ],
            "imprison": [
            "L1",
         ],
@@ -27491,6 +28179,9 @@ exports.BattleLearnsets = {
            "M",
         ],
            "gravity": [
+           "L1",
+        ],
+           "feint": [
            "L1",
         ],
            "leer": [
@@ -27571,14 +28262,20 @@ exports.BattleLearnsets = {
            "recover": [
            "L90",
         ],
-           "thunderwave": [
+           "spotlight": [
            "L95",
+        ],
+           "thunderwave": [
+           "L99",
            "M",
         ],
     },
 },
     "mawile": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aquacutter": [
            "T",
         ],
@@ -27931,6 +28628,9 @@ exports.BattleLearnsets = {
 },
     "aggron": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -28095,11 +28795,17 @@ exports.BattleLearnsets = {
            "doubleedge": [
            "L65",
         ],
-           "headsmash": [
+           "magnetbomb": [
            "L70",
+        ],
+           "headsmash": [
+           "L75",
         ],
            "heavyslam": [
            "L80",
+        ],
+           "dragonrush": [
+           "L82",
         ],
            "rockclimb": [
            "L85",
@@ -28406,11 +29112,14 @@ exports.BattleLearnsets = {
            "superpower": [
            "L90",
         ],
-           "closecombat": [
+           "blazekick": [
            "L95",
         ],
+           "closecombat": [
+           "L98",
+        ],
            "allyswitch": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -28573,7 +29282,10 @@ exports.BattleLearnsets = {
            "L39",
         ],
            "charge": [
-           "L44",
+           "L42",
+        ],
+           "psychicfangs": [
+           "L45",
         ],
            "flamethrower": [
            "L49",
@@ -28596,8 +29308,14 @@ exports.BattleLearnsets = {
            "L77",
            "T",
         ],
+           "magnetrise": [
+           "L82",
+        ],
            "overheat": [
            "L85",
+        ],
+           "electroball": [
+           "L90",
         ],
     },
 },
@@ -29157,6 +29875,9 @@ exports.BattleLearnsets = {
            "L1",
            "M",
         ],
+           "feint": [
+           "L1",
+        ],
            "leer": [
            "L1",
         ],
@@ -29223,6 +29944,10 @@ exports.BattleLearnsets = {
         ],
            "jawlock": [
            "L90",
+        ],
+           "torment": [
+           "L95",
+           "M",
         ],
            "protect": [
            "L100",
@@ -29457,6 +30182,9 @@ exports.BattleLearnsets = {
         ],
            "sandsearstorm": [
            "L90",
+        ],
+           "hydrosteam": [
+           "L95",
         ],
     },
 },
@@ -29723,6 +30451,9 @@ exports.BattleLearnsets = {
            "poweruppunch": [
            "L86",
         ],
+           "mimic": [
+           "L90",
+        ],
     },
 },
     "trapinch": {
@@ -29876,7 +30607,6 @@ exports.BattleLearnsets = {
         ],
            "dragonclaw": [
            "L47",
-           "L61",
            "M",
         ],
            "stompingtantrum": [
@@ -29885,6 +30615,9 @@ exports.BattleLearnsets = {
         ],
            "firstimpression": [
            "L55",
+        ],
+           "vacuumwave": [
+           "L61",
         ],
            "earthpower": [
            "L65",
@@ -29900,8 +30633,14 @@ exports.BattleLearnsets = {
            "dracometeor": [
            "L80",
         ],
+           "dragonrush": [
+           "L82",
+        ],
            "outrage": [
            "L80",
+        ],
+           "headlongrush": [
+           "L85",
         ],
     },
 },
@@ -29982,7 +30721,13 @@ exports.BattleLearnsets = {
            "thunderpunch": [
            "T",
         ],
-           "headlongrush": [
+           "alluringvoice": [
+           "L1",
+        ],
+           "boomburst": [
+           "L1",
+        ],
+           "tailwind": [
            "L1",
         ],
            "bide": [
@@ -30019,7 +30764,6 @@ exports.BattleLearnsets = {
         ],
            "dragonclaw": [
            "L47",
-           "L61",
            "M",
         ],
            "stompingtantrum": [
@@ -30028,6 +30772,9 @@ exports.BattleLearnsets = {
         ],
            "firstimpression": [
            "L55",
+        ],
+           "vacuumwave": [
+           "L61",
         ],
            "earthpower": [
            "L65",
@@ -30043,8 +30790,17 @@ exports.BattleLearnsets = {
            "dracometeor": [
            "L80",
         ],
+           "dragonrush": [
+           "L82",
+        ],
            "outrage": [
            "L80",
+        ],
+           "headlongrush": [
+           "L85",
+        ],
+           "feint": [
+           "L90",
         ],
     },
 },
@@ -30298,12 +31054,22 @@ exports.BattleLearnsets = {
            "hypervoice": [
            "L70",
         ],
+           "weatherball": [
+           "L77",
+           "T",
+        ],
+           "dragonrush": [
+           "L82",
+        ],
            "facade": [
-           "L80",
+           "L85",
            "M",
         ],
            "dracometeor": [
            "L90",
+        ],
+           "heatwave": [
+           "L95",
         ],
     },
 },
@@ -31057,6 +31823,7 @@ exports.BattleLearnsets = {
         ],
            "protect": [
            "L17",
+           "L86",
         ],
            "doublehit": [
            "L20",
@@ -31087,11 +31854,30 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L50",
         ],
-           "crabhammer": [
+           "superpower": [
            "L62",
         ],
-           "superpower": [
-           "L76",
+           "liquidation": [
+           "L67",
+           "M",
+        ],
+           "crabhammer": [
+           "L74",
+        ],
+           "closecombat": [
+           "L82",
+        ],
+           "payback": [
+           "L90",
+        ],
+           "spite": [
+           "L95",
+        ],
+           "wavecrash": [
+           "L99",
+        ],
+           "guillotine": [
+           "L100",
         ],
     },
 },
@@ -31291,9 +32077,8 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
-           "telekinesis": [
+           "teleport": [
            "L1",
-           "T",
         ],
            "confusion": [
            "L1",
@@ -31361,6 +32146,9 @@ exports.BattleLearnsets = {
         ],
            "recycle": [
            "L90",
+        ],
+           "trickroom": [
+           "L95",
         ],
     },
 },
@@ -31673,6 +32461,9 @@ exports.BattleLearnsets = {
 },
     "armaldo": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -32083,7 +32874,7 @@ exports.BattleLearnsets = {
            "sunnyday": [
            "L100",
         ],
-           "hail": [
+           "snowscape": [
            "L100",
         ],
     },
@@ -32183,6 +32974,9 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
+           "shedtail": [
+           "L1",
+        ],
            "thief": [
            "L1",
         ],
@@ -32196,10 +32990,10 @@ exports.BattleLearnsets = {
            "L1",
         ],
            "tailwhip": [
-           "L3",
+           "L1",
         ],
            "astonish": [
-           "L3",
+           "L1",
         ],
            "lick": [
            "L3",
@@ -32252,6 +33046,7 @@ exports.BattleLearnsets = {
         ],
            "fakeout": [
            "L56",
+           "L100",
         ],
            "shadowsneak": [
            "L63",
@@ -32274,7 +33069,7 @@ exports.BattleLearnsets = {
            "L85",
         ],
            "aquatail": [
-           "L90",
+           "L89",
         ],
            "doubleedge": [
            "L95",
@@ -33375,6 +34170,9 @@ exports.BattleLearnsets = {
 },
     "walrein": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bulldoze": [
            "M",
         ],
@@ -34367,6 +35165,9 @@ exports.BattleLearnsets = {
         ],
            "thunderpunch": [
            "T",
+        ],
+           "magnetbomb": [
+           "L1",
         ],
            "knockoff": [
            "L1",
@@ -35969,6 +36770,9 @@ exports.BattleLearnsets = {
            "endeavor": [
            "L95",
         ],
+           "uturn": [
+           "L100",
+        ],
     },
 },
     "piplup": {
@@ -36218,6 +37022,9 @@ exports.BattleLearnsets = {
            "L1",
            "M",
         ],
+           "yawn": [
+           "L1",
+        ],
            "metalclaw": [
            "L1",
         ],
@@ -36261,15 +37068,22 @@ exports.BattleLearnsets = {
            "surf": [
            "L59",
         ],
+           "vacuumwave": [
+           "L63",
+        ],
            "flashcannon": [
-           "L65",
+           "L66",
         ],
            "roost": [
            "L70",
         ],
            "grassknot": [
-           "L75",
+           "L73",
            "M",
+        ],
+           "weatherball": [
+           "L77",
+           "T",
         ],
            "icebeam": [
            "L78",
@@ -36278,8 +37092,14 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L82",
         ],
+           "aquaring": [
+           "L86",
+        ],
            "makeitrain": [
            "L90",
+        ],
+           "haze": [
+           "L95",
         ],
     },
 },
@@ -36534,6 +37354,7 @@ exports.BattleLearnsets = {
         ],
            "dualwingbeat": [
            "L38",
+           "L95",
            "M",
         ],
            "quickguard": [
@@ -36545,7 +37366,7 @@ exports.BattleLearnsets = {
            "steelwing": [
            "L46",
         ],
-           "closecombat": [
+           "superpower": [
            "L49",
         ],
            "doubleedge": [
@@ -36567,8 +37388,8 @@ exports.BattleLearnsets = {
            "agility": [
            "L86",
         ],
-           "detect": [
-           "L97",
+           "closecombat": [
+           "L90",
         ],
     },
 },
@@ -36809,8 +37630,14 @@ exports.BattleLearnsets = {
            "wavecrash": [
            "L75",
         ],
+           "rototiller": [
+           "L84",
+        ],
+           "amnesia": [
+           "L89",
+        ],
            "swordsdance": [
-           "L95",
+           "L92",
         ],
     },
 },
@@ -36865,6 +37692,9 @@ exports.BattleLearnsets = {
         ],
            "nuzzle": [
            "L1",
+        ],
+           "babydolleyes": [
+           "L5",
         ],
            "spark": [
            "L13",
@@ -36942,6 +37772,9 @@ exports.BattleLearnsets = {
         ],
            "nuzzle": [
            "L1",
+        ],
+           "babydolleyes": [
+           "L5",
         ],
            "spark": [
            "L13",
@@ -37029,6 +37862,9 @@ exports.BattleLearnsets = {
            "nuzzle": [
            "L1",
         ],
+           "babydolleyes": [
+           "L5",
+        ],
            "spark": [
            "L13",
         ],
@@ -37077,6 +37913,9 @@ exports.BattleLearnsets = {
         ],
            "volttackle": [
            "L82",
+        ],
+           "trailblaze": [
+           "L86",
         ],
     },
 },
@@ -38030,7 +38869,7 @@ exports.BattleLearnsets = {
            "pursuit": [
            "L18",
         ],
-           "swift": [
+           "lowsweep": [
            "L21",
         ],
            "aquajet": [
@@ -38039,7 +38878,7 @@ exports.BattleLearnsets = {
            "doublehit": [
            "L28",
         ],
-           "aquatail": [
+           "waterfall": [
            "L33",
         ],
            "razorwind": [
@@ -38048,19 +38887,28 @@ exports.BattleLearnsets = {
            "agility": [
            "L43",
         ],
-           "liquidation": [
+           "flipturn": [
            "L48",
+        ],
+           "lowkick": [
+           "L53",
            "M",
         ],
-           "flipturn": [
-           "L62",
+           "aquatail": [
+           "L56",
         ],
            "wavecrash": [
            "L70",
         ],
+           "fling": [
+           "L75",
+        ],
            "taunt": [
            "L80",
            "M",
+        ],
+           "tripledive": [
+           "L85",
         ],
     },
 },
@@ -38153,7 +39001,7 @@ exports.BattleLearnsets = {
            "pursuit": [
            "L18",
         ],
-           "swift": [
+           "lowsweep": [
            "L21",
         ],
            "aquajet": [
@@ -38175,6 +39023,10 @@ exports.BattleLearnsets = {
            "L48",
            "M",
         ],
+           "lowkick": [
+           "L53",
+           "M",
+        ],
            "aquatail": [
            "L56",
         ],
@@ -38193,6 +39045,9 @@ exports.BattleLearnsets = {
         ],
            "tripledive": [
            "L85",
+        ],
+           "tripleaxel": [
+           "L90",
         ],
     },
 },
@@ -38587,6 +39442,9 @@ exports.BattleLearnsets = {
            "spite": [
            "L86",
         ],
+           "flail": [
+           "L93",
+        ],
     },
 },
     "drifloon": {
@@ -38696,9 +39554,8 @@ exports.BattleLearnsets = {
            "L50",
            "M",
         ],
-           "telekinesis": [
+           "haze": [
            "L55",
-           "T",
         ],
            "acrobatics": [
            "L60",
@@ -38845,9 +39702,8 @@ exports.BattleLearnsets = {
            "L50",
            "M",
         ],
-           "telekinesis": [
+           "haze": [
            "L55",
-           "T",
         ],
            "acrobatics": [
            "L60",
@@ -39310,7 +40166,10 @@ exports.BattleLearnsets = {
            "M",
         ],
            "moongeistbeam": [
-           "L80",
+           "L79",
+        ],
+           "moonblast": [
+           "L82",
         ],
            "destinybond": [
            "L85",
@@ -39679,6 +40538,9 @@ exports.BattleLearnsets = {
         ],
            "flail": [
            "L85",
+        ],
+           "psychup": [
+           "L90",
         ],
     },
 },
@@ -40513,6 +41375,10 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
+           "destinybond": [
+           "L1",
+           "L99",
+        ],
            "taunt": [
            "L1",
            "M",
@@ -40962,6 +41828,7 @@ exports.BattleLearnsets = {
         ],
            "dragoncheer": [
            "L65",
+           "L99",
         ],
            "dualchop": [
            "L70",
@@ -40970,7 +41837,10 @@ exports.BattleLearnsets = {
            "L75",
         ],
            "ironhead": [
-           "L80",
+           "L78",
+        ],
+           "dragonrush": [
+           "L82",
         ],
            "dragonhammer": [
            "L85",
@@ -40981,6 +41851,9 @@ exports.BattleLearnsets = {
         ],
            "outrage": [
            "L95",
+        ],
+           "dracometeor": [
+           "L100",
         ],
     },
 },
@@ -41579,6 +42452,12 @@ exports.BattleLearnsets = {
            "L85",
            "M",
         ],
+           "toxic": [
+           "L90",
+        ],
+           "headlongrush": [
+           "L95",
+        ],
     },
 },
     "skorupi": {
@@ -41697,6 +42576,9 @@ exports.BattleLearnsets = {
 },
     "drapion": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -41772,6 +42654,9 @@ exports.BattleLearnsets = {
            "fellstinger": [
            "L1",
         ],
+           "screech": [
+           "L1",
+        ],
            "bite": [
            "L1",
         ],
@@ -41831,6 +42716,14 @@ exports.BattleLearnsets = {
         ],
            "knockoff": [
            "L75",
+        ],
+           "taunt": [
+           "L85",
+           "M",
+        ],
+           "torment": [
+           "L90",
+           "M",
         ],
     },
 },
@@ -41965,19 +42858,51 @@ exports.BattleLearnsets = {
            "venoshock": [
            "L36",
         ],
-           "poisonjab": [
-           "L43",
-           "M",
+           "brickbreak": [
+           "L37",
+           "T",
         ],
-           "sludgebomb": [
+           "bounce": [
+           "L40",
+        ],
+           "counter": [
+           "L42",
+        ],
+           "lowkick": [
            "L45",
            "M",
         ],
+           "poisonjab": [
+           "L48",
+           "M",
+        ],
+           "aurasphere": [
+           "L50",
+        ],
+           "sludgebomb": [
+           "L52",
+           "M",
+        ],
            "belch": [
-           "L47",
+           "L57",
         ],
            "flatter": [
-           "L50",
+           "L60",
+        ],
+           "crosschop": [
+           "L65",
+        ],
+           "gunkshot": [
+           "L70",
+        ],
+           "closecombat": [
+           "L74",
+        ],
+           "toxic": [
+           "L78",
+        ],
+           "corrosivegas": [
+           "L82",
         ],
     },
 },
@@ -42159,10 +43084,20 @@ exports.BattleLearnsets = {
            "L70",
         ],
            "closecombat": [
-           "L75",
+           "L74",
+        ],
+           "toxic": [
+           "L78",
         ],
            "corrosivegas": [
-           "L80",
+           "L82",
+        ],
+           "feint": [
+           "L86",
+        ],
+           "torment": [
+           "L90",
+           "M",
         ],
     },
 },
@@ -42211,13 +43146,19 @@ exports.BattleLearnsets = {
            "whirlpool": [
            "T",
         ],
+           "gust": [
+           "L1",
+           "L17",
+        ],
            "pound": [
            "L1",
         ],
            "watergun": [
+           "L1",
            "L6",
         ],
            "attract": [
+           "L1",
            "L10",
         ],
            "gust": [
@@ -42233,23 +43174,30 @@ exports.BattleLearnsets = {
            "L29",
         ],
            "aquaring": [
-           "L33",
+           "L35",
         ],
            "whirlpool": [
-           "L38",
+           "L42",
            "T",
         ],
-           "uturn": [
-           "L42",
-        ],
            "bounce": [
-           "L45",
+           "L53",
         ],
            "silverwind": [
-           "L49",
+           "L59",
         ],
            "soak": [
-           "L54",
+           "L66",
+        ],
+           "surf": [
+           "L71",
+        ],
+           "hydropump": [
+           "L77",
+           "T",
+        ],
+           "aeroblast": [
+           "L85",
         ],
     },
 },
@@ -42351,6 +43299,9 @@ exports.BattleLearnsets = {
            "aeroblast": [
            "L85",
         ],
+           "spotlight": [
+           "L90",
+        ],
     },
 },
     "mantyke": {
@@ -42430,7 +43381,7 @@ exports.BattleLearnsets = {
            "takedown": [
            "L27",
         ],
-           "agility": [
+           "tailwind": [
            "L32",
         ],
            "airslash": [
@@ -42442,9 +43393,32 @@ exports.BattleLearnsets = {
            "bounce": [
            "L46",
         ],
-           "hydropump": [
-           "L49",
+           "scald": [
+           "L60",
+        ],
+           "aeroblast": [
+           "L66",
+        ],
+           "surf": [
+           "L70",
+        ],
+           "hurricane": [
+           "L73",
            "T",
+        ],
+           "hydropump": [
+           "L77",
+           "T",
+        ],
+           "defog": [
+           "L80",
+           "M",
+        ],
+           "mirrorcoat": [
+           "L85",
+        ],
+           "haze": [
+           "L90",
         ],
     },
 },
@@ -42879,13 +43853,13 @@ exports.BattleLearnsets = {
            "dig": [
            "L72",
         ],
-           "tripleaxel": [
+           "upperhand": [
            "L85",
         ],
-           "upperhand": [
+           "faketears": [
            "L90",
         ],
-           "faketears": [
+           "tripleaxel": [
            "L95",
         ],
     },
@@ -43003,8 +43977,11 @@ exports.BattleLearnsets = {
            "allyswitch": [
            "L85",
         ],
+           "gravity": [
+           "L90",
+        ],
            "eerieimpulse": [
-           "L92",
+           "L95",
         ],
            "voltswitch": [
            "L99",
@@ -43176,6 +44153,9 @@ exports.BattleLearnsets = {
            "headsmash": [
            "L80",
         ],
+           "dragonrush": [
+           "L82",
+        ],
            "horndrill": [
            "L85",
         ],
@@ -43189,6 +44169,9 @@ exports.BattleLearnsets = {
 },
     "tangrowth": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -43494,6 +44477,9 @@ exports.BattleLearnsets = {
            "followme": [
            "L86",
         ],
+           "feint": [
+           "L90",
+        ],
     },
 },
     "magmortar": {
@@ -43655,6 +44641,9 @@ exports.BattleLearnsets = {
            "followme": [
            "L86",
         ],
+           "feint": [
+           "L90",
+        ],
     },
 },
     "togekiss": {
@@ -43741,6 +44730,10 @@ exports.BattleLearnsets = {
            "L1",
         ],
            "defog": [
+           "L1",
+           "M",
+        ],
+           "flamethrower": [
            "L1",
            "M",
         ],
@@ -43854,9 +44847,6 @@ exports.BattleLearnsets = {
            "solarbeam": [
            "M",
         ],
-           "psychup": [
-           "L1",
-        ],
            "leechlife": [
            "L1",
         ],
@@ -43922,6 +44912,12 @@ exports.BattleLearnsets = {
         ],
            "roost": [
            "L81",
+        ],
+           "feint": [
+           "L86",
+        ],
+           "psychup": [
+           "L90",
         ],
     },
 },
@@ -44271,15 +45267,28 @@ exports.BattleLearnsets = {
            "L58",
            "T",
         ],
-           "earthquake": [
+           "torment": [
            "L66",
            "M",
+        ],
+           "highhorsepower": [
+           "L69",
         ],
            "roost": [
            "L74",
         ],
            "knockoff": [
            "L80",
+        ],
+           "earthquake": [
+           "L86",
+           "M",
+        ],
+           "feint": [
+           "L90",
+        ],
+           "guillotine": [
+           "L95",
         ],
     },
 },
@@ -44409,6 +45418,9 @@ exports.BattleLearnsets = {
         ],
            "headlongrush": [
            "L90",
+        ],
+           "haze": [
+           "L95",
         ],
     },
 },
@@ -44566,6 +45578,9 @@ exports.BattleLearnsets = {
            "bulldoze": [
            "M",
         ],
+           "crosspoison": [
+           "T",
+        ],
            "dazzlinggleam": [
            "M",
         ],
@@ -44624,6 +45639,9 @@ exports.BattleLearnsets = {
            "M",
         ],
            "naturalgift": [
+           "T",
+        ],
+           "nightslash": [
            "T",
         ],
            "poisonjab": [
@@ -45079,6 +46097,15 @@ exports.BattleLearnsets = {
            "phantomforce": [
            "L80",
         ],
+           "dynamicpunch": [
+           "L85",
+        ],
+           "shadowforce": [
+           "L90",
+        ],
+           "trickroom": [
+           "L99",
+        ],
     },
 },
     "froslass": {
@@ -45155,9 +46182,6 @@ exports.BattleLearnsets = {
            "willowisp": [
            "M",
         ],
-           "astralbarrage": [
-           "L1",
-        ],
            "drainingkiss": [
            "L1",
            "L23",
@@ -45183,6 +46207,10 @@ exports.BattleLearnsets = {
         ],
            "astonish": [
            "L19",
+        ],
+           "drainingkiss": [
+           "L23",
+           "M",
         ],
            "willowisp": [
            "L28",
@@ -45261,6 +46289,9 @@ exports.BattleLearnsets = {
            "hiddenpower": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -45287,6 +46318,12 @@ exports.BattleLearnsets = {
         ],
            "willowisp": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "paraboliccharge": [
+           "L1",
         ],
            "reflect": [
            "L1",
@@ -45512,6 +46549,9 @@ exports.BattleLearnsets = {
            "memento": [
            "L89",
         ],
+           "spotlight": [
+           "L95",
+        ],
            "mysticalpower": [
            "L97",
         ],
@@ -45651,6 +46691,9 @@ exports.BattleLearnsets = {
         ],
            "healingwish": [
            "L89",
+        ],
+           "spotlight": [
+           "L95",
         ],
            "mysticalpower": [
            "L97",
@@ -45806,6 +46849,9 @@ exports.BattleLearnsets = {
            "L89",
            "M",
         ],
+           "spotlight": [
+           "L95",
+        ],
            "flamethrower": [
            "L97",
            "M",
@@ -45937,14 +46983,14 @@ exports.BattleLearnsets = {
            "L80",
         ],
            "willowisp": [
-           "L85",
+           "L86",
            "M",
         ],
            "steelbeam": [
-           "L90",
+           "L92",
         ],
            "magmastorm": [
-           "L95",
+           "L100",
         ],
     },
 },
@@ -46199,6 +47245,10 @@ exports.BattleLearnsets = {
            "lunardance": [
            "L89",
         ],
+           "skillswap": [
+           "L94",
+           "M",
+        ],
            "trickroom": [
            "L100",
         ],
@@ -46367,9 +47417,8 @@ exports.BattleLearnsets = {
            "alluringvoice": [
            "L46",
         ],
-           "liquidation": [
+           "waterfall": [
            "L54",
-           "M",
         ],
            "skillswap": [
            "L61",
@@ -46389,155 +47438,11 @@ exports.BattleLearnsets = {
            "L91",
            "M",
         ],
-           "hydropump": [
+           "liquidation": [
            "L95",
-           "T",
-        ],
-    },
-},
-    "darkrai": {
-       "learnset": {
-           "aerialace": [
            "M",
         ],
-           "brickbreak": [
-           "T",
-        ],
-           "darkpulse": [
-           "M",
-        ],
-           "embargo": [
-           "T",
-        ],
-           "endure": [
-           "M",
-        ],
-           "facade": [
-           "M",
-        ],
-           "focusblast": [
-           "M",
-        ],
-           "foulplay": [
-           "M",
-        ],
-           "hiddenpower": [
-           "M",
-        ],
-           "icebeam": [
-           "M",
-        ],
-           "icywind": [
-           "M",
-        ],
-           "naturalgift": [
-           "T",
-        ],
-           "poisonjab": [
-           "M",
-        ],
-           "psychic": [
-           "M",
-        ],
-           "return": [
-           "M",
-        ],
-           "rockslide": [
-           "T",
-        ],
-           "rocktomb": [
-           "M",
-        ],
-           "shadowball": [
-           "M",
-        ],
-           "shadowclaw": [
-           "T",
-        ],
-           "shockwave": [
-           "M",
-        ],
-           "sludgebomb": [
-           "M",
-        ],
-           "taunt": [
-           "M",
-        ],
-           "thunder": [
-           "T",
-        ],
-           "thunderwave": [
-           "M",
-        ],
-           "thunderbolt": [
-           "M",
-        ],
-           "torment": [
-           "M",
-        ],
-           "willowisp": [
-           "M",
-        ],
-           "wonderroom": [
-           "T",
-        ],
-           "xscissor": [
-           "M",
-        ],
-           "disable": [
-           "L1",
-        ],
-           "feint": [
-           "L1",
-        ],
-           "nightmare": [
-           "L11",
-        ],
-           "haze": [
-           "L20",
-        ],
-           "suckerpunch": [
-           "L29",
-        ],
-           "snarl": [
-           "L34",
-        ],
-           "psychic": [
-           "L40",
-           "M",
-        ],
-           "spacialrend": [
-           "L50",
-        ],
-           "sludgebomb": [
-           "L55",
-           "M",
-        ],
-           "roaroftime": [
-           "L60",
-        ],
-           "darkpulse": [
-           "L66",
-           "M",
-        ],
-           "icebeam": [
-           "L73",
-           "M",
-        ],
-           "knockoff": [
-           "L78",
-        ],
-           "hypnosis": [
-           "L82",
-        ],
-           "focusblast": [
-           "L85",
-           "M",
-        ],
-           "nightdaze": [
-           "L89",
-        ],
-           "darkvoid": [
+           "luckychant": [
            "L100",
         ],
     },
@@ -47516,21 +48421,27 @@ exports.BattleLearnsets = {
            "flareblitz": [
            "L62",
         ],
+           "vacuumwave": [
+           "L66",
+        ],
            "knockoff": [
-           "L67",
+           "L68",
         ],
            "burnup": [
-           "L70",
+           "L72",
         ],
            "grassknot": [
-           "L75",
+           "L77",
            "M",
         ],
            "closecombat": [
-           "L80",
+           "L82",
         ],
            "coaching": [
            "L86",
+        ],
+           "blastburn": [
+           "L90",
         ],
     },
 },
@@ -47695,18 +48606,28 @@ exports.BattleLearnsets = {
            "L13",
            "T",
         ],
-           "razorshell": [
+           "dive": [
            "L17",
         ],
            "aquajet": [
            "L19",
-           "L70",
+           "L71",
         ],
            "bubblebeam": [
            "L23",
         ],
            "revenge": [
            "L26",
+        ],
+           "chillingwater": [
+           "L31",
+           "M",
+        ],
+           "sacredsword": [
+           "L36",
+        ],
+           "encore": [
+           "L40",
         ],
            "liquidation": [
            "L47",
@@ -47715,9 +48636,29 @@ exports.BattleLearnsets = {
            "soak": [
            "L53",
         ],
+           "drillrun": [
+           "L58",
+        ],
            "hydropump": [
            "L61",
            "T",
+        ],
+           "vacuumwave": [
+           "L66",
+        ],
+           "grassknot": [
+           "L75",
+           "M",
+        ],
+           "knockoff": [
+           "L80",
+        ],
+           "icebeam": [
+           "L85",
+           "M",
+        ],
+           "hydrocannon": [
+           "L90",
         ],
     },
 },
@@ -47799,7 +48740,7 @@ exports.BattleLearnsets = {
            "L13",
            "T",
         ],
-           "razorshell": [
+           "dive": [
            "L17",
         ],
            "aquajet": [
@@ -47811,6 +48752,10 @@ exports.BattleLearnsets = {
         ],
            "revenge": [
            "L26",
+        ],
+           "chillingwater": [
+           "L31",
+           "M",
         ],
            "sacredsword": [
            "L36",
@@ -47824,6 +48769,9 @@ exports.BattleLearnsets = {
         ],
            "soak": [
            "L53",
+        ],
+           "drillrun": [
+           "L58",
         ],
            "hydropump": [
            "L61",
@@ -48411,6 +49359,9 @@ exports.BattleLearnsets = {
            "nightdaze": [
            "L91",
         ],
+           "healingwish": [
+           "L95",
+        ],
     },
 },
     "pansage": {
@@ -48688,20 +49639,53 @@ exports.BattleLearnsets = {
            "spark": [
            "L25",
         ],
+           "lowkick": [
+           "L27",
+           "M",
+        ],
            "stomp": [
-           "L29",
+           "L31",
         ],
            "discharge": [
-           "L32",
-        ],
-           "voltswitch": [
            "L36",
         ],
-           "wildcharge": [
+           "signalbeam": [
            "L39",
         ],
-           "thrash": [
+           "voltswitch": [
            "L43",
+        ],
+           "wildcharge": [
+           "L46",
+        ],
+           "thrash": [
+           "L42",
+        ],
+           "smartstrike": [
+           "L50",
+           "M",
+        ],
+           "magnetrise": [
+           "L55",
+        ],
+           "overheat": [
+           "L60",
+        ],
+           "supercellslam": [
+           "L65",
+        ],
+           "highhorsepower": [
+           "L72",
+        ],
+           "thunder": [
+           "L77",
+           "T",
+        ],
+           "thundercage": [
+           "L82",
+        ],
+           "batonpass": [
+           "L86",
         ],
     },
 },
@@ -48811,8 +49795,14 @@ exports.BattleLearnsets = {
            "thundercage": [
            "L82",
         ],
-           "batonpass": [
+           "feint": [
            "L86",
+        ],
+           "batonpass": [
+           "L90",
+        ],
+           "volttackle": [
+           "L100",
         ],
     },
 },
@@ -49013,6 +50003,9 @@ exports.BattleLearnsets = {
 },
     "gigalith": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bulldoze": [
            "M",
         ],
@@ -49548,6 +50541,9 @@ exports.BattleLearnsets = {
            "trickroom": [
            "L90",
         ],
+           "spotlight": [
+           "L95",
+        ],
     },
 },
     "timburr": {
@@ -50077,6 +51073,9 @@ exports.BattleLearnsets = {
 },
     "seismitoad": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "afteryou": [
            "T",
         ],
@@ -50655,6 +51654,9 @@ exports.BattleLearnsets = {
 },
     "scolipede": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bugbite": [
            "T",
         ],
@@ -50706,9 +51708,11 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "mortalspin": [
+           "L1",
+        ],
            "leechlife": [
            "L1",
-           "L95",
         ],
            "steelroller": [
            "L1",
@@ -50770,10 +51774,13 @@ exports.BattleLearnsets = {
            "M",
         ],
            "toxic": [
-           "L75",
+           "L73",
+        ],
+           "ironhead": [
+           "L77",
         ],
            "megahorn": [
-           "L80",
+           "L81",
         ],
            "spikes": [
            "L85",
@@ -50781,11 +51788,8 @@ exports.BattleLearnsets = {
            "twineedle": [
            "L90",
         ],
-           "leechlife": [
+           "heavyslam": [
            "L95",
-        ],
-           "toxicspikes": [
-           "L100",
         ],
     },
 },
@@ -50974,9 +51978,8 @@ exports.BattleLearnsets = {
            "charm": [
            "L28",
         ],
-           "dazzlinggleam": [
+           "alluringvoice": [
            "L31",
-           "M",
         ],
            "tickle": [
            "L35",
@@ -50991,13 +51994,13 @@ exports.BattleLearnsets = {
            "L47",
            "M",
         ],
-           "hurricane": [
-           "L51",
-           "T",
-        ],
            "defog": [
-           "L54",
+           "L52",
            "M",
+        ],
+           "hurricane": [
+           "L54",
+           "T",
         ],
            "moonblast": [
            "L57",
@@ -51014,7 +52017,13 @@ exports.BattleLearnsets = {
            "encore": [
            "L82",
         ],
-           "uturn": [
+           "healingwish": [
+           "L86",
+        ],
+           "spotlight": [
+           "L95",
+        ],
+           "memento": [
            "L99",
         ],
     },
@@ -51197,7 +52206,7 @@ exports.BattleLearnsets = {
            "alluringvoice": [
            "L82",
         ],
-           "chloroblast": [
+           "healingwish": [
            "L86",
         ],
     },
@@ -51840,6 +52849,9 @@ exports.BattleLearnsets = {
 },
     "darmanitan": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "brickbreak": [
            "T",
         ],
@@ -52039,6 +53051,7 @@ exports.BattleLearnsets = {
         ],
            "rockblast": [
            "L5",
+           "L39",
         ],
            "feintattack": [
            "L11",
@@ -52061,13 +53074,13 @@ exports.BattleLearnsets = {
            "slash": [
            "L33",
         ],
-           "rockslide": [
-           "L39",
-           "T",
-        ],
            "xscissor": [
            "L43",
            "M",
+        ],
+           "rockslide": [
+           "L50",
+           "T",
         ],
            "leechlife": [
            "L55",
@@ -52079,16 +53092,25 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L63",
         ],
-           "stealthrock": [
+           "rototiller": [
            "L70",
         ],
            "rockwrecker": [
            "L77",
         ],
+           "rockclimb": [
+           "L85",
+        ],
+           "stealthrock": [
+           "L95",
+        ],
     },
 },
     "crustle": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -52150,6 +53172,9 @@ exports.BattleLearnsets = {
            "L1",
            "M",
         ],
+           "wideguard": [
+           "L1",
+        ],
            "sandattack": [
            "L1",
         ],
@@ -52196,7 +53221,7 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L63",
         ],
-           "stealthrock": [
+           "rototiller": [
            "L70",
         ],
            "rockwrecker": [
@@ -52204,6 +53229,9 @@ exports.BattleLearnsets = {
         ],
            "rockclimb": [
            "L85",
+        ],
+           "stealthrock": [
+           "L95",
         ],
     },
 },
@@ -52533,6 +53561,9 @@ exports.BattleLearnsets = {
            "thunderwave": [
            "M",
         ],
+           "heatwave": [
+           "L1",
+        ],
            "gust": [
            "L1",
         ],
@@ -52727,6 +53758,9 @@ exports.BattleLearnsets = {
            "hiddenpower": [
            "M",
         ],
+           "icywind": [
+           "M",
+        ],
            "infestation": [
            "T",
         ],
@@ -52756,6 +53790,9 @@ exports.BattleLearnsets = {
         ],
            "wonderroom": [
            "T",
+        ],
+           "knockoff": [
+           "L1",
         ],
            "bodypress": [
            "L1",
@@ -52809,6 +53846,9 @@ exports.BattleLearnsets = {
         ],
            "trickroom": [
            "L90",
+        ],
+           "partingshot": [
+           "L95",
         ],
     },
 },
@@ -53465,6 +54505,9 @@ exports.BattleLearnsets = {
            "lowkick": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "psychic": [
            "M",
         ],
@@ -53485,6 +54528,9 @@ exports.BattleLearnsets = {
         ],
            "torment": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
         ],
            "fling": [
            "L1",
@@ -53816,6 +54862,9 @@ exports.BattleLearnsets = {
 },
     "reuniclus": {
        "learnset": {
+           "magicroom": [
+           "T",
+        ],
            "afteryou": [
            "T",
         ],
@@ -54276,6 +55325,9 @@ exports.BattleLearnsets = {
 },
     "escavalier": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -54324,9 +55376,8 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L1",
         ],
-           "quickguard": [
+           "screech": [
            "L1",
-           "L8",
         ],
            "twineedle": [
            "L1",
@@ -54334,6 +55385,9 @@ exports.BattleLearnsets = {
         ],
            "leer": [
            "L4",
+        ],
+           "quickguard": [
+           "L8",
         ],
            "furyattack": [
            "L16",
@@ -54377,15 +55431,21 @@ exports.BattleLearnsets = {
            "skittersmack": [
            "L70",
         ],
-           "hardpress": [
+           "scaryface": [
            "L75",
-           "M",
         ],
            "knockoff": [
            "L81",
         ],
            "leechlife": [
            "L88",
+        ],
+           "hardpress": [
+           "L95",
+           "M",
+        ],
+           "megahorn": [
+           "L99",
         ],
     },
 },
@@ -54512,6 +55572,7 @@ exports.BattleLearnsets = {
         ],
            "leafstorm": [
            "L1",
+           "L90",
         ],
            "absorb": [
            "L1",
@@ -54578,6 +55639,9 @@ exports.BattleLearnsets = {
         ],
            "corrosivegas": [
            "L81",
+        ],
+           "leafstorm": [
+           "L90",
         ],
     },
 },
@@ -55126,7 +56190,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "tackle": [
-           "L5",
+           "L1",
         ],
            "harden": [
            "L8",
@@ -55156,37 +56220,44 @@ exports.BattleLearnsets = {
            "L45",
         ],
            "ingrain": [
-           "L49",
+           "L50",
         ],
            "selfdestruct": [
-           "L53",
+           "L56",
         ],
            "seedbomb": [
-           "L58",
+           "L61",
            "T",
         ],
            "bodypress": [
-           "L63",
+           "L66",
         ],
            "ironhead": [
-           "L68",
+           "L72",
         ],
            "knockoff": [
-           "L73",
+           "L77",
         ],
            "gyroball": [
-           "L79",
+           "L80",
         ],
-           "stealthrock": [
+           "powerwhip": [
            "L85",
         ],
-           "leechseed": [
+           "explosion": [
            "L90",
+           "M",
+        ],
+           "leechseed": [
+           "L99",
         ],
     },
 },
     "ferrothorn": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -55512,6 +56583,12 @@ exports.BattleLearnsets = {
            "gastroacid": [
            "L38",
         ],
+           "psychicfangs": [
+           "L41",
+        ],
+           "acrobatics": [
+           "L41",
+        ],
            "thunderbolt": [
            "L45",
            "M",
@@ -55541,6 +56618,12 @@ exports.BattleLearnsets = {
         ],
            "knockoff": [
            "L80",
+        ],
+           "paraboliccharge": [
+           "L85",
+        ],
+           "voltswitch": [
+           "L95",
         ],
     },
 },
@@ -56241,6 +57324,7 @@ exports.BattleLearnsets = {
         ],
            "guillotine": [
            "L58",
+           "L100",
         ],
            "surf": [
            "L62",
@@ -56520,6 +57604,9 @@ exports.BattleLearnsets = {
            "mountaingale": [
            "L75",
         ],
+           "heavyslam": [
+           "L85",
+        ],
     },
 },
     "cryogonal": {
@@ -56722,6 +57809,9 @@ exports.BattleLearnsets = {
            "toxicspikes": [
            "L1",
         ],
+           "yawn": [
+           "L1",
+        ],
            "absorb": [
            "L1",
         ],
@@ -56783,6 +57873,9 @@ exports.BattleLearnsets = {
         ],
            "spikes": [
            "L90",
+        ],
+           "feint": [
+           "L95",
         ],
     },
 },
@@ -57125,6 +58218,9 @@ exports.BattleLearnsets = {
 },
     "druddigon": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -58197,6 +59293,9 @@ exports.BattleLearnsets = {
            "bravebird": [
            "L85",
         ],
+           "uturn": [
+           "L95",
+        ],
     },
 },
     "heatmor": {
@@ -58332,13 +59431,20 @@ exports.BattleLearnsets = {
            "L81",
            "T",
         ],
-           "burningbulwark": [
-           "L100",
+           "taunt": [
+           "L86",
+           "M",
+        ],
+           "blastburn": [
+           "L95",
         ],
     },
 },
     "durant": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -58425,6 +59531,7 @@ exports.BattleLearnsets = {
         ],
            "guillotine": [
            "L46",
+           "L95",
         ],
            "aerialace": [
            "L47",
@@ -59130,6 +60237,13 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L90",
         ],
+           "thunderwave": [
+           "L95",
+           "M",
+        ],
+           "steelbeam": [
+           "L99",
+        ],
     },
 },
     "terrakion": {
@@ -59225,7 +60339,7 @@ exports.BattleLearnsets = {
            "rockblast": [
            "L25",
         ],
-           "rockpolish": [
+           "block": [
            "L31",
         ],
            "aurasphere": [
@@ -59248,8 +60362,14 @@ exports.BattleLearnsets = {
            "L85",
            "M",
         ],
-           "closecombat": [
+           "scaryface": [
            "L90",
+        ],
+           "closecombat": [
+           "L95",
+        ],
+           "headsmash": [
+           "L99",
         ],
     },
 },
@@ -59372,6 +60492,12 @@ exports.BattleLearnsets = {
         ],
            "closecombat": [
            "L90",
+        ],
+           "synthesis": [
+           "L95",
+        ],
+           "hornleech": [
+           "L99",
         ],
     },
 },
@@ -59504,6 +60630,9 @@ exports.BattleLearnsets = {
         ],
            "heatwave": [
            "L95",
+        ],
+           "aeroblast": [
+           "L100",
         ],
     },
 },
@@ -59644,8 +60773,11 @@ exports.BattleLearnsets = {
            "L91",
            "M",
         ],
-           "supercellslam": [
+           "wildcharge": [
            "L95",
+        ],
+           "supercellslam": [
+           "L100",
         ],
     },
 },
@@ -59796,6 +60928,9 @@ exports.BattleLearnsets = {
         ],
            "highhorsepower": [
            "L95",
+        ],
+           "gravity": [
+           "L100",
         ],
     },
 },
@@ -60021,6 +61156,14 @@ exports.BattleLearnsets = {
            "secretsword": [
            "L90",
         ],
+           "earthpower": [
+           "L95",
+           "M",
+        ],
+           "icebeam": [
+           "L99",
+           "M",
+        ],
     },
 },
     "meloetta": {
@@ -60184,6 +61327,9 @@ exports.BattleLearnsets = {
 },
     "genesect": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -61062,6 +62208,9 @@ exports.BattleLearnsets = {
            "magicroom": [
            "T",
         ],
+           "magicalleaf": [
+           "M",
+        ],
            "psychic": [
            "M",
         ],
@@ -61804,6 +62953,9 @@ exports.BattleLearnsets = {
            "rototiller": [
            "L91",
         ],
+           "uturn": [
+           "L95",
+        ],
     },
 },
     "fletchling": {
@@ -62036,6 +63188,7 @@ exports.BattleLearnsets = {
         ],
            "naturalgift": [
            "L34",
+           "L72",
            "T",
         ],
            "flamecharge": [
@@ -62054,6 +63207,9 @@ exports.BattleLearnsets = {
            "steelwing": [
            "L51",
         ],
+           "blazekick": [
+           "L54",
+        ],
            "acrobatics": [
            "L57",
         ],
@@ -62065,7 +63221,7 @@ exports.BattleLearnsets = {
            "L66",
         ],
            "bravebird": [
-           "L70",
+           "L69",
         ],
            "willowisp": [
            "L75",
@@ -62073,6 +63229,15 @@ exports.BattleLearnsets = {
         ],
            "mirrormove": [
            "L80",
+        ],
+           "overheat": [
+           "L85",
+        ],
+           "feint": [
+           "L95",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -62379,30 +63544,42 @@ exports.BattleLearnsets = {
            "L37",
            "M",
         ],
-           "moonblast": [
+           "dazzlinggleam": [
            "L41",
-           "L55",
+           "M",
         ],
            "petaldance": [
            "L45",
         ],
            "solarbeam": [
-           "L48",
+           "L49",
            "M",
+        ],
+           "alluringvoice": [
+           "L55",
         ],
            "synthesis": [
            "L63",
         ],
            "icywind": [
-           "L70",
+           "L68",
            "M",
         ],
+           "moonblast": [
+           "L72",
+        ],
            "grassknot": [
-           "L75",
+           "L77",
            "M",
+        ],
+           "fleurcannon": [
+           "L86",
         ],
            "protect": [
            "L90",
+        ],
+           "tearfullook": [
+           "L94",
         ],
     },
 },
@@ -62489,35 +63666,53 @@ exports.BattleLearnsets = {
            "L37",
            "M",
         ],
-           "moonblast": [
+           "dazzlinggleam": [
            "L41",
-           "L55",
+           "M",
         ],
            "petaldance": [
            "L45",
         ],
            "solarbeam": [
-           "L48",
+           "L49",
            "M",
+        ],
+           "alluringvoice": [
+           "L55",
         ],
            "synthesis": [
            "L63",
         ],
            "icywind": [
-           "L70",
+           "L68",
            "M",
         ],
+           "moonblast": [
+           "L72",
+        ],
            "grassknot": [
-           "L75",
+           "L77",
            "M",
+        ],
+           "fleurcannon": [
+           "L86",
         ],
            "protect": [
            "L90",
+        ],
+           "tearfullook": [
+           "L94",
         ],
     },
 },
     "florges": {
        "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
            "afteryou": [
            "T",
         ],
@@ -62608,30 +63803,36 @@ exports.BattleLearnsets = {
            "L37",
            "M",
         ],
-           "moonblast": [
+           "dazzlinggleam": [
            "L41",
-           "L55",
+           "M",
         ],
            "petaldance": [
            "L45",
         ],
            "solarbeam": [
-           "L48",
+           "L49",
            "M",
+        ],
+           "alluringvoice": [
+           "L55",
         ],
            "synthesis": [
            "L63",
         ],
            "icywind": [
-           "L70",
+           "L68",
            "M",
         ],
+           "moonblast": [
+           "L72",
+        ],
            "grassknot": [
-           "L75",
+           "L77",
            "M",
         ],
            "fleurcannon": [
-           "L84",
+           "L86",
         ],
            "protect": [
            "L90",
@@ -62864,10 +64065,10 @@ exports.BattleLearnsets = {
            "spikes": [
            "L81",
         ],
-           "stealthrock": [
+           "psychoboost": [
            "L86",
         ],
-           "psychoboost": [
+           "stealthrock": [
            "L90",
         ],
     },
@@ -63044,6 +64245,9 @@ exports.BattleLearnsets = {
 },
     "aegislash": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -63086,7 +64290,14 @@ exports.BattleLearnsets = {
            "solarblade": [
            "M",
         ],
+           "destinybond": [
+           "L1",
+           "L99",
+        ],
            "steelbeam": [
+           "L1",
+        ],
+           "spiritshackle": [
            "L1",
         ],
            "gyroball": [
@@ -63590,6 +64801,9 @@ exports.BattleLearnsets = {
 },
     "barbaracle": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -63682,9 +64896,6 @@ exports.BattleLearnsets = {
         ],
            "xscissor": [
            "M",
-        ],
-           "stealthrock": [
-           "L1",
         ],
            "earthquake": [
            "L1",
@@ -64017,6 +65228,9 @@ exports.BattleLearnsets = {
            "haze": [
            "L86",
         ],
+           "aquaring": [
+           "L90",
+        ],
            "focusblast": [
            "L94",
            "M",
@@ -64209,8 +65423,12 @@ exports.BattleLearnsets = {
            "originpulse": [
            "L75",
         ],
-           "focusblast": [
+           "sludgebomb": [
            "L80",
+           "M",
+        ],
+           "focusblast": [
+           "L85",
            "M",
         ],
     },
@@ -64472,6 +65690,9 @@ exports.BattleLearnsets = {
            "L82",
            "M",
         ],
+           "dragonrush": [
+           "L82",
+        ],
            "magnetrise": [
            "L86",
         ],
@@ -64539,19 +65760,17 @@ exports.BattleLearnsets = {
            "stoneedge": [
            "M",
         ],
-           "tailwhip": [
+           "tackle": [
            "L1",
         ],
-           "tackle": [
+           "tailwhip": [
            "L5",
         ],
-           "roar": [
-           "L8",
-           "L16",
+           "breakingswipe": [
+           "L13",
         ],
-           "stomp": [
-           "L12",
-           "L20",
+           "rockblast": [
+           "L18",
         ],
            "bide": [
            "L24",
@@ -64643,19 +65862,17 @@ exports.BattleLearnsets = {
            "scaleshot": [
            "L1",
         ],
-           "tailwhip": [
+           "tackle": [
            "L1",
         ],
-           "tackle": [
+           "tailwhip": [
            "L5",
         ],
-           "roar": [
-           "L8",
-           "L16",
+           "breakingswipe": [
+           "L13",
         ],
-           "stomp": [
-           "L12",
-           "L20",
+           "rockblast": [
+           "L18",
         ],
            "bide": [
            "L24",
@@ -64690,8 +65907,11 @@ exports.BattleLearnsets = {
            "L65",
            "M",
         ],
+           "roar": [
+           "L71",
+        ],
            "outrage": [
-           "L73",
+           "L76",
         ],
            "headsmash": [
            "L80",
@@ -64928,8 +66148,11 @@ exports.BattleLearnsets = {
            "blizzard": [
            "L65",
         ],
+           "roar": [
+           "L71",
+        ],
            "doubleedge": [
-           "L73",
+           "L76",
         ],
            "weatherball": [
            "L77",
@@ -64937,6 +66160,9 @@ exports.BattleLearnsets = {
         ],
            "hyperbeam": [
            "L82",
+        ],
+           "meteorbeam": [
+           "L95",
         ],
     },
 },
@@ -65126,9 +66352,8 @@ exports.BattleLearnsets = {
            "encore": [
            "L1",
         ],
-           "bravebird": [
+           "supercellslam": [
            "L1",
-           "L90",
         ],
            "dualwingbeat": [
            "L1",
@@ -65185,6 +66410,9 @@ exports.BattleLearnsets = {
         ],
            "mefirst": [
            "L85",
+        ],
+           "bravebird": [
+           "L90",
         ],
            "highjumpkick": [
            "L95",
@@ -65254,6 +66482,9 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
+           "magiccoat": [
+           "L1",
+        ],
            "tackle": [
            "L1",
         ],
@@ -65317,6 +66548,9 @@ exports.BattleLearnsets = {
         ],
            "endeavor": [
            "L85",
+        ],
+           "gravity": [
+           "L90",
         ],
            "allyswitch": [
            "L95",
@@ -65606,6 +66840,9 @@ exports.BattleLearnsets = {
         ],
            "dragonenergy": [
            "L90",
+        ],
+           "tearfullook": [
+           "L95",
         ],
     },
 },
@@ -66362,7 +67599,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "icywind": [
-           "L10",
+           "L1",
            "L10",
            "M",
         ],
@@ -66765,6 +68002,9 @@ exports.BattleLearnsets = {
            "dracometeor": [
            "L80",
         ],
+           "dragonrush": [
+           "L82",
+        ],
            "aeroblast": [
            "L85",
         ],
@@ -66902,6 +68142,9 @@ exports.BattleLearnsets = {
            "spite": [
            "L99",
         ],
+           "headlongrush": [
+           "L100",
+        ],
     },
 },
     "diancie": {
@@ -67023,6 +68266,13 @@ exports.BattleLearnsets = {
         ],
            "diamondstorm": [
            "L85",
+        ],
+           "gravity": [
+           "L93",
+        ],
+           "playrough": [
+           "L100",
+           "M",
         ],
     },
 },
@@ -67188,7 +68438,7 @@ exports.BattleLearnsets = {
            "L95",
         ],
            "destinybond": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -67338,6 +68588,10 @@ exports.BattleLearnsets = {
         ],
            "overheat": [
            "L95",
+        ],
+           "explosion": [
+           "L100",
+           "M",
         ],
     },
 },
@@ -67686,6 +68940,9 @@ exports.BattleLearnsets = {
            "poltergeist": [
            "L88",
         ],
+           "uturn": [
+           "L100",
+        ],
     },
 },
     "litten": {
@@ -67934,7 +69191,6 @@ exports.BattleLearnsets = {
         ],
            "partingshot": [
            "L1",
-           "L76",
         ],
            "scratch": [
            "L1",
@@ -67970,7 +69226,7 @@ exports.BattleLearnsets = {
            "L33",
            "L90",
         ],
-           "throatchop": [
+           "snarl": [
            "L38",
         ],
            "flameburst": [
@@ -67983,20 +69239,26 @@ exports.BattleLearnsets = {
            "L53",
            "M",
         ],
-           "darkestlariat": [
-           "L55",
+           "throatchop": [
+           "L57",
         ],
            "crosschop": [
            "L66",
         ],
-           "blazekick": [
+           "darkestlariat": [
            "L72",
+        ],
+           "blazekick": [
+           "L76",
         ],
            "knockoff": [
            "L80",
         ],
            "flareblitz": [
            "L88",
+        ],
+           "overheat": [
+           "L99",
         ],
     },
 },
@@ -68626,6 +69888,13 @@ exports.BattleLearnsets = {
            "L75",
            "T",
         ],
+           "thundercage": [
+           "L82",
+        ],
+           "thunderwave": [
+           "L85",
+           "M",
+        ],
     },
 },
     "crabrawler": {
@@ -68724,18 +69993,37 @@ exports.BattleLearnsets = {
            "sweetscent": [
            "L21",
         ],
-           "bugbuzz": [
-           "L26",
+           "signalbeam": [
+           "L29",
         ],
            "dazzlinggleam": [
-           "L31",
+           "L35",
            "M",
         ],
            "aromatherapy": [
-           "L36",
+           "L42",
+        ],
+           "charm": [
+           "L45",
+        ],
+           "alluringvoice": [
+           "L48",
+        ],
+           "bugbuzz": [
+           "L53",
+        ],
+           "tailwind": [
+           "L57",
+        ],
+           "energyball": [
+           "L65",
+           "M",
         ],
            "moonblast": [
-           "L41",
+           "L71",
+        ],
+           "stickyweb": [
+           "L77",
         ],
     },
 },
@@ -68869,6 +70157,9 @@ exports.BattleLearnsets = {
         ],
            "powder": [
            "L90",
+        ],
+           "healingwish": [
+           "L95",
         ],
            "stickyweb": [
            "L99",
@@ -69046,28 +70337,33 @@ exports.BattleLearnsets = {
            "crunch": [
            "L40",
         ],
-           "rockclimb": [
+           "psychicfangs": [
            "L45",
         ],
            "suckerpunch": [
-           "L50",
-        ],
-           "earthquake": [
-           "L55",
-           "M",
+           "L53",
         ],
            "accelerock": [
            "L60",
         ],
-           "stoneedge": [
+           "rockclimb": [
            "L65",
-           "M",
         ],
-           "mightycleave": [
+           "highhorsepower": [
            "L70",
         ],
            "closecombat": [
            "L75",
+        ],
+           "mightycleave": [
+           "L80",
+        ],
+           "quickguard": [
+           "L85",
+        ],
+           "playrough": [
+           "L90",
+           "M",
         ],
     },
 },
@@ -70189,6 +71485,9 @@ exports.BattleLearnsets = {
            "encore": [
            "L86",
         ],
+           "destinybond": [
+           "L90",
+        ],
     },
 },
     "stufful": {
@@ -70299,6 +71598,9 @@ exports.BattleLearnsets = {
 },
     "bewear": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -70481,6 +71783,9 @@ exports.BattleLearnsets = {
 },
     "golisopod": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -70851,8 +72156,11 @@ exports.BattleLearnsets = {
            "destinybond": [
            "L80",
         ],
-           "sandsearstorm": [
+           "fakeout": [
            "L85",
+        ],
+           "sandsearstorm": [
+           "L90",
         ],
     },
 },
@@ -71053,6 +72361,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -71068,19 +72379,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -71111,13 +72416,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -71140,27 +72438,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -71183,6 +72484,9 @@ exports.BattleLearnsets = {
         ],
            "hiddenpower": [
            "M",
+        ],
+           "magicroom": [
+           "T",
         ],
            "psychic": [
            "M",
@@ -71285,6 +72589,9 @@ exports.BattleLearnsets = {
         ],
            "uturn": [
            "L85",
+        ],
+           "accelerock": [
+           "L90",
         ],
     },
 },
@@ -72031,16 +73338,17 @@ exports.BattleLearnsets = {
            "whirlpool": [
            "T",
         ],
-           "switcheroo": [
+           "heavyslam": [
+           "L1",
+           "L95",
+        ],
+           "steelroller": [
+           "L1",
+        ],
+           "synthesis": [
            "L1",
         ],
            "absorb": [
-           "L1",
-        ],
-           "growth": [
-           "L1",
-        ],
-           "rapidspin": [
            "L1",
         ],
            "astonish": [
@@ -72049,44 +73357,77 @@ exports.BattleLearnsets = {
            "megadrain": [
            "L5",
         ],
-           "wrap": [
+           "spite": [
            "L9",
         ],
-           "gyroball": [
+           "seedbomb": [
            "L14",
-        ],
-           "metalsound": [
-           "L18",
-        ],
-           "gigadrain": [
-           "L23",
-        ],
-           "whirlpool": [
-           "L27",
            "T",
         ],
-           "anchorshot": [
-           "L32",
+           "shadowclaw": [
+           "L20",
+           "T",
+        ],
+           "metalsound": [
+           "L30",
+        ],
+           "liquidation": [
+           "L35",
+           "M",
+        ],
+           "rapidspin": [
+           "L40",
+        ],
+           "painsplit": [
+           "L45",
         ],
            "shadowball": [
-           "L36",
+           "L50",
            "M",
         ],
            "energyball": [
-           "L41",
+           "L55",
            "M",
         ],
-           "slam": [
-           "L45",
+           "gyroball": [
+           "L60",
         ],
-           "heavyslam": [
-           "L50",
+           "bodypress": [
+           "L65",
         ],
-           "phantomforce": [
-           "L54",
+           "gigadrain": [
+           "L69",
+        ],
+           "spiritshackle": [
+           "L69",
+        ],
+           "anchorshot": [
+           "L73",
+        ],
+           "knockoff": [
+           "L77",
         ],
            "powerwhip": [
-           "L59",
+           "L82",
+        ],
+           "phantomforce": [
+           "L82",
+        ],
+           "hardpress": [
+           "L86",
+           "M",
+        ],
+           "destinybond": [
+           "L90",
+        ],
+           "heavyslam": [
+           "L95",
+        ],
+           "poltergeist": [
+           "L99",
+        ],
+           "allyswitch": [
+           "L100",
         ],
     },
 },
@@ -73109,6 +74450,9 @@ exports.BattleLearnsets = {
 },
     "buzzwole": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "brickbreak": [
            "T",
         ],
@@ -73502,6 +74846,9 @@ exports.BattleLearnsets = {
 },
     "celesteela": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bulldoze": [
            "M",
         ],
@@ -73752,6 +75099,9 @@ exports.BattleLearnsets = {
 },
     "guzzlord": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "brickbreak": [
            "T",
         ],
@@ -74140,6 +75490,9 @@ exports.BattleLearnsets = {
            "luckychant": [
            "L65",
         ],
+           "vacuumwave": [
+           "L70",
+        ],
            "painsplit": [
            "L75",
         ],
@@ -74270,21 +75623,18 @@ exports.BattleLearnsets = {
            "L70",
         ],
            "suckerpunch": [
-           "L75",
+           "L76",
         ],
            "shadowpunch": [
-           "L80",
+           "L82",
         ],
            "forcepalm": [
-           "L85",
+           "L88",
         ],
            "snatch": [
-           "L90",
+           "L94",
         ],
-           "poltergeist": [
-           "L95",
-        ],
-           "closecombat": [
+           "superpower": [
            "L100",
         ],
     },
@@ -74518,6 +75868,9 @@ exports.BattleLearnsets = {
 },
     "stakataka": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bind": [
            "T",
         ],
@@ -74909,7 +76262,7 @@ exports.BattleLearnsets = {
            "L95",
         ],
            "plasmafists": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -74951,6 +76304,9 @@ exports.BattleLearnsets = {
 },
     "melmetal": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "brickbreak": [
            "T",
         ],
@@ -75034,9 +76390,6 @@ exports.BattleLearnsets = {
            "M",
         ],
            "doubleironbash": [
-           "L99",
-        ],
-           "selfdestruct": [
            "L100",
         ],
     },
@@ -76001,7 +77354,7 @@ exports.BattleLearnsets = {
            "bodypress": [
            "L46",
         ],
-           "ironhead": [
+           "magnetbomb": [
            "L51",
         ],
            "tailwind": [
@@ -76013,6 +77366,9 @@ exports.BattleLearnsets = {
         ],
            "roost": [
            "L68",
+        ],
+           "ironhead": [
+           "L72",
         ],
            "bravebird": [
            "L76",
@@ -76334,6 +77690,7 @@ exports.BattleLearnsets = {
         ],
            "rapidspin": [
            "L16",
+           "L80",
         ],
            "leaftornado": [
            "L21",
@@ -76380,6 +77737,12 @@ exports.BattleLearnsets = {
            "leechseed": [
            "L82",
         ],
+           "floralhealing": [
+           "L86",
+        ],
+           "healingwish": [
+           "L90",
+        ],
     },
 },
     "wooloo": {
@@ -76417,8 +77780,9 @@ exports.BattleLearnsets = {
            "headbutt": [
            "L25",
         ],
-           "takedown": [
+           "rocktomb": [
            "L28",
+           "M",
         ],
            "guardswap": [
            "L32",
@@ -76483,6 +77847,9 @@ exports.BattleLearnsets = {
            "thunderwave": [
            "M",
         ],
+           "wonderroom": [
+           "T",
+        ],
            "rest": [
            "L1",
         ],
@@ -76517,8 +77884,9 @@ exports.BattleLearnsets = {
            "headbutt": [
            "L25",
         ],
-           "takedown": [
+           "rocktomb": [
            "L28",
+           "M",
         ],
            "guardswap": [
            "L32",
@@ -76562,7 +77930,10 @@ exports.BattleLearnsets = {
            "L77",
         ],
            "toxic": [
-           "L84",
+           "L82",
+        ],
+           "mimic": [
+           "L86",
         ],
            "lastresort": [
            "L90",
@@ -76723,6 +78094,9 @@ exports.BattleLearnsets = {
         ],
            "wavecrash": [
            "L81",
+        ],
+           "rockclimb": [
+           "L88",
         ],
            "fishiousrend": [
            "L95",
@@ -77167,6 +78541,9 @@ exports.BattleLearnsets = {
            "astonish": [
            "L1",
         ],
+           "sweetscent": [
+           "L5",
+        ],
            "dracometeor": [
            "L50",
         ],
@@ -77210,7 +78587,13 @@ exports.BattleLearnsets = {
            "solarbeam": [
            "M",
         ],
+           "astonish": [
+           "L1",
+        ],
            "wingattack": [
+           "L5",
+        ],
+           "sweetscent": [
            "L5",
         ],
            "recycle": [
@@ -77264,6 +78647,9 @@ exports.BattleLearnsets = {
            "dragonenergy": [
            "L75",
         ],
+           "dragonrush": [
+           "L82",
+        ],
     },
 },
     "appletun": {
@@ -77304,7 +78690,13 @@ exports.BattleLearnsets = {
            "stompingtantrum": [
            "T",
         ],
+           "astonish": [
+           "L1",
+        ],
            "headbutt": [
+           "L5",
+        ],
+           "sweetscent": [
            "L5",
         ],
            "recycle": [
@@ -77337,8 +78729,16 @@ exports.BattleLearnsets = {
         ],
            "energyball": [
            "L44",
-           "L50",
            "M",
+        ],
+           "lightscreen": [
+           "L49",
+        ],
+           "reflect": [
+           "L52",
+        ],
+           "highhorsepower": [
+           "L55",
         ],
            "leafstorm": [
            "L60",
@@ -77346,8 +78746,12 @@ exports.BattleLearnsets = {
            "dracometeor": [
            "L70",
         ],
-           "protect": [
-           "L78",
+           "dragontail": [
+           "L75",
+        ],
+           "endure": [
+           "L82",
+           "M",
         ],
     },
 },
@@ -77435,6 +78839,9 @@ exports.BattleLearnsets = {
            "whirlpool": [
            "T",
         ],
+           "bounce": [
+           "L1",
+        ],
            "laserfocus": [
            "L1",
            "T",
@@ -77444,7 +78851,7 @@ exports.BattleLearnsets = {
         ],
            "icefang": [
            "L15",
-           "L48",
+           "L52",
         ],
            "scaryface": [
            "L20",
@@ -77459,29 +78866,35 @@ exports.BattleLearnsets = {
            "L35",
         ],
            "psychicfangs": [
-           "L40",
+           "L42",
         ],
            "waterfall": [
-           "L44",
+           "L47",
         ],
            "liquidation": [
-           "L51",
+           "L55",
            "M",
         ],
            "closecombat": [
-           "L55",
-        ],
-           "drillrun": [
            "L60",
         ],
+           "drillrun": [
+           "L64",
+        ],
            "aquatail": [
-           "L65",
+           "L68",
         ],
            "flipturn": [
            "L72",
         ],
            "wavecrash": [
            "L80",
+        ],
+           "soak": [
+           "L86",
+        ],
+           "tripledive": [
+           "L99",
         ],
     },
 },
@@ -77745,6 +79158,12 @@ exports.BattleLearnsets = {
            "L75",
            "M",
         ],
+           "lunge": [
+           "L1",
+        ],
+           "mysticalfire": [
+           "L1",
+        ],
            "ember": [
            "L1",
         ],
@@ -77795,6 +79214,18 @@ exports.BattleLearnsets = {
            "willowisp": [
            "L75",
            "M",
+        ],
+           "scald": [
+           "L81",
+        ],
+           "rest": [
+           "L86",
+        ],
+           "sleeptalk": [
+           "L90",
+        ],
+           "overheat": [
+           "L95",
         ],
     },
 },
@@ -77976,6 +79407,14 @@ exports.BattleLearnsets = {
         ],
            "destinybond": [
            "L80",
+        ],
+           "willowisp": [
+           "L85",
+           "M",
+        ],
+           "energyball": [
+           "L90",
+           "M",
         ],
     },
 },
@@ -78649,10 +80088,16 @@ exports.BattleLearnsets = {
            "imprison": [
            "L99",
         ],
+           "steelbeam": [
+           "L100",
+        ],
     },
 },
     "obstagoon": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aquacutter": [
            "T",
         ],
@@ -78865,12 +80310,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
-           "hardpress": [
-           "L1",
-           "M",
-        ],
            "metalburst": [
            "L1",
+           "L90",
+        ],
+           "thunderwave": [
+           "L1",
+           "M",
         ],
            "growl": [
            "L1",
@@ -78926,11 +80372,24 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L66",
         ],
+           "charm": [
+           "L71",
+        ],
            "gunkshot": [
-           "L73",
+           "L76",
         ],
            "uturn": [
            "L80",
+        ],
+           "hardpress": [
+           "L85",
+           "M",
+        ],
+           "metalburst": [
+           "L90",
+        ],
+           "flail": [
+           "L95",
         ],
     },
 },
@@ -79189,21 +80648,27 @@ exports.BattleLearnsets = {
            "teeterdance": [
            "L52",
         ],
-           "synchronoise": [
-           "L66",
-        ],
            "icebeam": [
            "L60",
            "M",
         ],
+           "synchronoise": [
+           "L66",
+        ],
            "slackoff": [
            "L70",
         ],
-           "blizzard": [
+           "glaciate": [
            "L75",
         ],
+           "knockoff": [
+           "L82",
+        ],
            "instruct": [
-           "L80",
+           "L86",
+        ],
+           "spotlight": [
+           "L95",
         ],
     },
 },
@@ -79265,6 +80730,9 @@ exports.BattleLearnsets = {
         ],
            "wonderroom": [
            "T",
+        ],
+           "knockoff": [
+           "L1",
         ],
            "bodypress": [
            "L1",
@@ -79330,6 +80798,9 @@ exports.BattleLearnsets = {
         ],
            "imprison": [
            "L90",
+        ],
+           "partingshot": [
+           "L95",
         ],
     },
 },
@@ -79451,6 +80922,12 @@ exports.BattleLearnsets = {
            "imprison": [
            "L1",
         ],
+           "tearfullook": [
+           "L1",
+        ],
+           "luckychant": [
+           "L1",
+        ],
            "aromatherapy": [
            "L1",
         ],
@@ -79461,10 +80938,10 @@ exports.BattleLearnsets = {
            "L1",
         ],
            "sweetkiss": [
-           "L1",
+           "L5",
         ],
            "sweetscent": [
-           "L1",
+           "L10",
         ],
            "disarmingvoice": [
            "L15",
@@ -79474,6 +80951,7 @@ exports.BattleLearnsets = {
         ],
            "drainingkiss": [
            "L25",
+           "L82",
            "M",
         ],
            "gigadrain": [
@@ -79512,14 +80990,23 @@ exports.BattleLearnsets = {
            "decorate": [
            "L77",
         ],
+           "fling": [
+           "L82",
+        ],
+           "allyswitch": [
+           "L86",
+        ],
            "mistyexplosion": [
-           "L88",
+           "L90",
            "M",
         ],
     },
 },
     "falinks": {
        "learnset": {
+           "aquacutter": [
+           "T",
+        ],
            "brickbreak": [
            "T",
         ],
@@ -79538,8 +81025,14 @@ exports.BattleLearnsets = {
            "helpinghand": [
            "T",
         ],
+           "nightslash": [
+           "T",
+        ],
            "poisonjab": [
            "M",
+        ],
+           "psychocut": [
+           "T",
         ],
            "rockslide": [
            "T",
@@ -79550,8 +81043,15 @@ exports.BattleLearnsets = {
            "smartstrike": [
            "M",
         ],
+           "fakeout": [
+           "L1",
+        ],
            "beatup": [
            "L1",
+        ],
+           "xscissor": [
+           "L1",
+           "M",
         ],
            "tackle": [
            "L1",
@@ -79606,13 +81106,23 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L70",
         ],
+           "leafblade": [
+           "L74",
+        ],
            "upperhand": [
            "L78",
         ],
-           "megahorn": [
-           "L83",
+           "sacredsword": [
+           "L82",
         ],
-           "noretreat": [
+           "megahorn": [
+           "L86",
+        ],
+           "solarblade": [
+           "L90",
+           "M",
+        ],
+           "behemothblade": [
            "L94",
         ],
            "endeavor": [
@@ -80025,6 +81535,9 @@ exports.BattleLearnsets = {
            "reversal": [
            "L82",
         ],
+           "glaciate": [
+           "L86",
+        ],
     },
 },
     "indeedee": {
@@ -80109,9 +81622,9 @@ exports.BattleLearnsets = {
            "L25",
            "T",
         ],
-           "wildcharge": [
+           "thunderpunch": [
            "L30",
-           "L80",
+           "T",
         ],
            "seedbomb": [
            "L35",
@@ -80120,8 +81633,11 @@ exports.BattleLearnsets = {
            "crunch": [
            "L40",
         ],
+           "zingzap": [
+           "L45",
+        ],
            "aurawheel": [
-           "L46",
+           "L48",
         ],
            "stompingtantrum": [
            "L51",
@@ -80136,11 +81652,20 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L72",
         ],
+           "wildcharge": [
+           "L80",
+        ],
            "suckerpunch": [
            "L85",
         ],
            "supercellslam": [
            "L90",
+        ],
+           "endeavor": [
+           "L95",
+        ],
+           "fling": [
+           "L100",
         ],
     },
 },
@@ -80326,6 +81851,9 @@ exports.BattleLearnsets = {
            "outrage": [
            "L88",
         ],
+           "stealthrock": [
+           "L95",
+        ],
     },
 },
     "dracozolt": {
@@ -80456,8 +81984,11 @@ exports.BattleLearnsets = {
            "dracometeor": [
            "L77",
         ],
+           "dragonrush": [
+           "L82",
+        ],
            "outrage": [
-           "L79",
+           "L90",
         ],
     },
 },
@@ -80666,8 +82197,11 @@ exports.BattleLearnsets = {
            "psychicfangs": [
            "L78",
         ],
+           "dragonrush": [
+           "L82",
+        ],
            "outrage": [
-           "L86",
+           "L90",
         ],
     },
 },
@@ -81078,6 +82612,10 @@ exports.BattleLearnsets = {
            "willowisp": [
            "M",
         ],
+           "destinybond": [
+           "L1",
+           "L99",
+        ],
            "thunderbolt": [
            "L1",
            "M",
@@ -81132,6 +82670,9 @@ exports.BattleLearnsets = {
            "willowisp": [
            "L50",
            "M",
+        ],
+           "steelwing": [
+           "L57",
         ],
            "shadowball": [
            "L65",
@@ -81248,7 +82789,7 @@ exports.BattleLearnsets = {
            "L70",
         ],
            "closecombat": [
-           "L95",
+           "L100",
         ],
     },
 },
@@ -81373,7 +82914,7 @@ exports.BattleLearnsets = {
            "L92",
         ],
            "closecombat": [
-           "L98",
+           "L100",
         ],
     },
 },
@@ -81495,7 +83036,7 @@ exports.BattleLearnsets = {
            "L95",
         ],
            "powerwhip": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -81861,6 +83402,10 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
+           "skillswap": [
+           "L1",
+           "M",
+        ],
            "pound": [
            "L1",
         ],
@@ -81940,6 +83485,9 @@ exports.BattleLearnsets = {
            "helpinghand": [
            "T",
         ],
+           "magicroom": [
+           "T",
+        ],
            "psychic": [
            "M",
         ],
@@ -81960,6 +83508,9 @@ exports.BattleLearnsets = {
         ],
            "thunderbolt": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
         ],
            "mefirst": [
            "L1",
@@ -82227,6 +83778,9 @@ exports.BattleLearnsets = {
            "thunderpunch": [
            "T",
         ],
+           "knockoff": [
+           "L1",
+        ],
            "gunkshot": [
            "L1",
         ],
@@ -82285,7 +83839,7 @@ exports.BattleLearnsets = {
            "L86",
         ],
            "headlongrush": [
-           "L91",
+           "L90",
         ],
            "facade": [
            "L95",
@@ -82457,6 +84011,11 @@ exports.BattleLearnsets = {
            "focuspunch": [
            "L1",
         ],
+           "lowkick": [
+           "L1",
+           "L55",
+           "M",
+        ],
            "coaching": [
            "L1",
         ],
@@ -82491,10 +84050,6 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L50",
         ],
-           "lowkick": [
-           "L55",
-           "M",
-        ],
            "poisonjab": [
            "L60",
            "M",
@@ -82512,14 +84067,17 @@ exports.BattleLearnsets = {
            "L80",
            "M",
         ],
-           "closecombat": [
+           "jumpkick": [
            "L85",
         ],
            "upperhand": [
            "L90",
         ],
-           "gunkshot": [
+           "closecombat": [
            "L95",
+        ],
+           "gunkshot": [
+           "L99",
         ],
     },
 },
@@ -82567,7 +84125,14 @@ exports.BattleLearnsets = {
            "taunt": [
            "M",
         ],
+           "explosion": [
+           "L1",
+           "M",
+        ],
            "spikes": [
+           "L1",
+        ],
+           "snarl": [
            "L1",
         ],
            "poisonsting": [
@@ -82605,7 +84170,7 @@ exports.BattleLearnsets = {
            "L41",
            "M",
         ],
-           "aquatail": [
+           "waterfall": [
            "L45",
         ],
            "crunch": [
@@ -82615,7 +84180,7 @@ exports.BattleLearnsets = {
            "L49",
            "M",
         ],
-           "destinybond": [
+           "mortalspin": [
            "L53",
         ],
            "throatchop": [
@@ -82624,12 +84189,21 @@ exports.BattleLearnsets = {
            "gunkshot": [
            "L65",
         ],
-           "knockoff": [
-           "L74",
-        ],
-           "explosion": [
-           "L80",
+           "liquidation": [
+           "L71",
            "M",
+        ],
+           "knockoff": [
+           "L77",
+        ],
+           "destinybond": [
+           "L82",
+        ],
+           "aquatail": [
+           "L85",
+        ],
+           "selfdestruct": [
+           "L90",
         ],
     },
 },
@@ -82734,6 +84308,9 @@ exports.BattleLearnsets = {
         ],
            "superpower": [
            "L95",
+        ],
+           "tailwind": [
+           "L100",
         ],
     },
 },
@@ -83118,10 +84695,6 @@ exports.BattleLearnsets = {
            "yawn": [
            "L45",
         ],
-           "flamethrower": [
-           "L50",
-           "M",
-        ],
            "alluringvoice": [
            "L55",
         ],
@@ -83136,11 +84709,12 @@ exports.BattleLearnsets = {
            "L70",
            "M",
         ],
-           "heatwave": [
+           "flamethrower": [
            "L75",
+           "M",
         ],
            "slackoff": [
-           "L77",
+           "L80",
         ],
     },
 },
@@ -83212,10 +84786,6 @@ exports.BattleLearnsets = {
            "yawn": [
            "L45",
         ],
-           "flamethrower": [
-           "L50",
-           "M",
-        ],
            "alluringvoice": [
            "L55",
         ],
@@ -83230,11 +84800,12 @@ exports.BattleLearnsets = {
            "L70",
            "M",
         ],
-           "heatwave": [
+           "flamethrower": [
            "L75",
+           "M",
         ],
            "slackoff": [
-           "L77",
+           "L80",
         ],
     },
 },
@@ -83803,6 +85374,16 @@ exports.BattleLearnsets = {
            "uturn": [
            "L80",
         ],
+           "taunt": [
+           "L86",
+           "M",
+        ],
+           "reversal": [
+           "L90",
+        ],
+           "fling": [
+           "L99",
+        ],
     },
 },
     "pawmi": {
@@ -84318,8 +85899,11 @@ exports.BattleLearnsets = {
            "sweetscent": [
            "L49",
         ],
+           "rest": [
+           "L53",
+        ],
            "bodypress": [
-           "L55",
+           "L57",
         ],
            "copycat": [
            "L60",
@@ -84333,8 +85917,17 @@ exports.BattleLearnsets = {
            "scaryface": [
            "L75",
         ],
-           "protect": [
+           "knockoff": [
            "L80",
+        ],
+           "protect": [
+           "L85",
+        ],
+           "endeavor": [
+           "L90",
+        ],
+           "spotlight": [
+           "L95",
         ],
     },
 },
@@ -84607,6 +86200,9 @@ exports.BattleLearnsets = {
         ],
            "strengthsap": [
            "L90",
+        ],
+           "healingwish": [
+           "L95",
         ],
     },
 },
@@ -85495,6 +87091,7 @@ exports.BattleLearnsets = {
         ],
            "tailwind": [
            "L23",
+           "L84",
         ],
            "dualwingbeat": [
            "L29",
@@ -85539,8 +87136,11 @@ exports.BattleLearnsets = {
            "voltswitch": [
            "L78",
         ],
+           "risingvoltage": [
+           "L90",
+        ],
            "aeroblast": [
-           "L83",
+           "L95",
         ],
     },
 },
@@ -85752,22 +87352,46 @@ exports.BattleLearnsets = {
            "slash": [
            "L21",
         ],
-           "uturn": [
-           "L25",
+           "doodle": [
+           "L35",
         ],
            "poisonjab": [
-           "L29",
+           "L42",
            "M",
         ],
-           "taunt": [
-           "L33",
+           "return": [
+           "L46",
            "M",
         ],
-           "knockoff": [
-           "L40",
+           "fakeout": [
+           "L55",
+        ],
+           "copycat": [
+           "L60",
+        ],
+           "lowsweep": [
+           "L65",
         ],
            "gunkshot": [
-           "L45",
+           "L69",
+        ],
+           "dig": [
+           "L72",
+        ],
+           "partingshot": [
+           "L75",
+        ],
+           "knockoff": [
+           "L80",
+        ],
+           "doubleedge": [
+           "L85",
+        ],
+           "toxic": [
+           "L90",
+        ],
+           "psychup": [
+           "L95",
         ],
     },
 },
@@ -85877,8 +87501,8 @@ exports.BattleLearnsets = {
            "toxic": [
            "L90",
         ],
-           "substitute": [
-           "L97",
+           "psychup": [
+           "L95",
         ],
     },
 },
@@ -86289,6 +87913,9 @@ exports.BattleLearnsets = {
            "scaryface": [
            "L85",
         ],
+           "substitute": [
+           "L90",
+        ],
     },
 },
     "klawf": {
@@ -86328,6 +87955,9 @@ exports.BattleLearnsets = {
         ],
            "xscissor": [
            "M",
+        ],
+           "throatchop": [
+           "L1",
         ],
            "visegrip": [
            "L1",
@@ -86376,12 +88006,18 @@ exports.BattleLearnsets = {
            "crabhammer": [
            "L56",
         ],
-           "stoneedge": [
+           "temperflare": [
            "L65",
-           "M",
         ],
            "rockclimb": [
            "L75",
+        ],
+           "stoneedge": [
+           "L85",
+           "M",
+        ],
+           "guillotine": [
+           "L90",
         ],
     },
 },
@@ -86561,6 +88197,9 @@ exports.BattleLearnsets = {
            "overheat": [
            "L67",
         ],
+           "flareblitz": [
+           "L67",
+        ],
            "naturalgift": [
            "L72",
            "T",
@@ -86568,8 +88207,14 @@ exports.BattleLearnsets = {
            "leafstorm": [
            "L75",
         ],
+           "knockoff": [
+           "L82",
+        ],
            "ragepowder": [
-           "L80",
+           "L86",
+        ],
+           "heatwave": [
+           "L90",
         ],
     },
 },
@@ -87162,9 +88807,6 @@ exports.BattleLearnsets = {
 },
     "tinkaton": {
        "learnset": {
-           "magicroom": [
-           "T",
-        ],
            "wonderroom": [
            "T",
         ],
@@ -87253,6 +88895,7 @@ exports.BattleLearnsets = {
         ],
            "fakeout": [
            "L39",
+           "L85",
         ],
            "flatter": [
            "L43",
@@ -87262,6 +88905,7 @@ exports.BattleLearnsets = {
         ],
            "knockoff": [
            "L52",
+           "L95",
         ],
            "ironhead": [
            "L60",
@@ -87273,11 +88917,18 @@ exports.BattleLearnsets = {
            "L70",
            "M",
         ],
+           "woodhammer": [
+           "L75",
+        ],
            "gigatonhammer": [
            "L80",
         ],
-           "stealthrock": [
+           "skillswap": [
            "L90",
+           "M",
+        ],
+           "endeavor": [
+           "L99",
         ],
     },
 },
@@ -87386,6 +89037,9 @@ exports.BattleLearnsets = {
         ],
            "memento": [
            "L85",
+        ],
+           "uturn": [
+           "L95",
         ],
     },
 },
@@ -87565,6 +89219,9 @@ exports.BattleLearnsets = {
         ],
            "wavecrash": [
            "L90",
+        ],
+           "fling": [
+           "L99",
         ],
     },
 },
@@ -87843,6 +89500,9 @@ exports.BattleLearnsets = {
 },
     "orthworm": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bind": [
            "T",
         ],
@@ -87924,8 +89584,18 @@ exports.BattleLearnsets = {
            "shedtail": [
            "L75",
         ],
+           "metalsound": [
+           "L82",
+        ],
            "rest": [
-           "L83",
+           "L86",
+        ],
+           "hardpress": [
+           "L90",
+           "M",
+        ],
+           "spikes": [
+           "L100",
         ],
     },
 },
@@ -88396,6 +90066,9 @@ exports.BattleLearnsets = {
            "stompingtantrum": [
            "T",
         ],
+           "yawn": [
+           "L1",
+        ],
            "tackle": [
            "L1",
         ],
@@ -88455,10 +90128,32 @@ exports.BattleLearnsets = {
            "superpower": [
            "L75",
         ],
+           "entrainment": [
+           "L80",
+        ],
+           "endure": [
+           "L85",
+           "M",
+        ],
+           "rest": [
+           "L90",
+        ],
+           "sleeptalk": [
+           "L95",
+        ],
+           "glaciate": [
+           "L99",
+        ],
     },
 },
     "veluza": {
        "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
            "chillingwater": [
            "M",
         ],
@@ -88793,12 +90488,6 @@ exports.BattleLearnsets = {
            "thunderbolt": [
            "M",
         ],
-           "fakeout": [
-           "L1",
-        ],
-           "poltergeist": [
-           "L1",
-        ],
            "knockoff": [
            "L1",
         ],
@@ -89048,9 +90737,6 @@ exports.BattleLearnsets = {
            "psychoshift": [
            "L1",
         ],
-           "recycle": [
-           "L1",
-        ],
            "psychup": [
            "L1",
         ],
@@ -89122,6 +90808,9 @@ exports.BattleLearnsets = {
         ],
            "substitute": [
            "L80",
+        ],
+           "rest": [
+           "L90",
         ],
     },
 },
@@ -89277,6 +90966,9 @@ exports.BattleLearnsets = {
 },
     "kingambit": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -89403,6 +91095,9 @@ exports.BattleLearnsets = {
            "payback": [
            "L95",
         ],
+           "guillotine": [
+           "L100",
+        ],
     },
 },
     "greattusk": {
@@ -89511,6 +91206,9 @@ exports.BattleLearnsets = {
            "headlongrush": [
            "L95",
         ],
+           "megahorn": [
+           "L100",
+        ],
     },
 },
     "screamtail": {
@@ -89580,6 +91278,7 @@ exports.BattleLearnsets = {
         ],
            "protect": [
            "L1",
+           "L100",
         ],
            "stealthrock": [
            "L1",
@@ -89641,6 +91340,9 @@ exports.BattleLearnsets = {
         ],
            "encore": [
            "L95",
+        ],
+           "protect": [
+           "L100",
         ],
     },
 },
@@ -89741,6 +91443,10 @@ exports.BattleLearnsets = {
         ],
            "synthesis": [
            "L95",
+        ],
+           "foulplay": [
+           "L100",
+           "M",
         ],
     },
 },
@@ -89852,6 +91558,9 @@ exports.BattleLearnsets = {
            "moonblast": [
            "L95",
         ],
+           "imprison": [
+           "L100",
+        ],
     },
 },
     "slitherwing": {
@@ -89948,6 +91657,9 @@ exports.BattleLearnsets = {
            "uturn": [
            "L95",
         ],
+           "reversal": [
+           "L100",
+        ],
     },
 },
     "sandyshocks": {
@@ -90039,8 +91751,11 @@ exports.BattleLearnsets = {
            "L90",
            "M",
         ],
-           "spikes": [
+           "gravity": [
            "L95",
+        ],
+           "spikes": [
+           "L100",
         ],
     },
 },
@@ -90139,6 +91854,9 @@ exports.BattleLearnsets = {
            "L95",
            "M",
         ],
+           "megahorn": [
+           "L100",
+        ],
     },
 },
     "ironbundle": {
@@ -90225,7 +91943,7 @@ exports.BattleLearnsets = {
            "waterpulse": [
            "L70",
         ],
-           "present": [
+           "auroraveil": [
            "L75",
         ],
            "freezedry": [
@@ -90241,6 +91959,9 @@ exports.BattleLearnsets = {
            "icebeam": [
            "L95",
            "M",
+        ],
+           "present": [
+           "L100",
         ],
     },
 },
@@ -90349,12 +92070,17 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L80",
         ],
-           "supercellslam": [
+           "scaryface": [
            "L85",
+        ],
+           "superpower": [
+           "L90",
+        ],
+           "supercellslam": [
            "L95",
         ],
            "closecombat": [
-           "L90",
+           "L100",
         ],
     },
 },
@@ -90393,9 +92119,9 @@ exports.BattleLearnsets = {
            "taunt": [
            "M",
         ],
-           "knockoff": [
+           "focusblast": [
            "L1",
-           "L60",
+           "M",
         ],
            "tailwind": [
            "L1",
@@ -90458,6 +92184,9 @@ exports.BattleLearnsets = {
         ],
            "aeroblast": [
            "L95",
+        ],
+           "meteorbeam": [
+           "L100",
         ],
     },
 },
@@ -90560,6 +92289,9 @@ exports.BattleLearnsets = {
         ],
            "fierydance": [
            "L95",
+        ],
+           "burnup": [
+           "L100",
         ],
     },
 },
@@ -90682,9 +92414,8 @@ exports.BattleLearnsets = {
            "wildcharge": [
            "L70",
         ],
-           "stoneedge": [
+           "knockoff": [
            "L75",
-           "M",
         ],
            "supercellslam": [
            "L80",
@@ -90697,6 +92428,9 @@ exports.BattleLearnsets = {
         ],
            "stealthrock": [
            "L95",
+        ],
+           "gravity": [
+           "L100",
         ],
     },
 },
@@ -90911,6 +92645,9 @@ exports.BattleLearnsets = {
            "scaleshot": [
            "L1",
         ],
+           "dragonrush": [
+           "L1",
+        ],
            "dragoncheer": [
            "L1",
         ],
@@ -91052,6 +92789,10 @@ exports.BattleLearnsets = {
            "thunderbolt": [
            "M",
         ],
+           "destinybond": [
+           "L1",
+           "L99",
+        ],
            "focusblast": [
            "L1",
            "M",
@@ -91158,6 +92899,9 @@ exports.BattleLearnsets = {
            "taunt": [
            "M",
         ],
+           "knockoff": [
+           "L1",
+        ],
            "absorb": [
            "L1",
         ],
@@ -91177,45 +92921,37 @@ exports.BattleLearnsets = {
            "L15",
         ],
            "stunspore": [
-           "L15",
-        ],
-           "megadrain": [
            "L20",
         ],
-           "leechseed": [
+           "ingrain": [
            "L25",
         ],
-           "growth": [
-           "L30",
-        ],
-           "ingrain": [
-           "L35",
-        ],
            "darkpulse": [
-           "L40",
+           "L30",
            "M",
         ],
            "gigadrain": [
-           "L45",
+           "L40",
         ],
-           "ruination": [
+           "bodypress": [
            "L50",
         ],
-           "foulplay": [
-           "L55",
-           "M",
-        ],
-           "powerwhip": [
+           "ruination": [
            "L60",
         ],
-           "grassyterrain": [
-           "L65",
-        ],
-           "knockoff": [
+           "energyball": [
            "L70",
+           "M",
+        ],
+           "leechseed": [
+           "L80",
+        ],
+           "foulplay": [
+           "L90",
+           "M",
         ],
            "leafstorm": [
-           "L75",
+           "L100",
         ],
     },
 },
@@ -91242,6 +92978,9 @@ exports.BattleLearnsets = {
            "taunt": [
            "M",
         ],
+           "darkestlariat": [
+           "L1",
+        ],
            "powdersnow": [
            "L1",
         ],
@@ -91261,46 +93000,36 @@ exports.BattleLearnsets = {
            "mist": [
            "L15",
         ],
-           "haze": [
-           "L15",
-        ],
-           "iceshard": [
+           "snarl": [
            "L20",
         ],
-           "swordsdance": [
+           "haze": [
            "L25",
         ],
-           "snowscape": [
+           "iceshard": [
            "L30",
         ],
-           "nightslash": [
-           "L35",
-           "T",
-        ],
-           "darkpulse": [
-           "L40",
-           "M",
-        ],
-           "iciclecrash": [
-           "L45",
-        ],
-           "ruination": [
-           "L50",
-        ],
            "suckerpunch": [
-           "L55",
+           "L40",
         ],
            "sacredsword": [
+           "L50",
+        ],
+           "ruination": [
            "L60",
         ],
-           "recover": [
-           "L65",
-        ],
-           "throatchop": [
+           "icespinner": [
            "L70",
         ],
-           "sheercold": [
-           "L75",
+           "taunt": [
+           "L80",
+           "M",
+        ],
+           "throatchop": [
+           "L90",
+        ],
+           "iciclecrash": [
+           "L100",
         ],
     },
 },
@@ -91339,6 +93068,9 @@ exports.BattleLearnsets = {
            "taunt": [
            "M",
         ],
+           "highhorsepower": [
+           "L1",
+        ],
            "sandtomb": [
            "L1",
            "T",
@@ -91349,56 +93081,48 @@ exports.BattleLearnsets = {
            "meanlook": [
            "L1",
         ],
-           "spikes": [
+           "payback": [
            "L5",
         ],
-           "payback": [
+           "stomp": [
            "L10",
         ],
-           "stomp": [
-           "L15",
-        ],
            "bulldoze": [
-           "L20",
+           "L15",
            "M",
         ],
            "whirlwind": [
-           "L25",
+           "L20",
         ],
            "taunt": [
+           "L25",
+           "M",
+        ],
+           "heavyslam": [
            "L30",
-           "M",
-        ],
-           "thrash": [
-           "L35",
-        ],
-           "darkpulse": [
-           "L40",
-           "M",
         ],
            "stompingtantrum": [
-           "L45",
+           "L40",
            "T",
         ],
-           "ruination": [
+           "bodypress": [
            "L50",
         ],
-           "throatchop": [
-           "L55",
-        ],
-           "rockslide": [
+           "ruination": [
            "L60",
-           "T",
-        ],
-           "memento": [
-           "L65",
-        ],
-           "earthquake": [
-           "L70",
-           "M",
         ],
            "fissure": [
-           "L75",
+           "L70",
+        ],
+           "memento": [
+           "L80",
+        ],
+           "throatchop": [
+           "L90",
+        ],
+           "earthquake": [
+           "L100",
+           "M",
         ],
     },
 },
@@ -91431,6 +93155,9 @@ exports.BattleLearnsets = {
            "willowisp": [
            "M",
         ],
+           "heatwave": [
+           "L1",
+        ],
            "ember": [
            "L1",
         ],
@@ -91459,33 +93186,29 @@ exports.BattleLearnsets = {
            "confuseray": [
            "L30",
         ],
-           "nastyplot": [
-           "L35",
-        ],
-           "darkpulse": [
+           "burningjealousy": [
            "L40",
+        ],
+           "psychic": [
+           "L50",
            "M",
         ],
-           "lavaplume": [
-           "L45",
-        ],
            "ruination": [
-           "L50",
-        ],
-           "bounce": [
-           "L55",
-        ],
-           "swagger": [
            "L60",
         ],
-           "inferno": [
-           "L65",
+           "flamethrower": [
+           "L70",
+           "M",
         ],
            "memento": [
-           "L70",
+           "L80",
+        ],
+           "darkpulse": [
+           "L90",
+           "M",
         ],
            "overheat": [
-           "L75",
+           "L100",
         ],
     },
 },
@@ -91608,6 +93331,10 @@ exports.BattleLearnsets = {
         ],
            "outrage": [
            "L95",
+        ],
+           "taunt": [
+           "L100",
+           "M",
         ],
     },
 },
@@ -91756,6 +93483,10 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L95",
         ],
+           "taunt": [
+           "L100",
+           "M",
+        ],
     },
 },
     "koraidon": {
@@ -91858,6 +93589,9 @@ exports.BattleLearnsets = {
            "hydrosteam": [
            "L95",
         ],
+           "flipturn": [
+           "L100",
+        ],
     },
 },
     "ironleaves": {
@@ -91956,6 +93690,9 @@ exports.BattleLearnsets = {
            "L95",
            "M",
         ],
+           "woodhammer": [
+           "L100",
+        ],
     },
 },
     "dipplin": {
@@ -91971,6 +93708,9 @@ exports.BattleLearnsets = {
         ],
            "infestation": [
            "T",
+        ],
+           "astonish": [
+           "L1",
         ],
            "doublehit": [
            "L25",
@@ -92203,6 +93943,9 @@ exports.BattleLearnsets = {
            "thunderpunch": [
            "T",
         ],
+           "howl": [
+           "L1",
+        ],
            "bite": [
            "L1",
         ],
@@ -92210,10 +93953,7 @@ exports.BattleLearnsets = {
            "L1",
            "M",
         ],
-           "bulkup": [
-           "L1",
-        ],
-           "howl": [
+           "upperhand": [
            "L8",
         ],
            "poisonfang": [
@@ -92225,21 +93965,34 @@ exports.BattleLearnsets = {
            "counter": [
            "L32",
         ],
-           "poisonjab": [
+           "drainpunch": [
            "L40",
+        ],
+           "taunt": [
+           "L48",
            "M",
         ],
-           "brutalswing": [
-           "L48",
-        ],
-           "crunch": [
+           "bodypress": [
            "L56",
         ],
-           "superpower": [
+           "poisonjab": [
            "L64",
+           "M",
         ],
-           "gigaimpact": [
+           "knockoff": [
            "L72",
+        ],
+           "superpower": [
+           "L80",
+        ],
+           "gunkshot": [
+           "L88",
+        ],
+           "highhorsepower": [
+           "L96",
+        ],
+           "closecombat": [
+           "L100",
         ],
     },
 },
@@ -92263,16 +94016,13 @@ exports.BattleLearnsets = {
            "endure": [
            "M",
         ],
+           "flatter": [
+           "L1",
+        ],
            "scratch": [
            "L1",
         ],
            "confusion": [
-           "L1",
-        ],
-           "fakeout": [
-           "L1",
-        ],
-           "flatter": [
            "L1",
         ],
            "helpinghand": [
@@ -92285,25 +94035,39 @@ exports.BattleLearnsets = {
            "clearsmog": [
            "L24",
         ],
-           "poisonjab": [
+           "mirrorcoat": [
            "L32",
+        ],
+           "psychicnoise": [
+           "L40",
+        ],
+           "taunt": [
+           "L48",
            "M",
         ],
+           "psyshock": [
+           "L56",
+        ],
+           "sludgebomb": [
+           "L64",
+           "M",
+        ],
+           "fakeout": [
+           "L72",
+        ],
            "psychic": [
-           "L40",
+           "L80",
            "M",
         ],
            "sludgewave": [
-           "L48",
+           "L88",
         ],
-           "nastyplot": [
-           "L56",
+           "focusblast": [
+           "L96",
+           "M",
         ],
            "futuresight": [
-           "L64",
-        ],
-           "partingshot": [
-           "L72",
+           "L100",
         ],
     },
 },
@@ -92330,16 +94094,13 @@ exports.BattleLearnsets = {
            "icywind": [
            "M",
         ],
-           "doublekick": [
+           "toxic": [
            "L1",
         ],
            "peck": [
            "L1",
         ],
            "poisongas": [
-           "L1",
-        ],
-           "disarmingvoice": [
            "L1",
         ],
            "quickattack": [
@@ -92351,27 +94112,37 @@ exports.BattleLearnsets = {
            "wingattack": [
            "L24",
         ],
-           "crosspoison": [
+           "uturn": [
            "L32",
-           "T",
         ],
-           "tailslap": [
+           "alluringvoice": [
            "L40",
         ],
-           "beatup": [
+           "swagger": [
            "L48",
         ],
-           "flatter": [
+           "playrough": [
            "L56",
+           "M",
         ],
-           "swagger": [
-           "L56",
-        ],
-           "roost": [
+           "acidspray": [
            "L64",
         ],
-           "moonblast": [
+           "tailwind": [
            "L72",
+        ],
+           "moonblast": [
+           "L80",
+        ],
+           "sludgebomb": [
+           "L88",
+           "M",
+        ],
+           "heatwave": [
+           "L96",
+        ],
+           "roost": [
+           "L100",
         ],
     },
 },
@@ -92492,6 +94263,7 @@ exports.BattleLearnsets = {
         ],
            "yawn": [
            "L1",
+           "L86",
         ],
            "doublehit": [
            "L25",
@@ -92622,6 +94394,9 @@ exports.BattleLearnsets = {
            "flareblitz": [
            "L95",
         ],
+           "extremespeed": [
+           "L100",
+        ],
     },
 },
     "ragingbolt": {
@@ -92716,6 +94491,9 @@ exports.BattleLearnsets = {
         ],
            "dracometeor": [
            "L95",
+        ],
+           "paraboliccharge": [
+           "L100",
         ],
     },
 },
@@ -92817,6 +94595,9 @@ exports.BattleLearnsets = {
            "mightycleave": [
            "L95",
         ],
+           "accelerock": [
+           "L100",
+        ],
     },
 },
     "ironcrown": {
@@ -92857,8 +94638,9 @@ exports.BattleLearnsets = {
            "upperhand": [
            "L1",
         ],
-           "quickguard": [
+           "gravity": [
            "L1",
+           "L50",
         ],
            "leer": [
            "L1",
@@ -92886,9 +94668,6 @@ exports.BattleLearnsets = {
            "metalburst": [
            "L40",
         ],
-           "gravity": [
-           "L50",
-        ],
            "psychicnoise": [
            "L60",
         ],
@@ -92910,6 +94689,9 @@ exports.BattleLearnsets = {
         ],
            "tachyoncutter": [
            "L95",
+        ],
+           "steelbeam": [
+           "L100",
         ],
     },
 },
@@ -92979,8 +94761,11 @@ exports.BattleLearnsets = {
            "malignantchain": [
            "L88",
         ],
-           "recover": [
+           "memento": [
            "L96",
+        ],
+           "recover": [
+           "L100",
         ],
     },
 },
@@ -93201,6 +94986,9 @@ exports.BattleLearnsets = {
            "scaleshot": [
            "L1",
         ],
+           "knockoff": [
+           "L1",
+        ],
            "roost": [
            "L1",
         ],
@@ -93260,10 +95048,17 @@ exports.BattleLearnsets = {
            "L74",
         ],
            "flareblitz": [
-           "L80",
+           "L78",
+        ],
+           "dragonrush": [
+           "L82",
         ],
            "dragonclaw": [
            "L85",
+           "M",
+        ],
+           "defog": [
+           "L90",
            "M",
         ],
            "flamecharge": [
@@ -93357,6 +95152,9 @@ exports.BattleLearnsets = {
            "scaleshot": [
            "L1",
         ],
+           "knockoff": [
+           "L1",
+        ],
            "roost": [
            "L1",
         ],
@@ -93416,10 +95214,17 @@ exports.BattleLearnsets = {
            "L74",
         ],
            "flareblitz": [
-           "L80",
+           "L78",
+        ],
+           "dragonrush": [
+           "L82",
         ],
            "dragonclaw": [
            "L85",
+           "M",
+        ],
+           "defog": [
+           "L90",
            "M",
         ],
            "flamecharge": [
@@ -93670,10 +95475,10 @@ exports.BattleLearnsets = {
            "leechlife": [
            "L78",
         ],
-           "uturn": [
+           "gunkshot": [
            "L84",
         ],
-           "gunkshot": [
+           "uturn": [
            "L88",
         ],
            "endeavor": [
@@ -93768,6 +95573,13 @@ exports.BattleLearnsets = {
         ],
            "hyperbeam": [
            "L86",
+        ],
+           "defog": [
+           "L90",
+           "M",
+        ],
+           "skyattack": [
+           "L95",
         ],
     },
 },
@@ -93913,25 +95725,29 @@ exports.BattleLearnsets = {
            "L65",
         ],
            "taunt": [
-           "L73",
+           "L71",
            "M",
         ],
-           "psystrike": [
+           "grassknot": [
+           "L77",
+           "M",
+        ],
+           "futuresight": [
            "L80",
         ],
            "foulplay": [
            "L85",
            "M",
         ],
-           "futuresight": [
+           "gravity": [
            "L90",
         ],
            "focusblast": [
            "L95",
            "M",
         ],
-           "psychoboost": [
-           "L99",
+           "psystrike": [
+           "L100",
         ],
     },
 },
@@ -94065,9 +95881,8 @@ exports.BattleLearnsets = {
            "L45",
            "M",
         ],
-           "psychic": [
+           "psybeam": [
            "L49",
-           "M",
         ],
            "yawn": [
            "L54",
@@ -94075,18 +95890,21 @@ exports.BattleLearnsets = {
            "healpulse": [
            "L58",
         ],
-           "surf": [
+           "scald": [
            "L65",
         ],
-           "slackoff": [
+           "psychic": [
            "L70",
+           "M",
         ],
-           "futuresight": [
+           "slackoff": [
            "L75",
         ],
-           "hydropump": [
+           "futuresight": [
            "L80",
-           "T",
+        ],
+           "bodypress": [
+           "L85",
         ],
     },
 },
@@ -94273,6 +96091,9 @@ exports.BattleLearnsets = {
 },
     "kangaskhanmega": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -94447,6 +96268,9 @@ exports.BattleLearnsets = {
 },
     "pinsirmega": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bind": [
            "T",
         ],
@@ -94550,6 +96374,7 @@ exports.BattleLearnsets = {
         ],
            "guillotine": [
            "L50",
+           "L100",
         ],
            "return": [
            "L55",
@@ -94583,6 +96408,9 @@ exports.BattleLearnsets = {
         ],
            "gigaimpact": [
            "L99",
+        ],
+           "flail": [
+           "L100",
         ],
     },
 },
@@ -94724,6 +96552,12 @@ exports.BattleLearnsets = {
            "L90",
            "M",
         ],
+           "payback": [
+           "L95",
+        ],
+           "outrage": [
+           "L99",
+        ],
     },
 },
     "aerodactylmega": {
@@ -94863,16 +96697,17 @@ exports.BattleLearnsets = {
            "L80",
            "M",
         ],
-           "rockclimb": [
+           "defog": [
            "L85",
+           "M",
         ],
            "skyattack": [
            "L90",
         ],
-           "headsmash": [
+           "roost": [
            "L95",
         ],
-           "bravebird": [
+           "headsmash": [
            "L100",
         ],
     },
@@ -95033,6 +96868,9 @@ exports.BattleLearnsets = {
 },
     "steelixmega": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "bind": [
            "T",
         ],
@@ -95160,12 +96998,15 @@ exports.BattleLearnsets = {
            "bodypress": [
            "L65",
         ],
+           "roar": [
+           "L71",
+        ],
            "earthquake": [
-           "L73",
+           "L76",
            "M",
         ],
            "heavyslam": [
-           "L80",
+           "L82",
         ],
     },
 },
@@ -95377,6 +97218,7 @@ exports.BattleLearnsets = {
         ],
            "feint": [
            "L7",
+           "L91",
         ],
            "aerialace": [
            "L10",
@@ -95438,11 +97280,11 @@ exports.BattleLearnsets = {
            "leechlife": [
            "L86",
         ],
-           "reversal": [
-           "L91",
-        ],
            "sleeptalk": [
            "L95",
+        ],
+           "reversal": [
+           "L100",
         ],
     },
 },
@@ -95507,6 +97349,10 @@ exports.BattleLearnsets = {
         ],
            "heatwave": [
            "L1",
+           "L59",
+        ],
+           "beatup": [
+           "L1",
         ],
            "sludgebomb": [
            "L1",
@@ -95551,6 +97397,9 @@ exports.BattleLearnsets = {
            "L40",
            "M",
         ],
+           "psychicfangs": [
+           "L45",
+        ],
            "flamethrower": [
            "L47",
            "M",
@@ -95559,23 +97408,26 @@ exports.BattleLearnsets = {
            "L54",
            "M",
         ],
-           "inferno": [
+           "heatwave": [
            "L59",
         ],
            "suckerpunch": [
            "L62",
         ],
            "destinybond": [
-           "L64",
+           "L66",
         ],
            "overheat": [
            "L70",
         ],
-           "fierywrath": [
-           "L80",
+           "nightdaze": [
+           "L75",
         ],
            "comeuppance": [
-           "L90",
+           "L80",
+        ],
+           "fierywrath": [
+           "L85",
         ],
     },
 },
@@ -96467,6 +98319,9 @@ exports.BattleLearnsets = {
            "lowkick": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -96521,6 +98376,9 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "partingshot": [
+           "L1",
+        ],
            "imprison": [
            "L1",
         ],
@@ -96532,6 +98390,9 @@ exports.BattleLearnsets = {
            "M",
         ],
            "gravity": [
+           "L1",
+        ],
+           "feint": [
            "L1",
         ],
            "leer": [
@@ -96612,14 +98473,20 @@ exports.BattleLearnsets = {
            "recover": [
            "L90",
         ],
-           "thunderwave": [
+           "spotlight": [
            "L95",
+        ],
+           "thunderwave": [
+           "L99",
            "M",
         ],
     },
 },
     "mawilemega": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aquacutter": [
            "T",
         ],
@@ -96789,6 +98656,9 @@ exports.BattleLearnsets = {
 },
     "aggronmega": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -96953,11 +98823,17 @@ exports.BattleLearnsets = {
            "doubleedge": [
            "L65",
         ],
-           "headsmash": [
+           "magnetbomb": [
            "L70",
+        ],
+           "headsmash": [
+           "L75",
         ],
            "heavyslam": [
            "L80",
+        ],
+           "dragonrush": [
+           "L82",
         ],
            "rockclimb": [
            "L85",
@@ -97123,11 +98999,14 @@ exports.BattleLearnsets = {
            "superpower": [
            "L90",
         ],
-           "closecombat": [
+           "blazekick": [
            "L95",
         ],
+           "closecombat": [
+           "L98",
+        ],
            "allyswitch": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -97205,7 +99084,10 @@ exports.BattleLearnsets = {
            "L39",
         ],
            "charge": [
-           "L44",
+           "L42",
+        ],
+           "psychicfangs": [
+           "L45",
         ],
            "flamethrower": [
            "L49",
@@ -97228,8 +99110,14 @@ exports.BattleLearnsets = {
            "L77",
            "T",
         ],
+           "magnetrise": [
+           "L82",
+        ],
            "overheat": [
            "L85",
+        ],
+           "electroball": [
+           "L90",
         ],
     },
 },
@@ -97299,6 +99187,9 @@ exports.BattleLearnsets = {
            "L1",
            "M",
         ],
+           "feint": [
+           "L1",
+        ],
            "leer": [
            "L1",
         ],
@@ -97365,6 +99256,10 @@ exports.BattleLearnsets = {
         ],
            "jawlock": [
            "L90",
+        ],
+           "torment": [
+           "L95",
+           "M",
         ],
            "protect": [
            "L100",
@@ -97492,6 +99387,9 @@ exports.BattleLearnsets = {
         ],
            "sandsearstorm": [
            "L90",
+        ],
+           "hydrosteam": [
+           "L95",
         ],
     },
 },
@@ -97640,12 +99538,22 @@ exports.BattleLearnsets = {
            "hypervoice": [
            "L70",
         ],
+           "weatherball": [
+           "L77",
+           "T",
+        ],
+           "dragonrush": [
+           "L82",
+        ],
            "facade": [
-           "L80",
+           "L85",
            "M",
         ],
            "dracometeor": [
            "L90",
+        ],
+           "heatwave": [
+           "L95",
         ],
     },
 },
@@ -98336,6 +100244,9 @@ exports.BattleLearnsets = {
         ],
            "thunderpunch": [
            "T",
+        ],
+           "magnetbomb": [
+           "L1",
         ],
            "knockoff": [
            "L1",
@@ -99033,6 +100944,7 @@ exports.BattleLearnsets = {
         ],
            "dragoncheer": [
            "L65",
+           "L99",
         ],
            "dualchop": [
            "L70",
@@ -99041,7 +100953,10 @@ exports.BattleLearnsets = {
            "L75",
         ],
            "ironhead": [
-           "L80",
+           "L78",
+        ],
+           "dragonrush": [
+           "L82",
         ],
            "dragonhammer": [
            "L85",
@@ -99052,6 +100967,9 @@ exports.BattleLearnsets = {
         ],
            "outrage": [
            "L95",
+        ],
+           "dracometeor": [
+           "L100",
         ],
     },
 },
@@ -99387,6 +101305,9 @@ exports.BattleLearnsets = {
            "bulldoze": [
            "M",
         ],
+           "crosspoison": [
+           "T",
+        ],
            "dazzlinggleam": [
            "M",
         ],
@@ -99445,6 +101366,9 @@ exports.BattleLearnsets = {
            "M",
         ],
            "naturalgift": [
+           "T",
+        ],
+           "nightslash": [
            "T",
         ],
            "poisonjab": [
@@ -99777,6 +101701,9 @@ exports.BattleLearnsets = {
            "trickroom": [
            "L90",
         ],
+           "spotlight": [
+           "L95",
+        ],
     },
 },
     "dianciemega": {
@@ -99898,6 +101825,13 @@ exports.BattleLearnsets = {
         ],
            "diamondstorm": [
            "L85",
+        ],
+           "gravity": [
+           "L93",
+        ],
+           "playrough": [
+           "L100",
+           "M",
         ],
     },
 },
@@ -100065,6 +101999,9 @@ exports.BattleLearnsets = {
            "followme": [
            "L85",
         ],
+           "spotlight": [
+           "L95",
+        ],
     },
 },
     "sandshrewalola": {
@@ -100178,6 +102115,9 @@ exports.BattleLearnsets = {
 },
     "sandslashalola": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -100551,6 +102491,9 @@ exports.BattleLearnsets = {
            "encore": [
            "L89",
         ],
+           "spotlight": [
+           "L95",
+        ],
     },
 },
     "diglettalola": {
@@ -100777,6 +102720,7 @@ exports.BattleLearnsets = {
         ],
            "fakeout": [
            "L9",
+           "L79",
         ],
            "furyswipes": [
            "L14",
@@ -100838,6 +102782,12 @@ exports.BattleLearnsets = {
         ],
            "quash": [
            "L86",
+        ],
+           "psychup": [
+           "L90",
+        ],
+           "feint": [
+           "L95",
         ],
     },
 },
@@ -101704,6 +103654,16 @@ exports.BattleLearnsets = {
            "L76",
            "M",
         ],
+           "leechseed": [
+           "L82",
+        ],
+           "explosion": [
+           "L86",
+           "M",
+        ],
+           "trickroom": [
+           "L95",
+        ],
     },
 },
     "marowakalola": {
@@ -101859,6 +103819,12 @@ exports.BattleLearnsets = {
         ],
            "knockoff": [
            "L81",
+        ],
+           "shadowsneak": [
+           "L86",
+        ],
+           "perishsong": [
+           "L90",
         ],
     },
 },
@@ -102108,6 +104074,9 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
+           "allyswitch": [
+           "L1",
+        ],
            "futuresight": [
            "L1",
         ],
@@ -102187,6 +104156,12 @@ exports.BattleLearnsets = {
         ],
            "megahorn": [
            "L90",
+        ],
+           "magiccoat": [
+           "L95",
+        ],
+           "horndrill": [
+           "L100",
         ],
     },
 },
@@ -102659,24 +104634,6 @@ exports.BattleLearnsets = {
            "wonderroom": [
            "T",
         ],
-           "copycat": [
-           "L1",
-        ],
-           "recycle": [
-           "L1",
-        ],
-           "mimic": [
-           "L1",
-        ],
-           "lightscreen": [
-           "L1",
-        ],
-           "reflect": [
-           "L1",
-        ],
-           "safeguard": [
-           "L1",
-        ],
            "pound": [
            "L1",
         ],
@@ -102691,7 +104648,6 @@ exports.BattleLearnsets = {
         ],
            "skillswap": [
            "L16",
-           "L75",
            "M",
         ],
            "icywind": [
@@ -102730,8 +104686,20 @@ exports.BattleLearnsets = {
            "synchronoise": [
            "L66",
         ],
+           "slackoff": [
+           "L70",
+        ],
+           "glaciate": [
+           "L75",
+        ],
+           "knockoff": [
+           "L82",
+        ],
            "instruct": [
-           "L80",
+           "L86",
+        ],
+           "spotlight": [
+           "L95",
         ],
     },
 },
@@ -102813,10 +104781,10 @@ exports.BattleLearnsets = {
            "M",
         ],
            "roost": [
-           "L85",
+           "L89",
         ],
            "futuresight": [
-           "L95",
+           "L97",
         ],
     },
 },
@@ -102897,10 +104865,10 @@ exports.BattleLearnsets = {
            "M",
         ],
            "roost": [
-           "L85",
+           "L89",
         ],
            "closecombat": [
-           "L95",
+           "L97",
         ],
     },
 },
@@ -102982,10 +104950,10 @@ exports.BattleLearnsets = {
            "M",
         ],
            "roost": [
-           "L85",
+           "L89",
         ],
            "foulplay": [
-           "L95",
+           "L97",
            "M",
         ],
     },
@@ -104448,6 +106416,14 @@ exports.BattleLearnsets = {
            "taunt": [
            "M",
         ],
+           "explosion": [
+           "L1",
+           "L86",
+           "M",
+        ],
+           "snarl": [
+           "L1",
+        ],
            "poisonsting": [
            "L5",
         ],
@@ -104483,7 +106459,7 @@ exports.BattleLearnsets = {
            "L41",
            "M",
         ],
-           "aquatail": [
+           "waterfall": [
            "L45",
         ],
            "crunch": [
@@ -104613,14 +106589,17 @@ exports.BattleLearnsets = {
            "L80",
            "M",
         ],
-           "closecombat": [
+           "jumpkick": [
            "L85",
         ],
            "upperhand": [
            "L90",
         ],
-           "gunkshot": [
+           "closecombat": [
            "L95",
+        ],
+           "gunkshot": [
+           "L99",
         ],
     },
 },
@@ -104708,7 +106687,7 @@ exports.BattleLearnsets = {
            "L13",
            "T",
         ],
-           "razorshell": [
+           "dive": [
            "L17",
         ],
            "aquajet": [
@@ -104721,9 +106700,11 @@ exports.BattleLearnsets = {
            "revenge": [
            "L26",
         ],
-           "nightslash": [
+           "waterfall": [
+           "L31",
+        ],
+           "throatchop": [
            "L36",
-           "T",
         ],
            "encore": [
            "L40",
@@ -104735,7 +106716,10 @@ exports.BattleLearnsets = {
            "soak": [
            "L53",
         ],
-           "hydropump": [
+           "drillrun": [
+           "L58",
+        ],
+           "nightslash": [
            "L61",
            "T",
         ],
@@ -105096,10 +107080,10 @@ exports.BattleLearnsets = {
            "doubleedge": [
            "L85",
         ],
-           "astralbarrage": [
+           "hyperbeam": [
            "L90",
         ],
-           "hyperbeam": [
+           "astralbarrage": [
            "L95",
         ],
     },
@@ -105390,6 +107374,9 @@ exports.BattleLearnsets = {
            "L90",
            "M",
         ],
+           "tearfullook": [
+           "L95",
+        ],
     },
 },
     "avalugghisui": {
@@ -105616,6 +107603,9 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L88",
         ],
+           "uturn": [
+           "L100",
+        ],
     },
 },
     "wooperpaldea": {
@@ -105823,9 +107813,8 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L70",
         ],
-           "rockslide": [
+           "wildcharge": [
            "L77",
-           "T",
         ],
            "endeavor": [
            "L82",
@@ -105952,7 +107941,7 @@ exports.BattleLearnsets = {
            "sunnyday": [
            "L100",
         ],
-           "hail": [
+           "snowscape": [
            "L100",
         ],
     },
@@ -106074,7 +108063,7 @@ exports.BattleLearnsets = {
            "sunnyday": [
            "L100",
         ],
-           "hail": [
+           "snowscape": [
            "L100",
         ],
     },
@@ -106196,7 +108185,7 @@ exports.BattleLearnsets = {
            "sunnyday": [
            "L100",
         ],
-           "hail": [
+           "snowscape": [
            "L100",
         ],
     },
@@ -106251,6 +108240,9 @@ exports.BattleLearnsets = {
            "hiddenpower": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -106277,6 +108269,12 @@ exports.BattleLearnsets = {
         ],
            "willowisp": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "paraboliccharge": [
+           "L1",
         ],
            "reflect": [
            "L1",
@@ -106384,6 +108382,9 @@ exports.BattleLearnsets = {
            "hiddenpower": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -106410,6 +108411,12 @@ exports.BattleLearnsets = {
         ],
            "willowisp": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "paraboliccharge": [
+           "L1",
         ],
            "reflect": [
            "L1",
@@ -106517,6 +108524,9 @@ exports.BattleLearnsets = {
            "hiddenpower": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -106543,6 +108553,12 @@ exports.BattleLearnsets = {
         ],
            "willowisp": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "paraboliccharge": [
+           "L1",
         ],
            "reflect": [
            "L1",
@@ -106650,6 +108666,9 @@ exports.BattleLearnsets = {
            "hiddenpower": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -106676,6 +108695,12 @@ exports.BattleLearnsets = {
         ],
            "willowisp": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "paraboliccharge": [
+           "L1",
         ],
            "reflect": [
            "L1",
@@ -106783,6 +108808,9 @@ exports.BattleLearnsets = {
            "hiddenpower": [
            "M",
         ],
+           "magicroom": [
+           "T",
+        ],
            "naturalgift": [
            "T",
         ],
@@ -106809,6 +108837,12 @@ exports.BattleLearnsets = {
         ],
            "willowisp": [
            "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "paraboliccharge": [
+           "L1",
         ],
            "reflect": [
            "L1",
@@ -107511,8 +109545,11 @@ exports.BattleLearnsets = {
            "L91",
            "M",
         ],
-           "supercellslam": [
+           "wildcharge": [
            "L95",
+        ],
+           "supercellslam": [
+           "L100",
         ],
     },
 },
@@ -107656,6 +109693,9 @@ exports.BattleLearnsets = {
            "highhorsepower": [
            "L95",
         ],
+           "gravity": [
+           "L100",
+        ],
     },
 },
     "enamorustherian": {
@@ -107759,6 +109799,9 @@ exports.BattleLearnsets = {
         ],
            "superpower": [
            "L95",
+        ],
+           "tailwind": [
+           "L100",
         ],
     },
 },
@@ -107883,6 +109926,14 @@ exports.BattleLearnsets = {
         ],
            "secretsword": [
            "L90",
+        ],
+           "earthpower": [
+           "L95",
+           "M",
+        ],
+           "icebeam": [
+           "L99",
+           "M",
         ],
     },
 },
@@ -108047,6 +110098,9 @@ exports.BattleLearnsets = {
 },
     "genesectdouse": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -108200,6 +110254,9 @@ exports.BattleLearnsets = {
 },
     "genesectshock": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -108353,6 +110410,9 @@ exports.BattleLearnsets = {
 },
     "genesectburn": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -108506,6 +110566,9 @@ exports.BattleLearnsets = {
 },
     "genesectchill": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -108791,16 +110854,19 @@ exports.BattleLearnsets = {
            "spikes": [
            "L81",
         ],
-           "stealthrock": [
+           "psychoboost": [
            "L86",
         ],
-           "psychoboost": [
+           "stealthrock": [
            "L90",
         ],
     },
 },
     "aegislashshield": {
        "learnset": {
+           "hardpress": [
+           "M",
+        ],
            "aerialace": [
            "M",
         ],
@@ -108843,7 +110909,14 @@ exports.BattleLearnsets = {
            "solarblade": [
            "M",
         ],
+           "destinybond": [
+           "L1",
+           "L99",
+        ],
            "steelbeam": [
+           "L1",
+        ],
+           "spiritshackle": [
            "L1",
         ],
            "gyroball": [
@@ -109918,6 +111991,9 @@ exports.BattleLearnsets = {
            "spite": [
            "L99",
         ],
+           "headlongrush": [
+           "L100",
+        ],
     },
 },
     "zygarde10": {
@@ -110041,6 +112117,9 @@ exports.BattleLearnsets = {
            "spite": [
            "L99",
         ],
+           "headlongrush": [
+           "L100",
+        ],
     },
 },
     "zygarde": {
@@ -110163,6 +112242,9 @@ exports.BattleLearnsets = {
         ],
            "spite": [
            "L99",
+        ],
+           "headlongrush": [
+           "L100",
         ],
     },
 },
@@ -110332,7 +112414,7 @@ exports.BattleLearnsets = {
            "L95",
         ],
            "destinybond": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -110537,7 +112619,7 @@ exports.BattleLearnsets = {
            "crunch": [
            "L40",
         ],
-           "rockclimb": [
+           "psychicfangs": [
            "L45",
         ],
            "suckerpunch": [
@@ -110550,11 +112632,21 @@ exports.BattleLearnsets = {
            "L65",
            "M",
         ],
-           "stealthrock": [
+           "highhorsepower": [
            "L70",
         ],
-           "headsmash": [
+           "stealthrock": [
            "L75",
+        ],
+           "headsmash": [
+           "L80",
+        ],
+           "howl": [
+           "L85",
+        ],
+           "playrough": [
+           "L90",
+           "M",
         ],
     },
 },
@@ -110644,7 +112736,7 @@ exports.BattleLearnsets = {
            "crunch": [
            "L40",
         ],
-           "rockclimb": [
+           "psychicfangs": [
            "L45",
         ],
            "suckerpunch": [
@@ -110662,6 +112754,16 @@ exports.BattleLearnsets = {
         ],
            "closecombat": [
            "L75",
+        ],
+           "rockclimb": [
+           "L80",
+        ],
+           "quickguard": [
+           "L85",
+        ],
+           "playrough": [
+           "L90",
+           "M",
         ],
     },
 },
@@ -110710,6 +112812,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -110725,19 +112830,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -110768,13 +112867,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -110797,27 +112889,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -110862,6 +112957,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -110877,19 +112975,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -110920,13 +113012,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -110949,27 +113034,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -111014,6 +113102,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -111029,19 +113120,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -111072,13 +113157,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -111101,27 +113179,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -111166,6 +113247,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -111181,19 +113265,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -111224,13 +113302,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -111253,27 +113324,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -111318,6 +113392,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -111333,19 +113410,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -111376,13 +113447,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -111405,27 +113469,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -111470,6 +113537,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -111485,19 +113555,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -111528,13 +113592,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -111557,27 +113614,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -111622,6 +113682,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -111637,19 +113700,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -111680,13 +113737,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -111709,27 +113759,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -111774,6 +113827,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -111789,19 +113845,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -111832,13 +113882,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -111861,27 +113904,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -111926,6 +113972,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -111941,19 +113990,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -111984,13 +114027,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -112013,27 +114049,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -112078,6 +114117,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -112093,19 +114135,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -112136,13 +114172,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -112165,27 +114194,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -112230,6 +114262,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -112245,19 +114280,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -112288,13 +114317,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -112317,27 +114339,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -112382,6 +114407,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -112397,19 +114425,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -112440,13 +114462,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -112469,27 +114484,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -112534,6 +114552,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -112549,19 +114570,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -112592,13 +114607,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -112621,27 +114629,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -112686,6 +114697,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -112701,19 +114715,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -112744,13 +114752,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -112773,27 +114774,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -112838,6 +114842,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -112853,19 +114860,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -112896,13 +114897,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -112925,27 +114919,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -112990,6 +114987,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -113005,19 +115005,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -113048,13 +115042,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -113077,27 +115064,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -113142,6 +115132,9 @@ exports.BattleLearnsets = {
            "rockslide": [
            "T",
         ],
+           "rocktomb": [
+           "M",
+        ],
            "shadowball": [
            "M",
         ],
@@ -113157,19 +115150,13 @@ exports.BattleLearnsets = {
            "xscissor": [
            "M",
         ],
+           "multiattack": [
+           "L0",
+        ],
            "moonblast": [
            "L1",
         ],
-           "poisonfang": [
-           "L1",
-        ],
-           "firefang": [
-           "L1",
-        ],
-           "icefang": [
-           "L1",
-        ],
-           "thunderfang": [
+           "extremespeed": [
            "L1",
         ],
            "tackle": [
@@ -113200,13 +115187,6 @@ exports.BattleLearnsets = {
            "L51",
            "M",
         ],
-           "multiattack": [
-           "L55",
-           "L85",
-           "L90",
-           "L95",
-           "L100",
-        ],
            "tailwind": [
            "L60",
         ],
@@ -113229,27 +115209,30 @@ exports.BattleLearnsets = {
            "partingshot": [
            "L70",
         ],
-           "dracometeor": [
-           "L76",
-        ],
-           "leafstorm": [
-           "L78",
-        ],
-           "overheat": [
-           "L80",
-        ],
            "hypervoice": [
            "L82",
         ],
-           "boomburst": [
-           "L85",
-        ],
            "protect": [
+           "L86",
+        ],
+           "dracometeor": [
            "L90",
         ],
-           "explosion": [
+           "leafstorm": [
+           "L90",
+        ],
+           "overheat": [
+           "L90",
+        ],
+           "boomburst": [
            "L95",
+        ],
+           "explosion": [
+           "L99",
            "M",
+        ],
+           "uturn": [
+           "L100",
         ],
     },
 },
@@ -113544,6 +115527,9 @@ exports.BattleLearnsets = {
            "luckychant": [
            "L65",
         ],
+           "vacuumwave": [
+           "L70",
+        ],
            "painsplit": [
            "L75",
         ],
@@ -113790,6 +115776,9 @@ exports.BattleLearnsets = {
            "reversal": [
            "L82",
         ],
+           "glaciate": [
+           "L86",
+        ],
     },
 },
     "indeedeef": {
@@ -113874,9 +115863,9 @@ exports.BattleLearnsets = {
            "L25",
            "T",
         ],
-           "wildcharge": [
+           "thunderpunch": [
            "L30",
-           "L80",
+           "T",
         ],
            "seedbomb": [
            "L35",
@@ -113885,8 +115874,11 @@ exports.BattleLearnsets = {
            "crunch": [
            "L40",
         ],
+           "zingzap": [
+           "L45",
+        ],
            "aurawheel": [
-           "L46",
+           "L48",
         ],
            "stompingtantrum": [
            "L51",
@@ -113901,11 +115893,20 @@ exports.BattleLearnsets = {
            "knockoff": [
            "L72",
         ],
+           "wildcharge": [
+           "L80",
+        ],
            "suckerpunch": [
            "L85",
         ],
            "supercellslam": [
            "L90",
+        ],
+           "endeavor": [
+           "L95",
+        ],
+           "fling": [
+           "L100",
         ],
     },
 },
@@ -114043,7 +116044,7 @@ exports.BattleLearnsets = {
            "L92",
         ],
            "closecombat": [
-           "L98",
+           "L100",
         ],
     },
 },
@@ -114165,7 +116166,7 @@ exports.BattleLearnsets = {
            "L95",
         ],
            "powerwhip": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -114390,6 +116391,9 @@ exports.BattleLearnsets = {
         ],
            "wavecrash": [
            "L90",
+        ],
+           "fling": [
+           "L99",
         ],
     },
 },
@@ -114881,9 +116885,8 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L70",
         ],
-           "rockslide": [
+           "wildcharge": [
            "L77",
-           "T",
         ],
            "endeavor": [
            "L82",
@@ -115003,9 +117006,8 @@ exports.BattleLearnsets = {
            "closecombat": [
            "L70",
         ],
-           "rockslide": [
+           "wildcharge": [
            "L77",
-           "T",
         ],
            "endeavor": [
            "L82",
@@ -115093,7 +117095,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115174,7 +117176,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115255,7 +117257,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115336,7 +117338,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115417,7 +117419,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115498,7 +117500,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115579,7 +117581,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115660,7 +117662,7 @@ exports.BattleLearnsets = {
            "M",
         ],
            "woodhammer": [
-           "L99",
+           "L100",
         ],
     },
 },
@@ -115729,6 +117731,9 @@ exports.BattleLearnsets = {
            "thunderpunch": [
            "T",
         ],
+           "knockoff": [
+           "L1",
+        ],
            "focusblast": [
            "L1",
            "M",
@@ -115771,7 +117776,6 @@ exports.BattleLearnsets = {
         ],
            "earthpower": [
            "L62",
-           "L62",
            "M",
         ],
            "moonblast": [
@@ -115781,13 +117785,13 @@ exports.BattleLearnsets = {
            "L74",
         ],
            "bloodmoon": [
-           "L80",
+           "L81",
         ],
            "yawn": [
            "L86",
         ],
            "headlongrush": [
-           "L91",
+           "L90",
         ],
            "trailblaze": [
            "L95",
@@ -116021,6 +118025,6517 @@ exports.BattleLearnsets = {
 },
     "terapagosstellar": {
        "learnset": {
+    },
+},
+    "clefablemega": {
+       "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "afteryou": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "dazzlinggleam": [
+           "M",
+        ],
+           "drainingkiss": [
+           "M",
+        ],
+           "dualwingbeat": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "magicalleaf": [
+           "M",
+        ],
+           "mistyexplosion": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "seismictoss": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "encore": [
+           "L1",
+        ],
+           "teleport": [
+           "L1",
+        ],
+           "wish": [
+           "L1",
+        ],
+           "hypervoice": [
+           "L1",
+           "L90",
+        ],
+           "pound": [
+           "L1",
+        ],
+           "growl": [
+           "L1",
+        ],
+           "sing": [
+           "L7",
+        ],
+           "doubleslap": [
+           "L10",
+        ],
+           "bestow": [
+           "L20",
+        ],
+           "wakeupslap": [
+           "L23",
+        ],
+           "drainingkiss": [
+           "L27",
+           "M",
+        ],
+           "mysticalfire": [
+           "L31",
+        ],
+           "luckychant": [
+           "L35",
+        ],
+           "dazzlinggleam": [
+           "L40",
+           "M",
+        ],
+           "moonlight": [
+           "L45",
+        ],
+           "flamethrower": [
+           "L46",
+           "M",
+        ],
+           "gravity": [
+           "L49",
+        ],
+           "meteormash": [
+           "L52",
+        ],
+           "knockoff": [
+           "L58",
+        ],
+           "moonblast": [
+           "L64",
+        ],
+           "spotlight": [
+           "L71",
+        ],
+           "airslash": [
+           "L77",
+        ],
+           "followme": [
+           "L82",
+        ],
+           "healingwish": [
+           "L86",
+        ],
+           "meteorbeam": [
+           "L100",
+        ],
+    },
+},
+    "victreebelmega": {
+       "learnset": {
+           "aquacutter": [
+           "T",
+        ],
+           "bind": [
+           "T",
+        ],
+           "bugbite": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "infestation": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "seedbomb": [
+           "T",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "weatherball": [
+           "L1",
+           "L77",
+           "T",
+        ],
+           "alluringvoice": [
+           "L1",
+        ],
+           "strengthsap": [
+           "L1",
+        ],
+           "vinewhip": [
+           "L1",
+        ],
+           "acid": [
+           "L5",
+        ],
+           "razorleaf": [
+           "L10",
+        ],
+           "acidspray": [
+           "L15",
+        ],
+           "megadrain": [
+           "L20",
+        ],
+           "sludge": [
+           "L25",
+        ],
+           "leaftornado": [
+           "L30",
+        ],
+           "sleeppowder": [
+           "L35",
+        ],
+           "stunspore": [
+           "L35",
+        ],
+           "poisonpowder": [
+           "L35",
+        ],
+           "seedbomb": [
+           "L38",
+           "T",
+        ],
+           "gigadrain": [
+           "L38",
+        ],
+           "poisonjab": [
+           "L40",
+           "M",
+        ],
+           "sludgebomb": [
+           "L40",
+           "M",
+        ],
+           "grassknot": [
+           "L45",
+           "M",
+        ],
+           "snaptrap": [
+           "L46",
+        ],
+           "toxic": [
+           "L49",
+        ],
+           "suckerpunch": [
+           "L53",
+        ],
+           "gastroacid": [
+           "L55",
+        ],
+           "knockoff": [
+           "L60",
+        ],
+           "energyball": [
+           "L65",
+           "M",
+        ],
+           "leafblade": [
+           "L65",
+        ],
+           "leafstorm": [
+           "L68",
+        ],
+           "powerwhip": [
+           "L68",
+        ],
+           "naturepower": [
+           "L72",
+        ],
+           "naturalgift": [
+           "L72",
+           "T",
+        ],
+           "weatherball": [
+           "L77",
+           "T",
+        ],
+           "clearsmog": [
+           "L79",
+        ],
+           "playrough": [
+           "L82",
+           "M",
+        ],
+           "gunkshot": [
+           "L86",
+        ],
+           "seedflare": [
+           "L90",
+        ],
+    },
+},
+    "starmiemega": {
+       "learnset": {
+           "aquacutter": [
+           "T",
+        ],
+           "dazzlinggleam": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "psychocut": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "skillswap": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "whirlpool": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "protect": [
+           "L1",
+        ],
+           "skillswap": [
+           "L1",
+           "M",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "harden": [
+           "L1",
+        ],
+           "watergun": [
+           "L4",
+        ],
+           "rapidspin": [
+           "L7",
+        ],
+           "recover": [
+           "L10",
+        ],
+           "psywave": [
+           "L13",
+        ],
+           "swift": [
+           "L16",
+        ],
+           "bubblebeam": [
+           "L18",
+        ],
+           "camouflage": [
+           "L22",
+        ],
+           "brine": [
+           "L28",
+        ],
+           "reflecttype": [
+           "L35",
+        ],
+           "powergem": [
+           "L37",
+        ],
+           "psyshock": [
+           "L42",
+        ],
+           "thunderbolt": [
+           "L46",
+           "M",
+        ],
+           "scald": [
+           "L49",
+        ],
+           "icebeam": [
+           "L55",
+           "M",
+        ],
+           "gravity": [
+           "L60",
+        ],
+           "psychic": [
+           "L63",
+           "M",
+        ],
+           "surf": [
+           "L65",
+        ],
+           "blizzard": [
+           "L69",
+        ],
+           "naturepower": [
+           "L72",
+        ],
+           "thunder": [
+           "L77",
+           "T",
+        ],
+           "spotlight": [
+           "L80",
+        ],
+           "zapcannon": [
+           "L86",
+        ],
+           "waterfall": [
+           "L90",
+        ],
+           "liquidation": [
+           "L95",
+           "M",
+        ],
+           "selfdestruct": [
+           "L99",
+        ],
+           "tripleaxel": [
+           "L100",
+        ],
+    },
+},
+    "dragonitemega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "bind": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "chillingwater": [
+           "M",
+        ],
+           "defog": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "dualwingbeat": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "firespin": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "hurricane": [
+           "T",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "whirlpool": [
+           "T",
+        ],
+           "flamethrower": [
+           "L1",
+           "M",
+        ],
+           "icebeam": [
+           "L1",
+           "M",
+        ],
+           "thunderbolt": [
+           "L1",
+           "M",
+        ],
+           "dracometeor": [
+           "L1",
+        ],
+           "rage": [
+           "L1",
+        ],
+           "thunderwave": [
+           "L5",
+           "M",
+        ],
+           "twister": [
+           "L11",
+        ],
+           "dragonrage": [
+           "L15",
+        ],
+           "aquajet": [
+           "L21",
+        ],
+           "scaleshot": [
+           "L25",
+        ],
+           "dragontail": [
+           "L33",
+        ],
+           "aquatail": [
+           "L39",
+        ],
+           "dragonrush": [
+           "L47",
+        ],
+           "extremespeed": [
+           "L51",
+        ],
+           "skydrop": [
+           "L55",
+        ],
+           "dragonclaw": [
+           "L61",
+           "M",
+        ],
+           "dragonpulse": [
+           "L61",
+        ],
+           "fly": [
+           "L67",
+        ],
+           "hurricane": [
+           "L71",
+           "T",
+        ],
+           "weatherball": [
+           "L76",
+           "T",
+        ],
+           "airslash": [
+           "L79",
+        ],
+           "dualwingbeat": [
+           "L79",
+           "M",
+        ],
+           "roost": [
+           "L82",
+        ],
+           "dragonhammer": [
+           "L85",
+        ],
+           "heatwave": [
+           "L90",
+        ],
+           "outrage": [
+           "L95",
+        ],
+    },
+},
+    "meganiummega": {
+       "learnset": {
+           "bulldoze": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "seedbomb": [
+           "T",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "leechseed": [
+           "L1",
+        ],
+           "earthpower": [
+           "L1",
+           "M",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "growl": [
+           "L1",
+        ],
+           "razorleaf": [
+           "L6",
+        ],
+           "poisonpowder": [
+           "L9",
+        ],
+           "synthesis": [
+           "L12",
+           "L80",
+        ],
+           "reflect": [
+           "L20",
+        ],
+           "magicalleaf": [
+           "L23",
+           "M",
+        ],
+           "naturalgift": [
+           "L26",
+           "T",
+        ],
+           "sweetscent": [
+           "L31",
+        ],
+           "lightscreen": [
+           "L35",
+        ],
+           "bodyslam": [
+           "L43",
+        ],
+           "earthquake": [
+           "L47",
+           "M",
+        ],
+           "aromatherapy": [
+           "L52",
+        ],
+           "solarbeam": [
+           "L59",
+           "M",
+        ],
+           "gigadrain": [
+           "L63",
+        ],
+           "energyball": [
+           "L69",
+           "M",
+        ],
+           "leafstorm": [
+           "L75",
+        ],
+           "bodypress": [
+           "L85",
+        ],
+           "healingwish": [
+           "L90",
+        ],
+           "spotlight": [
+           "L95",
+        ],
+    },
+},
+    "feraligatrmega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "seismictoss": [
+           "M",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "whirlpool": [
+           "T",
+        ],
+           "liquidation": [
+           "L1",
+           "L85",
+           "M",
+        ],
+           "breakingswipe": [
+           "L1",
+        ],
+           "scratch": [
+           "L1",
+        ],
+           "watersport": [
+           "L1",
+        ],
+           "mudsport": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "watergun": [
+           "L6",
+        ],
+           "rage": [
+           "L8",
+        ],
+           "bite": [
+           "L13",
+        ],
+           "scaryface": [
+           "L15",
+        ],
+           "icefang": [
+           "L22",
+        ],
+           "flail": [
+           "L24",
+        ],
+           "crunch": [
+           "L29",
+           "L80",
+        ],
+           "chipaway": [
+           "L31",
+        ],
+           "aquajet": [
+           "L38",
+        ],
+           "screech": [
+           "L41",
+        ],
+           "psychicfangs": [
+           "L45",
+        ],
+           "aquatail": [
+           "L49",
+        ],
+           "superpower": [
+           "L52",
+        ],
+           "hydropump": [
+           "L57",
+           "T",
+        ],
+           "scaleshot": [
+           "L63",
+        ],
+           "waterfall": [
+           "L73",
+        ],
+           "dragonclaw": [
+           "L77",
+           "M",
+        ],
+           "liquidation": [
+           "L85",
+           "M",
+        ],
+           "dragonhammer": [
+           "L90",
+        ],
+           "wavecrash": [
+           "L95",
+        ],
+           "outrage": [
+           "L99",
+        ],
+    },
+},
+    "skarmorymega": {
+       "learnset": {
+           "hardpress": [
+           "M",
+        ],
+           "aerialace": [
+           "M",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "defog": [
+           "M",
+        ],
+           "dualwingbeat": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "sandtomb": [
+           "T",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "magnetbomb": [
+           "L1",
+        ],
+           "spikes": [
+           "L1",
+        ],
+           "whirlwind": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "peck": [
+           "L1",
+        ],
+           "sandattack": [
+           "L6",
+        ],
+           "metalclaw": [
+           "L9",
+        ],
+           "aircutter": [
+           "L12",
+        ],
+           "furyattack": [
+           "L17",
+        ],
+           "feint": [
+           "L20",
+           "L85",
+        ],
+           "swift": [
+           "L23",
+        ],
+           "agility": [
+           "L31",
+        ],
+           "steelwing": [
+           "L34",
+        ],
+           "slash": [
+           "L39",
+        ],
+           "metalsound": [
+           "L42",
+        ],
+           "drillpeck": [
+           "L45",
+        ],
+           "featherdance": [
+           "L50",
+        ],
+           "nightslash": [
+           "L54",
+           "T",
+        ],
+           "defog": [
+           "L60",
+           "M",
+        ],
+           "ironhead": [
+           "L65",
+        ],
+           "roost": [
+           "L70",
+        ],
+           "bodypress": [
+           "L75",
+        ],
+           "bravebird": [
+           "L80",
+        ],
+           "hardpress": [
+           "L90",
+           "M",
+        ],
+    },
+},
+    "froslassmega": {
+       "learnset": {
+           "chillingwater": [
+           "M",
+        ],
+           "drainingkiss": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "weatherball": [
+           "T",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "drainingkiss": [
+           "L1",
+           "L23",
+           "M",
+        ],
+           "taunt": [
+           "L1",
+           "M",
+        ],
+           "powdersnow": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "iceshard": [
+           "L1",
+           "L8",
+        ],
+           "icywind": [
+           "L14",
+           "M",
+        ],
+           "astonish": [
+           "L19",
+        ],
+           "drainingkiss": [
+           "L23",
+           "M",
+        ],
+           "willowisp": [
+           "L28",
+           "M",
+        ],
+           "confuseray": [
+           "L32",
+        ],
+           "ominouswind": [
+           "L37",
+        ],
+           "captivate": [
+           "L41",
+        ],
+           "shadowball": [
+           "L42",
+           "L54",
+           "M",
+        ],
+           "icebeam": [
+           "L48",
+           "M",
+        ],
+           "freezedry": [
+           "L61",
+        ],
+           "poltergeist": [
+           "L64",
+        ],
+           "tripleaxel": [
+           "L67",
+        ],
+           "spikes": [
+           "L70",
+        ],
+           "disable": [
+           "L76",
+        ],
+           "hypervoice": [
+           "L80",
+        ],
+           "spite": [
+           "L85",
+        ],
+           "destinybond": [
+           "L90",
+        ],
+           "hyperbeam": [
+           "L95",
+        ],
+    },
+},
+    "emboarmega": {
+       "learnset": {
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "flamecharge": [
+           "L1",
+           "L15",
+        ],
+           "drainpunch": [
+           "L1",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "tailwhip": [
+           "L3",
+        ],
+           "ember": [
+           "L7",
+        ],
+           "odorsleuth": [
+           "L9",
+        ],
+           "rocktomb": [
+           "L13",
+           "M",
+        ],
+           "flamecharge": [
+           "L15",
+        ],
+           "armthrust": [
+           "L17",
+        ],
+           "incinerate": [
+           "L19",
+        ],
+           "covet": [
+           "L21",
+        ],
+           "takedown": [
+           "L25",
+        ],
+           "heatcrash": [
+           "L28",
+        ],
+           "suckerpunch": [
+           "L31",
+        ],
+           "flamethrower": [
+           "L40",
+           "M",
+        ],
+           "headsmash": [
+           "L46",
+        ],
+           "superpower": [
+           "L52",
+        ],
+           "roar": [
+           "L57",
+        ],
+           "flareblitz": [
+           "L62",
+        ],
+           "vacuumwave": [
+           "L66",
+        ],
+           "knockoff": [
+           "L68",
+        ],
+           "burnup": [
+           "L72",
+        ],
+           "grassknot": [
+           "L77",
+           "M",
+        ],
+           "closecombat": [
+           "L82",
+        ],
+           "coaching": [
+           "L86",
+        ],
+           "blastburn": [
+           "L90",
+        ],
+    },
+},
+    "excadrillmega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "earthpower": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "sandtomb": [
+           "T",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "smartstrike": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "rototiller": [
+           "L1",
+        ],
+           "agility": [
+           "L1",
+        ],
+           "scratch": [
+           "L1",
+        ],
+           "mudsport": [
+           "L1",
+        ],
+           "mudslap": [
+           "L8",
+        ],
+           "furyswipes": [
+           "L12",
+        ],
+           "metalclaw": [
+           "L15",
+        ],
+           "slash": [
+           "L19",
+        ],
+           "dig": [
+           "L26",
+        ],
+           "rockslide": [
+           "L35",
+           "T",
+        ],
+           "smartstrike": [
+           "L40",
+           "M",
+        ],
+           "rapidspin": [
+           "L45",
+        ],
+           "drillrun": [
+           "L55",
+        ],
+           "hyperdrill": [
+           "L60",
+        ],
+           "xscissor": [
+           "L65",
+           "M",
+        ],
+           "ironhead": [
+           "L70",
+        ],
+           "highhorsepower": [
+           "L75",
+        ],
+           "hardpress": [
+           "L80",
+           "M",
+        ],
+           "earthquake": [
+           "L85",
+           "M",
+        ],
+           "headlongrush": [
+           "L90",
+        ],
+           "horndrill": [
+           "L95",
+        ],
+           "megahorn": [
+           "L99",
+        ],
+    },
+},
+    "scolipedemega": {
+       "learnset": {
+           "hardpress": [
+           "M",
+        ],
+           "bugbite": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "crosspoison": [
+           "T",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "infestation": [
+           "T",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "smartstrike": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "mortalspin": [
+           "L1",
+        ],
+           "leechlife": [
+           "L1",
+        ],
+           "steelroller": [
+           "L1",
+        ],
+           "defensecurl": [
+           "L1",
+        ],
+           "rollout": [
+           "L1",
+        ],
+           "poisonsting": [
+           "L5",
+        ],
+           "screech": [
+           "L8",
+           "L45",
+        ],
+           "pursuit": [
+           "L12",
+        ],
+           "protect": [
+           "L15",
+           "L65",
+        ],
+           "poisontail": [
+           "L19",
+        ],
+           "bugbite": [
+           "L22",
+           "T",
+        ],
+           "venoshock": [
+           "L29",
+        ],
+           "steamroller": [
+           "L39",
+        ],
+           "poisonjab": [
+           "L49",
+           "M",
+        ],
+           "smartstrike": [
+           "L52",
+           "M",
+        ],
+           "stompingtantrum": [
+           "L56",
+           "T",
+        ],
+           "xscissor": [
+           "L61",
+           "M",
+        ],
+           "superpower": [
+           "L65",
+        ],
+           "earthquake": [
+           "L70",
+           "M",
+        ],
+           "toxic": [
+           "L73",
+        ],
+           "ironhead": [
+           "L77",
+        ],
+           "megahorn": [
+           "L81",
+        ],
+           "spikes": [
+           "L85",
+        ],
+           "twineedle": [
+           "L90",
+        ],
+           "heavyslam": [
+           "L95",
+        ],
+    },
+},
+    "scraftymega": {
+       "learnset": {
+           "brickbreak": [
+           "T",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "foulplay": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "lashout": [
+           "T",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "torment": [
+           "M",
+        ],
+           "drainpunch": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "headbutt": [
+           "L1",
+        ],
+           "sandattack": [
+           "L5",
+        ],
+           "feintattack": [
+           "L9",
+           "M",
+        ],
+           "lowkick": [
+           "L16",
+           "M",
+        ],
+           "payback": [
+           "L20",
+        ],
+           "brickbreak": [
+           "L23",
+           "L59",
+           "T",
+        ],
+           "chipaway": [
+           "L27",
+        ],
+           "scaryface": [
+           "L34",
+        ],
+           "crunch": [
+           "L38",
+        ],
+           "facade": [
+           "L42",
+           "M",
+        ],
+           "lowsweep": [
+           "L48",
+        ],
+           "fakeout": [
+           "L53",
+        ],
+           "superfang": [
+           "L55",
+        ],
+           "foulplay": [
+           "L65",
+           "M",
+        ],
+           "closecombat": [
+           "L72",
+        ],
+           "knockoff": [
+           "L79",
+        ],
+           "coaching": [
+           "L86",
+        ],
+           "partingshot": [
+           "L90",
+        ],
+    },
+},
+    "eelektrossmega": {
+       "learnset": {
+           "bind": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "bounce": [
+           "L1",
+        ],
+           "thunderwave": [
+           "L1",
+           "M",
+        ],
+           "spark": [
+           "L1",
+        ],
+           "chargebeam": [
+           "L1",
+        ],
+           "bind": [
+           "L9",
+           "T",
+        ],
+           "acidspray": [
+           "L19",
+        ],
+           "discharge": [
+           "L29",
+        ],
+           "gigadrain": [
+           "L33",
+        ],
+           "gastroacid": [
+           "L38",
+        ],
+           "psychicfangs": [
+           "L41",
+        ],
+           "acrobatics": [
+           "L41",
+        ],
+           "thunderbolt": [
+           "L45",
+           "M",
+        ],
+           "flamethrower": [
+           "L48",
+           "M",
+        ],
+           "drainpunch": [
+           "L52",
+        ],
+           "aquatail": [
+           "L57",
+        ],
+           "wildcharge": [
+           "L61",
+        ],
+           "closecombat": [
+           "L65",
+        ],
+           "grassknot": [
+           "L70",
+           "M",
+        ],
+           "supercellslam": [
+           "L75",
+        ],
+           "knockoff": [
+           "L80",
+        ],
+           "paraboliccharge": [
+           "L85",
+        ],
+           "voltswitch": [
+           "L95",
+        ],
+    },
+},
+    "chandeluremega": {
+       "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "firespin": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "psychic": [
+           "L1",
+           "M",
+        ],
+           "painsplit": [
+           "L1",
+        ],
+           "clearsmog": [
+           "L1",
+        ],
+           "smog": [
+           "L1",
+        ],
+           "confuseray": [
+           "L1",
+        ],
+           "flameburst": [
+           "L10",
+        ],
+           "nightshade": [
+           "L20",
+        ],
+           "hiddenpower": [
+           "L30",
+           "M",
+        ],
+           "hex": [
+           "L40",
+        ],
+           "willowisp": [
+           "L45",
+           "M",
+        ],
+           "burningjealousy": [
+           "L50",
+        ],
+           "imprison": [
+           "L55",
+        ],
+           "flamethrower": [
+           "L60",
+           "M",
+        ],
+           "shadowball": [
+           "L65",
+           "M",
+        ],
+           "energyball": [
+           "L70",
+           "M",
+        ],
+           "heatwave": [
+           "L77",
+        ],
+           "dazzlinggleam": [
+           "L82",
+           "M",
+        ],
+           "overheat": [
+           "L86",
+        ],
+           "destinybond": [
+           "L90",
+        ],
+           "inferno": [
+           "L96",
+        ],
+    },
+},
+    "chesnaughtmega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "magicalleaf": [
+           "M",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "seedbomb": [
+           "T",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "coaching": [
+           "L1",
+        ],
+           "wideguard": [
+           "L1",
+        ],
+           "superpower": [
+           "L1",
+        ],
+           "defog": [
+           "L1",
+           "M",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "growl": [
+           "L1",
+        ],
+           "quickguard": [
+           "L1",
+        ],
+           "vinewhip": [
+           "L5",
+        ],
+           "rocktomb": [
+           "L8",
+           "M",
+        ],
+           "absorb": [
+           "L10",
+        ],
+           "trailblaze": [
+           "L12",
+        ],
+           "bite": [
+           "L13",
+        ],
+           "needlearm": [
+           "L20",
+        ],
+           "grassyglide": [
+           "L26",
+        ],
+           "gigadrain": [
+           "L30",
+        ],
+           "spikyshield": [
+           "L36",
+        ],
+           "brickbreak": [
+           "L38",
+           "T",
+        ],
+           "seedbomb": [
+           "L41",
+           "T",
+        ],
+           "superfang": [
+           "L45",
+        ],
+           "bodypress": [
+           "L51",
+        ],
+           "highhorsepower": [
+           "L55",
+        ],
+           "leafblade": [
+           "L59",
+        ],
+           "synthesis": [
+           "L61",
+        ],
+           "hammerarm": [
+           "L66",
+        ],
+           "woodhammer": [
+           "L68",
+        ],
+           "drainpunch": [
+           "L72",
+        ],
+           "leechseed": [
+           "L76",
+        ],
+           "knockoff": [
+           "L81",
+        ],
+           "closecombat": [
+           "L88",
+        ],
+           "spikes": [
+           "L99",
+        ],
+    },
+},
+    "delphoxmega": {
+       "learnset": {
+           "dazzlinggleam": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "firespin": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "foulplay": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "magicroom": [
+           "T",
+        ],
+           "magicalleaf": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "skillswap": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "recycle": [
+           "L1",
+        ],
+           "recover": [
+           "L1",
+        ],
+           "psychoshift": [
+           "L1",
+        ],
+           "blastburn": [
+           "L1",
+        ],
+           "scratch": [
+           "L1",
+        ],
+           "tailwhip": [
+           "L1",
+        ],
+           "hypnosis": [
+           "L1",
+        ],
+           "ember": [
+           "L5",
+        ],
+           "mudshot": [
+           "L8",
+        ],
+           "skillswap": [
+           "L10",
+           "M",
+        ],
+           "flamecharge": [
+           "L12",
+        ],
+           "shockwave": [
+           "L13",
+           "M",
+        ],
+           "incinerate": [
+           "L20",
+        ],
+           "flameburst": [
+           "L26",
+        ],
+           "teleport": [
+           "L30",
+        ],
+           "mysticalfire": [
+           "L36",
+        ],
+           "psybeam": [
+           "L38",
+        ],
+           "topsyturvy": [
+           "L41",
+        ],
+           "psyshock": [
+           "L45",
+        ],
+           "flamethrower": [
+           "L51",
+           "M",
+        ],
+           "scorchingsands": [
+           "L55",
+        ],
+           "psychic": [
+           "L59",
+           "M",
+        ],
+           "heatwave": [
+           "L61",
+        ],
+           "fireblast": [
+           "L66",
+           "T",
+        ],
+           "psystrike": [
+           "L68",
+        ],
+           "grassknot": [
+           "L72",
+           "M",
+        ],
+           "overheat": [
+           "L76",
+        ],
+           "icywind": [
+           "L81",
+           "M",
+        ],
+           "burnup": [
+           "L88",
+        ],
+           "trickroom": [
+           "L99",
+        ],
+    },
+},
+    "greninjamega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "chillingwater": [
+           "M",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "flipturn": [
+           "L1",
+        ],
+           "spikes": [
+           "L1",
+        ],
+           "matblock": [
+           "L1",
+        ],
+           "shadowsneak": [
+           "L1",
+        ],
+           "pound": [
+           "L1",
+        ],
+           "growl": [
+           "L1",
+        ],
+           "mudsport": [
+           "L1",
+        ],
+           "watergun": [
+           "L5",
+        ],
+           "icywind": [
+           "L8",
+           "M",
+        ],
+           "fling": [
+           "L10",
+        ],
+           "chillingwater": [
+           "L12",
+           "M",
+        ],
+           "aerialace": [
+           "L13",
+           "M",
+        ],
+           "waterpulse": [
+           "L20",
+        ],
+           "bubblebeam": [
+           "L26",
+        ],
+           "waterfall": [
+           "L30",
+        ],
+           "watershuriken": [
+           "L36",
+        ],
+           "lowkick": [
+           "L38",
+           "M",
+        ],
+           "darkpulse": [
+           "L41",
+           "M",
+        ],
+           "extrasensory": [
+           "L45",
+        ],
+           "scald": [
+           "L51",
+        ],
+           "dig": [
+           "L55",
+        ],
+           "icebeam": [
+           "L59",
+           "M",
+        ],
+           "acrobatics": [
+           "L61",
+        ],
+           "uturn": [
+           "L66",
+        ],
+           "surf": [
+           "L68",
+        ],
+           "sludgewave": [
+           "L72",
+        ],
+           "nightdaze": [
+           "L76",
+        ],
+           "taunt": [
+           "L81",
+           "M",
+        ],
+           "gunkshot": [
+           "L88",
+        ],
+           "upperhand": [
+           "L99",
+        ],
+    },
+},
+    "pyroarmega": {
+       "learnset": {
+           "bulldoze": [
+           "M",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "feintattack": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "firespin": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "wildcharge": [
+           "L1",
+        ],
+           "flamecharge": [
+           "L1",
+        ],
+           "burningjealousy": [
+           "L1",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "ember": [
+           "L5",
+        ],
+           "headbutt": [
+           "L11",
+        ],
+           "nobleroar": [
+           "L15",
+        ],
+           "takedown": [
+           "L20",
+        ],
+           "flameburst": [
+           "L23",
+        ],
+           "endeavor": [
+           "L28",
+        ],
+           "echoedvoice": [
+           "L33",
+        ],
+           "flamethrower": [
+           "L38",
+           "M",
+        ],
+           "crunch": [
+           "L42",
+        ],
+           "hypervoice": [
+           "L48",
+        ],
+           "yawn": [
+           "L51",
+        ],
+           "heatwave": [
+           "L57",
+        ],
+           "overheat": [
+           "L65",
+        ],
+           "doubleedge": [
+           "L70",
+        ],
+           "willowisp": [
+           "L75",
+           "M",
+        ],
+           "earthpower": [
+           "L80",
+           "M",
+        ],
+           "hyperbeam": [
+           "L86",
+        ],
+    },
+},
+    "floettemega": {
+       "learnset": {
+           "afteryou": [
+           "T",
+        ],
+           "chillingwater": [
+           "M",
+        ],
+           "dazzlinggleam": [
+           "M",
+        ],
+           "drainingkiss": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "magicalleaf": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "seedbomb": [
+           "T",
+        ],
+           "skillswap": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "vinewhip": [
+           "L1",
+        ],
+           "fairywind": [
+           "L6",
+        ],
+           "luckychant": [
+           "L10",
+        ],
+           "razorleaf": [
+           "L15",
+        ],
+           "wish": [
+           "L20",
+        ],
+           "magicalleaf": [
+           "L22",
+           "M",
+        ],
+           "drainingkiss": [
+           "L28",
+           "M",
+        ],
+           "aromatherapy": [
+           "L33",
+        ],
+           "defog": [
+           "L37",
+           "M",
+        ],
+           "dazzlinggleam": [
+           "L41",
+           "M",
+        ],
+           "petaldance": [
+           "L45",
+        ],
+           "solarbeam": [
+           "L49",
+           "M",
+        ],
+           "alluringvoice": [
+           "L55",
+        ],
+           "synthesis": [
+           "L63",
+        ],
+           "icywind": [
+           "L68",
+           "M",
+        ],
+           "moonblast": [
+           "L72",
+        ],
+           "grassknot": [
+           "L77",
+           "M",
+        ],
+           "fleurcannon": [
+           "L86",
+        ],
+           "protect": [
+           "L90",
+        ],
+           "tearfullook": [
+           "L94",
+        ],
+    },
+},
+    "malamarmega": {
+       "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "bind": [
+           "T",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "foulplay": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "lashout": [
+           "T",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "psychocut": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "octolock": [
+           "L1",
+        ],
+           "taunt": [
+           "L1",
+           "M",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "peck": [
+           "L1",
+        ],
+           "constrict": [
+           "L1",
+        ],
+           "reflect": [
+           "L4",
+        ],
+           "foulplay": [
+           "L8",
+           "L64",
+           "M",
+        ],
+           "swagger": [
+           "L12",
+        ],
+           "psywave": [
+           "L13",
+        ],
+           "topsyturvy": [
+           "L15",
+        ],
+           "hypnosis": [
+           "L18",
+        ],
+           "psybeam": [
+           "L21",
+        ],
+           "lightscreen": [
+           "L23",
+        ],
+           "payback": [
+           "L27",
+        ],
+           "simplebeam": [
+           "L33",
+        ],
+           "pluck": [
+           "L37",
+        ],
+           "psychocut": [
+           "L41",
+           "T",
+        ],
+           "faketears": [
+           "L45",
+        ],
+           "nightslash": [
+           "L48",
+           "T",
+        ],
+           "liquidation": [
+           "L53",
+           "M",
+        ],
+           "throatchop": [
+           "L58",
+        ],
+           "zenheadbutt": [
+           "L70",
+        ],
+           "knockoff": [
+           "L75",
+        ],
+           "disable": [
+           "L81",
+        ],
+           "superpower": [
+           "L86",
+        ],
+           "closecombat": [
+           "L86",
+        ],
+           "destinybond": [
+           "L90",
+        ],
+    },
+},
+    "barbaraclemega": {
+       "learnset": {
+           "hardpress": [
+           "M",
+        ],
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "earthpower": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "infestation": [
+           "T",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "whirlpool": [
+           "T",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "earthquake": [
+           "L1",
+           "M",
+        ],
+           "superpower": [
+           "L1",
+        ],
+           "iciclespear": [
+           "L1",
+        ],
+           "scratch": [
+           "L1",
+        ],
+           "watersport": [
+           "L1",
+        ],
+           "sandattack": [
+           "L1",
+        ],
+           "watergun": [
+           "L4",
+        ],
+           "furyswipes": [
+           "L10",
+        ],
+           "slash": [
+           "L14",
+        ],
+           "mudslap": [
+           "L18",
+        ],
+           "clamp": [
+           "L23",
+        ],
+           "ancientpower": [
+           "L28",
+        ],
+           "rocktomb": [
+           "L32",
+           "M",
+        ],
+           "nightslash": [
+           "L37",
+           "T",
+        ],
+           "razorshell": [
+           "L45",
+        ],
+           "rockclimb": [
+           "L50",
+        ],
+           "waterfall": [
+           "L55",
+        ],
+           "lowkick": [
+           "L60",
+           "M",
+        ],
+           "bonerush": [
+           "L65",
+        ],
+           "rockblast": [
+           "L70",
+        ],
+           "armthrust": [
+           "L72",
+        ],
+           "liquidation": [
+           "L77",
+           "M",
+        ],
+           "knockoff": [
+           "L82",
+        ],
+           "xscissor": [
+           "L86",
+           "M",
+        ],
+           "closecombat": [
+           "L90",
+        ],
+           "scaleshot": [
+           "L99",
+        ],
+    },
+},
+    "dragalgemega": {
+       "learnset": {
+           "chillingwater": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "thunderbolt": [
+           "L1",
+           "M",
+        ],
+           "clearsmog": [
+           "L1",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "smokescreen": [
+           "L1",
+        ],
+           "watergun": [
+           "L1",
+        ],
+           "soak": [
+           "L5",
+        ],
+           "poisongas": [
+           "L9",
+        ],
+           "lifedew": [
+           "L12",
+        ],
+           "acidspray": [
+           "L15",
+        ],
+           "spite": [
+           "L19",
+        ],
+           "poisontail": [
+           "L23",
+        ],
+           "waterpulse": [
+           "L25",
+        ],
+           "sludge": [
+           "L28",
+        ],
+           "toxic": [
+           "L32",
+        ],
+           "scald": [
+           "L35",
+        ],
+           "sludgebomb": [
+           "L38",
+           "M",
+        ],
+           "screech": [
+           "L40",
+        ],
+           "flamethrower": [
+           "L45",
+           "M",
+        ],
+           "flipturn": [
+           "L48",
+        ],
+           "dragonpulse": [
+           "L55",
+        ],
+           "sludgewave": [
+           "L61",
+        ],
+           "dracometeor": [
+           "L70",
+        ],
+           "hydropump": [
+           "L74",
+           "T",
+        ],
+           "thunder": [
+           "L77",
+           "T",
+        ],
+           "corrosivegas": [
+           "L82",
+        ],
+           "haze": [
+           "L86",
+        ],
+           "aquaring": [
+           "L90",
+        ],
+           "focusblast": [
+           "L94",
+           "M",
+        ],
+    },
+},
+    "hawluchamega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "defog": [
+           "M",
+        ],
+           "dualwingbeat": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "torment": [
+           "M",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "encore": [
+           "L1",
+        ],
+           "supercellslam": [
+           "L1",
+        ],
+           "dualwingbeat": [
+           "L1",
+           "M",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "karatechop": [
+           "L4",
+        ],
+           "wingattack": [
+           "L8",
+        ],
+           "aerialace": [
+           "L16",
+           "M",
+        ],
+           "fling": [
+           "L24",
+        ],
+           "bounce": [
+           "L28",
+        ],
+           "flyingpress": [
+           "L32",
+        ],
+           "crosschop": [
+           "L36",
+        ],
+           "featherdance": [
+           "L40",
+        ],
+           "skyattack": [
+           "L45",
+        ],
+           "doubleedge": [
+           "L50",
+        ],
+           "skydrop": [
+           "L55",
+        ],
+           "acrobatics": [
+           "L60",
+        ],
+           "jumpkick": [
+           "L70",
+        ],
+           "roost": [
+           "L75",
+        ],
+           "closecombat": [
+           "L80",
+        ],
+           "mefirst": [
+           "L85",
+        ],
+           "bravebird": [
+           "L90",
+        ],
+           "highjumpkick": [
+           "L95",
+        ],
+           "endeavor": [
+           "L99",
+        ],
+    },
+},
+    "zygardemega": {
+       "learnset": {
+    },
+},
+    "drampamega": {
+       "learnset": {
+           "bulldoze": [
+           "M",
+        ],
+           "defog": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "hurricane": [
+           "T",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "lashout": [
+           "T",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "thunderwave": [
+           "L1",
+           "M",
+        ],
+           "tailwind": [
+           "L1",
+        ],
+           "playnice": [
+           "L1",
+        ],
+           "echoedvoice": [
+           "L1",
+        ],
+           "twister": [
+           "L5",
+        ],
+           "glare": [
+           "L13",
+        ],
+           "dragonbreath": [
+           "L21",
+        ],
+           "defog": [
+           "L25",
+           "M",
+        ],
+           "uproar": [
+           "L33",
+        ],
+           "icywind": [
+           "L40",
+           "L59",
+           "M",
+        ],
+           "extrasensory": [
+           "L45",
+        ],
+           "hypervoice": [
+           "L49",
+        ],
+           "flamethrower": [
+           "L53",
+           "M",
+        ],
+           "dragonpulse": [
+           "L56",
+        ],
+           "icebeam": [
+           "L61",
+           "M",
+        ],
+           "surf": [
+           "L61",
+        ],
+           "roost": [
+           "L66",
+        ],
+           "energyball": [
+           "L70",
+           "M",
+        ],
+           "thunderbolt": [
+           "L77",
+           "M",
+        ],
+           "dracometeor": [
+           "L82",
+        ],
+           "boomburst": [
+           "L86",
+        ],
+           "dragonenergy": [
+           "L90",
+        ],
+    },
+},
+    "falinksmega": {
+       "learnset": {
+           "aquacutter": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "focusenergy": [
+           "T",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "nightslash": [
+           "T",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "psychocut": [
+           "T",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "smartstrike": [
+           "M",
+        ],
+           "fakeout": [
+           "L1",
+        ],
+           "beatup": [
+           "L1",
+        ],
+           "xscissor": [
+           "L1",
+           "M",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "endure": [
+           "L1",
+           "L25",
+           "M",
+        ],
+           "counter": [
+           "L1",
+        ],
+           "rocksmash": [
+           "L5",
+        ],
+           "rocktomb": [
+           "L10",
+           "M",
+        ],
+           "headbutt": [
+           "L15",
+        ],
+           "bodypress": [
+           "L20",
+        ],
+           "brickbreak": [
+           "L30",
+           "T",
+        ],
+           "firstimpression": [
+           "L35",
+        ],
+           "detect": [
+           "L40",
+        ],
+           "screech": [
+           "L45",
+        ],
+           "smartstrike": [
+           "L49",
+           "M",
+        ],
+           "closecombat": [
+           "L53",
+        ],
+           "coaching": [
+           "L60",
+        ],
+           "lunge": [
+           "L66",
+        ],
+           "knockoff": [
+           "L70",
+        ],
+           "leafblade": [
+           "L74",
+        ],
+           "upperhand": [
+           "L78",
+        ],
+           "sacredsword": [
+           "L82",
+        ],
+           "megahorn": [
+           "L86",
+        ],
+           "solarblade": [
+           "L90",
+           "M",
+        ],
+           "behemothblade": [
+           "L94",
+        ],
+           "endeavor": [
+           "L99",
+        ],
+    },
+},
+    "raichumegax": {
+       "learnset": {
+           "brickbreak": [
+           "T",
+        ],
+           "drainingkiss": [
+           "M",
+        ],
+           "electroweb": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "seismictoss": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "upperhand": [
+           "L1",
+        ],
+           "grassknot": [
+           "L1",
+           "M",
+        ],
+           "tailwhip": [
+           "L1",
+        ],
+           "thundershock": [
+           "L1",
+        ],
+           "growl": [
+           "L5",
+        ],
+           "playnice": [
+           "L7",
+        ],
+           "quickattack": [
+           "L10",
+        ],
+           "electroball": [
+           "L13",
+        ],
+           "thunderwave": [
+           "L18",
+           "M",
+        ],
+           "fakeout": [
+           "L21",
+        ],
+           "spark": [
+           "L26",
+        ],
+           "nuzzle": [
+           "L34",
+        ],
+           "discharge": [
+           "L38",
+        ],
+           "alluringvoice": [
+           "L45",
+        ],
+           "surf": [
+           "L50",
+        ],
+           "thunderbolt": [
+           "L53",
+           "M",
+        ],
+           "wildcharge": [
+           "L55",
+        ],
+           "thunder": [
+           "L58",
+           "T",
+        ],
+           "knockoff": [
+           "L62",
+        ],
+           "volttackle": [
+           "L74",
+        ],
+           "followme": [
+           "L83",
+        ],
+           "spotlight": [
+           "L95",
+        ],
+    },
+},
+    "raichumegay": {
+       "learnset": {
+           "brickbreak": [
+           "T",
+        ],
+           "drainingkiss": [
+           "M",
+        ],
+           "electroweb": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "seismictoss": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "upperhand": [
+           "L1",
+        ],
+           "grassknot": [
+           "L1",
+           "M",
+        ],
+           "tailwhip": [
+           "L1",
+        ],
+           "thundershock": [
+           "L1",
+        ],
+           "growl": [
+           "L5",
+        ],
+           "playnice": [
+           "L7",
+        ],
+           "quickattack": [
+           "L10",
+        ],
+           "electroball": [
+           "L13",
+        ],
+           "thunderwave": [
+           "L18",
+           "M",
+        ],
+           "fakeout": [
+           "L21",
+        ],
+           "spark": [
+           "L26",
+        ],
+           "nuzzle": [
+           "L34",
+        ],
+           "discharge": [
+           "L38",
+        ],
+           "alluringvoice": [
+           "L45",
+        ],
+           "surf": [
+           "L50",
+        ],
+           "thunderbolt": [
+           "L53",
+           "M",
+        ],
+           "wildcharge": [
+           "L55",
+        ],
+           "thunder": [
+           "L58",
+           "T",
+        ],
+           "knockoff": [
+           "L62",
+        ],
+           "volttackle": [
+           "L74",
+        ],
+           "followme": [
+           "L83",
+        ],
+           "spotlight": [
+           "L95",
+        ],
+    },
+},
+    "chimechomega": {
+       "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "bind": [
+           "T",
+        ],
+           "dazzlinggleam": [
+           "M",
+        ],
+           "defog": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "skillswap": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "healingwish": [
+           "L1",
+           "L57",
+        ],
+           "synchronoise": [
+           "L1",
+           "L52",
+        ],
+           "wrap": [
+           "L1",
+        ],
+           "growl": [
+           "L1",
+           "L4",
+        ],
+           "astonish": [
+           "L1",
+           "L7",
+        ],
+           "confusion": [
+           "L1",
+           "L10",
+        ],
+           "yawn": [
+           "L13",
+        ],
+           "psywave": [
+           "L16",
+        ],
+           "takedown": [
+           "L19",
+        ],
+           "extrasensory": [
+           "L22",
+        ],
+           "healbell": [
+           "L27",
+        ],
+           "uproar": [
+           "L32",
+        ],
+           "safeguard": [
+           "L37",
+        ],
+           "doubleedge": [
+           "L42",
+        ],
+           "healpulse": [
+           "L47",
+        ],
+           "healingwish": [
+           "L57",
+        ],
+    },
+},
+    "absolmegaz": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "focusenergy": [
+           "T",
+        ],
+           "foulplay": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "psychocut": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "flamethrower": [
+           "L1",
+           "M",
+        ],
+           "icebeam": [
+           "L1",
+           "M",
+        ],
+           "thunderbolt": [
+           "L1",
+           "M",
+        ],
+           "spite": [
+           "L1",
+        ],
+           "scratch": [
+           "L1",
+        ],
+           "feint": [
+           "L1",
+        ],
+           "leer": [
+           "L4",
+        ],
+           "quickattack": [
+           "L7",
+        ],
+           "pursuit": [
+           "L10",
+        ],
+           "taunt": [
+           "L13",
+           "M",
+        ],
+           "bite": [
+           "L16",
+        ],
+           "slash": [
+           "L22",
+        ],
+           "nightslash": [
+           "L29",
+           "T",
+        ],
+           "psychocut": [
+           "L37",
+           "T",
+        ],
+           "mefirst": [
+           "L41",
+        ],
+           "throatchop": [
+           "L45",
+        ],
+           "razorwind": [
+           "L49",
+        ],
+           "perishsong": [
+           "L57",
+        ],
+           "suckerpunch": [
+           "L64",
+        ],
+           "playrough": [
+           "L72",
+           "M",
+        ],
+           "knockoff": [
+           "L80",
+        ],
+           "superpower": [
+           "L90",
+        ],
+           "foulplay": [
+           "L95",
+           "M",
+        ],
+           "detect": [
+           "L100",
+        ],
+    },
+},
+    "staraptormega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "defog": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusenergy": [
+           "T",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "hurricane": [
+           "T",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "return": [
+           "M",
+        ],
+           "mirrormove": [
+           "L1",
+        ],
+           "bravebird": [
+           "L1",
+           "L72",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "growl": [
+           "L1",
+        ],
+           "quickattack": [
+           "L5",
+        ],
+           "wingattack": [
+           "L9",
+        ],
+           "endeavor": [
+           "L17",
+           "L53",
+        ],
+           "whirlwind": [
+           "L21",
+        ],
+           "aerialace": [
+           "L27",
+           "M",
+        ],
+           "takedown": [
+           "L31",
+        ],
+           "dualwingbeat": [
+           "L38",
+           "L95",
+           "M",
+        ],
+           "quickguard": [
+           "L41",
+        ],
+           "acrobatics": [
+           "L45",
+        ],
+           "steelwing": [
+           "L46",
+        ],
+           "superpower": [
+           "L49",
+        ],
+           "doubleedge": [
+           "L55",
+        ],
+           "tailwind": [
+           "L58",
+        ],
+           "fly": [
+           "L64",
+        ],
+           "finalgambit": [
+           "L75",
+        ],
+           "facade": [
+           "L80",
+           "M",
+        ],
+           "agility": [
+           "L86",
+        ],
+           "closecombat": [
+           "L90",
+        ],
+    },
+},
+    "garchompmegaz": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "earthpower": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "sandtomb": [
+           "T",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "whirlpool": [
+           "T",
+        ],
+           "aquatail": [
+           "L1",
+        ],
+           "crunch": [
+           "L1",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "sandattack": [
+           "L3",
+        ],
+           "dragonrage": [
+           "L7",
+        ],
+           "takedown": [
+           "L15",
+        ],
+           "sandtomb": [
+           "L21",
+           "T",
+        ],
+           "slash": [
+           "L28",
+        ],
+           "dragontail": [
+           "L36",
+        ],
+           "earthpower": [
+           "L43",
+           "M",
+        ],
+           "poisonjab": [
+           "L50",
+           "M",
+        ],
+           "dragonpulse": [
+           "L55",
+        ],
+           "dragonclaw": [
+           "L55",
+           "M",
+        ],
+           "dig": [
+           "L60",
+        ],
+           "dragoncheer": [
+           "L65",
+           "L99",
+        ],
+           "dualchop": [
+           "L70",
+        ],
+           "highhorsepower": [
+           "L75",
+        ],
+           "ironhead": [
+           "L78",
+        ],
+           "dragonrush": [
+           "L82",
+        ],
+           "dragonhammer": [
+           "L85",
+        ],
+           "earthquake": [
+           "L90",
+           "M",
+        ],
+           "outrage": [
+           "L95",
+        ],
+           "dracometeor": [
+           "L100",
+        ],
+    },
+},
+    "lucariomegaz": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "focusenergy": [
+           "T",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "followme": [
+           "L1",
+        ],
+           "highjumpkick": [
+           "L1",
+        ],
+           "upperhand": [
+           "L1",
+        ],
+           "quickattack": [
+           "L1",
+        ],
+           "metalclaw": [
+           "L5",
+        ],
+           "counter": [
+           "L6",
+        ],
+           "feint": [
+           "L11",
+        ],
+           "forcepalm": [
+           "L15",
+        ],
+           "metalsound": [
+           "L24",
+        ],
+           "bonerush": [
+           "L29",
+        ],
+           "quickguard": [
+           "L33",
+        ],
+           "mefirst": [
+           "L37",
+        ],
+           "vacuumwave": [
+           "L42",
+        ],
+           "bulletpunch": [
+           "L42",
+        ],
+           "flashcannon": [
+           "L47",
+        ],
+           "healpulse": [
+           "L51",
+        ],
+           "skyuppercut": [
+           "L55",
+        ],
+           "lowkick": [
+           "L55",
+           "M",
+        ],
+           "blazekick": [
+           "L60",
+        ],
+           "ironhead": [
+           "L65",
+        ],
+           "aurasphere": [
+           "L70",
+        ],
+           "meteormash": [
+           "L75",
+        ],
+           "extremespeed": [
+           "L80",
+        ],
+           "closecombat": [
+           "L85",
+        ],
+           "focusblast": [
+           "L90",
+           "M",
+        ],
+           "steelbeam": [
+           "L95",
+        ],
+           "finalgambit": [
+           "L100",
+        ],
+    },
+},
+    "heatranmega": {
+       "learnset": {
+           "bugbite": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "earthpower": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "explosion": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "firespin": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "pounce": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "eruption": [
+           "L1",
+        ],
+           "ancientpower": [
+           "L1",
+        ],
+           "leer": [
+           "L9",
+        ],
+           "firefang": [
+           "L17",
+        ],
+           "ironhead": [
+           "L25",
+        ],
+           "crunch": [
+           "L33",
+        ],
+           "scaryface": [
+           "L41",
+        ],
+           "lavaplume": [
+           "L49",
+        ],
+           "torment": [
+           "L54",
+           "M",
+        ],
+           "metalsound": [
+           "L60",
+        ],
+           "flamethrower": [
+           "L65",
+           "M",
+        ],
+           "earthpower": [
+           "L70",
+           "M",
+        ],
+           "flashcannon": [
+           "L75",
+        ],
+           "heatwave": [
+           "L80",
+        ],
+           "willowisp": [
+           "L86",
+           "M",
+        ],
+           "steelbeam": [
+           "L92",
+        ],
+           "magmastorm": [
+           "L100",
+        ],
+    },
+},
+    "darkraimega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "foulplay": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "naturalgift": [
+           "T",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "thunder": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "disable": [
+           "L1",
+        ],
+           "feint": [
+           "L1",
+        ],
+           "nightmare": [
+           "L11",
+        ],
+           "haze": [
+           "L20",
+        ],
+           "suckerpunch": [
+           "L29",
+        ],
+           "snarl": [
+           "L34",
+        ],
+           "psychic": [
+           "L40",
+           "M",
+        ],
+           "spacialrend": [
+           "L50",
+        ],
+           "sludgebomb": [
+           "L55",
+           "M",
+        ],
+           "roaroftime": [
+           "L60",
+        ],
+           "darkpulse": [
+           "L66",
+           "M",
+        ],
+           "icebeam": [
+           "L73",
+           "M",
+        ],
+           "knockoff": [
+           "L78",
+        ],
+           "hypnosis": [
+           "L82",
+        ],
+           "focusblast": [
+           "L85",
+           "M",
+        ],
+           "nightdaze": [
+           "L89",
+        ],
+           "darkvoid": [
+           "L100",
+        ],
+    },
+},
+    "golurkmega": {
+       "learnset": {
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "earthpower": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "firepunch": [
+           "T",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "lowkick": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "heavyslam": [
+           "L1",
+        ],
+           "heatcrash": [
+           "L1",
+        ],
+           "pound": [
+           "L1",
+        ],
+           "astonish": [
+           "L1",
+        ],
+           "defensecurl": [
+           "L1",
+        ],
+           "mudslap": [
+           "L5",
+        ],
+           "rollout": [
+           "L9",
+        ],
+           "irondefense": [
+           "L17",
+        ],
+           "stompingtantrum": [
+           "L21",
+           "T",
+        ],
+           "megapunch": [
+           "L25",
+        ],
+           "shadowpunch": [
+           "L40",
+        ],
+           "drainpunch": [
+           "L50",
+        ],
+           "dynamicpunch": [
+           "L60",
+        ],
+           "stoneedge": [
+           "L65",
+           "M",
+        ],
+           "highhorsepower": [
+           "L70",
+        ],
+           "phantomforce": [
+           "L75",
+        ],
+           "earthquake": [
+           "L80",
+           "M",
+        ],
+           "poltergeist": [
+           "L85",
+        ],
+           "headlongrush": [
+           "L90",
+        ],
+           "destinybond": [
+           "L95",
+        ],
+    },
+},
+    "meowsticmega": {
+       "learnset": {
+           "darkpulse": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "magicroom": [
+           "T",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "skillswap": [
+           "M",
+        ],
+           "telekinesis": [
+           "T",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "torment": [
+           "M",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "charm": [
+           "L1",
+        ],
+           "scratch": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "covet": [
+           "L5",
+        ],
+           "confusion": [
+           "L9",
+        ],
+           "lightscreen": [
+           "L13",
+        ],
+           "reflect": [
+           "L13",
+        ],
+           "psybeam": [
+           "L17",
+        ],
+           "fakeout": [
+           "L19",
+        ],
+           "disarmingvoice": [
+           "L22",
+        ],
+           "imprison": [
+           "L25",
+        ],
+           "psyshock": [
+           "L30",
+        ],
+           "quickguard": [
+           "L35",
+        ],
+           "roleplay": [
+           "L40",
+        ],
+           "allyswitch": [
+           "L45",
+        ],
+           "faketears": [
+           "L50",
+        ],
+           "psychic": [
+           "L55",
+           "M",
+        ],
+           "energyball": [
+           "L60",
+           "M",
+        ],
+           "futuresight": [
+           "L65",
+        ],
+           "gravity": [
+           "L75",
+        ],
+           "spikes": [
+           "L81",
+        ],
+           "psychoboost": [
+           "L86",
+        ],
+           "stealthrock": [
+           "L90",
+        ],
+    },
+},
+    "crabominablemega": {
+       "learnset": {
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "chillingwater": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icepunch": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "thunderpunch": [
+           "T",
+        ],
+           "icepunch": [
+           "L0",
+           "L1",
+           "T",
+        ],
+           "icepunch": [
+           "L1",
+           "T",
+        ],
+           "bubble": [
+           "L1",
+        ],
+           "rocksmash": [
+           "L1",
+           "L5",
+        ],
+           "leer": [
+           "L1",
+           "L9",
+        ],
+           "pursuit": [
+           "L1",
+           "L13",
+        ],
+           "bubblebeam": [
+           "L17",
+        ],
+           "poweruppunch": [
+           "L22",
+        ],
+           "dizzypunch": [
+           "L25",
+        ],
+           "avalanche": [
+           "L29",
+        ],
+           "reversal": [
+           "L33",
+        ],
+           "icehammer": [
+           "L37",
+        ],
+           "irondefense": [
+           "L42",
+        ],
+           "dynamicpunch": [
+           "L45",
+        ],
+           "closecombat": [
+           "L49",
+        ],
+    },
+},
+    "golisopodmega": {
+       "learnset": {
+           "hardpress": [
+           "M",
+        ],
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bugbite": [
+           "T",
+        ],
+           "darkpulse": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "laserfocus": [
+           "T",
+        ],
+           "liquidation": [
+           "M",
+        ],
+           "poisonjab": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "shadowclaw": [
+           "T",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "xscissor": [
+           "M",
+        ],
+           "firstimpression": [
+           "L1",
+        ],
+           "wideguard": [
+           "L1",
+        ],
+           "strugglebug": [
+           "L1",
+        ],
+           "sandattack": [
+           "L1",
+        ],
+           "furycutter": [
+           "L4",
+        ],
+           "rocksmash": [
+           "L7",
+        ],
+           "bugbite": [
+           "L10",
+           "T",
+        ],
+           "spite": [
+           "L13",
+        ],
+           "slash": [
+           "L21",
+        ],
+           "aquajet": [
+           "L29",
+        ],
+           "pinmissile": [
+           "L38",
+        ],
+           "screech": [
+           "L45",
+        ],
+           "payback": [
+           "L50",
+        ],
+           "drillrun": [
+           "L55",
+        ],
+           "scald": [
+           "L60",
+        ],
+           "skittersmack": [
+           "L65",
+        ],
+           "suckerpunch": [
+           "L70",
+        ],
+           "razorshell": [
+           "L75",
+        ],
+           "knockoff": [
+           "L80",
+        ],
+           "xscissor": [
+           "L85",
+           "M",
+        ],
+           "waterfall": [
+           "L90",
+        ],
+           "closecombat": [
+           "L95",
+        ],
+           "leechlife": [
+           "L100",
+        ],
+    },
+},
+    "magearnamega": {
+       "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "afteryou": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "dazzlinggleam": [
+           "M",
+        ],
+           "drainingkiss": [
+           "M",
+        ],
+           "electroweb": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "explosion": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "mistyexplosion": [
+           "M",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "skillswap": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "craftyshield": [
+           "L1",
+        ],
+           "thunderbolt": [
+           "L1",
+           "M",
+        ],
+           "energyball": [
+           "L1",
+           "M",
+        ],
+           "icebeam": [
+           "L1",
+           "M",
+        ],
+           "psychic": [
+           "L1",
+           "M",
+        ],
+           "psybeam": [
+           "L1",
+        ],
+           "disarmingvoice": [
+           "L5",
+        ],
+           "metalsound": [
+           "L9",
+        ],
+           "aurorabeam": [
+           "L17",
+        ],
+           "mirrorshot": [
+           "L25",
+        ],
+           "mindreader": [
+           "L35",
+        ],
+           "eerieimpulse": [
+           "L45",
+        ],
+           "dazzlinggleam": [
+           "L55",
+           "M",
+        ],
+           "luckychant": [
+           "L65",
+        ],
+           "vacuumwave": [
+           "L70",
+        ],
+           "painsplit": [
+           "L75",
+        ],
+           "flashcannon": [
+           "L85",
+        ],
+           "aurasphere": [
+           "L90",
+        ],
+           "alluringvoice": [
+           "L95",
+        ],
+           "steelbeam": [
+           "L99",
+        ],
+           "fleurcannon": [
+           "L100",
+        ],
+    },
+},
+    "magearnamega": {
+       "learnset": {
+           "magicroom": [
+           "T",
+        ],
+           "wonderroom": [
+           "T",
+        ],
+           "afteryou": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "dazzlinggleam": [
+           "M",
+        ],
+           "drainingkiss": [
+           "M",
+        ],
+           "electroweb": [
+           "M",
+        ],
+           "embargo": [
+           "T",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "explosion": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "focusblast": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hiddenpower": [
+           "M",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "mistyexplosion": [
+           "M",
+        ],
+           "playrough": [
+           "M",
+        ],
+           "psychic": [
+           "M",
+        ],
+           "return": [
+           "M",
+        ],
+           "shadowball": [
+           "M",
+        ],
+           "shockwave": [
+           "M",
+        ],
+           "skillswap": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "thunderwave": [
+           "M",
+        ],
+           "thunderbolt": [
+           "M",
+        ],
+           "craftyshield": [
+           "L1",
+        ],
+           "thunderbolt": [
+           "L1",
+           "M",
+        ],
+           "energyball": [
+           "L1",
+           "M",
+        ],
+           "icebeam": [
+           "L1",
+           "M",
+        ],
+           "psychic": [
+           "L1",
+           "M",
+        ],
+           "psybeam": [
+           "L1",
+        ],
+           "disarmingvoice": [
+           "L5",
+        ],
+           "metalsound": [
+           "L9",
+        ],
+           "aurorabeam": [
+           "L17",
+        ],
+           "mirrorshot": [
+           "L25",
+        ],
+           "mindreader": [
+           "L35",
+        ],
+           "eerieimpulse": [
+           "L45",
+        ],
+           "dazzlinggleam": [
+           "L55",
+           "M",
+        ],
+           "luckychant": [
+           "L65",
+        ],
+           "vacuumwave": [
+           "L70",
+        ],
+           "painsplit": [
+           "L75",
+        ],
+           "flashcannon": [
+           "L85",
+        ],
+           "aurasphere": [
+           "L90",
+        ],
+           "alluringvoice": [
+           "L95",
+        ],
+           "steelbeam": [
+           "L99",
+        ],
+           "fleurcannon": [
+           "L100",
+        ],
+    },
+},
+    "scovillainmega": {
+       "learnset": {
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "fireblast": [
+           "T",
+        ],
+           "flamethrower": [
+           "M",
+        ],
+           "grassknot": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "magicalleaf": [
+           "M",
+        ],
+           "seedbomb": [
+           "T",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "willowisp": [
+           "M",
+        ],
+           "grassknot": [
+           "L1",
+           "M",
+        ],
+           "leafage": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "bite": [
+           "L4",
+        ],
+           "trailblaze": [
+           "L10",
+        ],
+           "razorleaf": [
+           "L13",
+        ],
+           "bulletseed": [
+           "L21",
+        ],
+           "headbutt": [
+           "L24",
+        ],
+           "zenheadbutt": [
+           "L28",
+        ],
+           "spicyextract": [
+           "L30",
+        ],
+           "firefang": [
+           "L30",
+        ],
+           "flameburst": [
+           "L34",
+        ],
+           "grassyglide": [
+           "L34",
+        ],
+           "crunch": [
+           "L38",
+        ],
+           "seedbomb": [
+           "L44",
+           "T",
+        ],
+           "temperflare": [
+           "L44",
+        ],
+           "energyball": [
+           "L47",
+           "M",
+        ],
+           "firelash": [
+           "L53",
+        ],
+           "flamethrower": [
+           "L60",
+           "M",
+        ],
+           "solarbeam": [
+           "L65",
+           "M",
+        ],
+           "overheat": [
+           "L67",
+        ],
+           "flareblitz": [
+           "L67",
+        ],
+           "naturalgift": [
+           "L72",
+           "T",
+        ],
+           "leafstorm": [
+           "L75",
+        ],
+           "knockoff": [
+           "L82",
+        ],
+           "ragepowder": [
+           "L86",
+        ],
+           "heatwave": [
+           "L90",
+        ],
+    },
+},
+    "glimmoramega": {
+       "learnset": {
+           "dazzlinggleam": [
+           "M",
+        ],
+           "earthpower": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "energyball": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "rockslide": [
+           "T",
+        ],
+           "rocktomb": [
+           "M",
+        ],
+           "sludgebomb": [
+           "M",
+        ],
+           "solarbeam": [
+           "M",
+        ],
+           "stoneedge": [
+           "M",
+        ],
+           "magicroom": [
+           "T",
+        ],
+           "spikyshield": [
+           "L1",
+           "L75",
+        ],
+           "explosion": [
+           "L1",
+           "M",
+        ],
+           "smackdown": [
+           "L1",
+        ],
+           "acidspray": [
+           "L7",
+        ],
+           "ancientpower": [
+           "L20",
+        ],
+           "rockpolish": [
+           "L30",
+        ],
+           "venoshock": [
+           "L35",
+        ],
+           "mudshot": [
+           "L40",
+        ],
+           "mortalspin": [
+           "L45",
+           "L68",
+        ],
+           "sludgebomb": [
+           "L50",
+           "M",
+        ],
+           "energyball": [
+           "L55",
+           "M",
+        ],
+           "powergem": [
+           "L60",
+        ],
+           "toxic": [
+           "L65",
+        ],
+           "sludgewave": [
+           "L70",
+        ],
+           "spikyshield": [
+           "L75",
+        ],
+           "earthpower": [
+           "L80",
+           "M",
+        ],
+           "spikes": [
+           "L85",
+        ],
+           "meteorbeam": [
+           "L99",
+        ],
+    },
+},
+    "tatsugirimega": {
+       "learnset": {
+           "whirlpool": [
+           "T",
+        ],
+           "chillingwater": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "protect": [
+           "L1",
+           "L69",
+           "L86",
+        ],
+           "batonpass": [
+           "L1",
+        ],
+           "watergun": [
+           "L1",
+        ],
+           "splash": [
+           "L1",
+        ],
+           "chillingwater": [
+           "L6",
+           "M",
+        ],
+           "rapidspin": [
+           "L12",
+           "L81",
+        ],
+           "icywind": [
+           "L17",
+           "M",
+        ],
+           "soak": [
+           "L23",
+        ],
+           "taunt": [
+           "L28",
+           "M",
+        ],
+           "scald": [
+           "L39",
+        ],
+           "flamethrower": [
+           "L43",
+           "M",
+        ],
+           "thunderbolt": [
+           "L48",
+           "M",
+        ],
+           "dragonpulse": [
+           "L53",
+        ],
+           "earthpower": [
+           "L57",
+           "M",
+        ],
+           "surf": [
+           "L62",
+        ],
+           "icebeam": [
+           "L66",
+           "M",
+        ],
+           "protect": [
+           "L69",
+           "L86",
+        ],
+           "dracometeor": [
+           "L73",
+        ],
+           "alluringvoice": [
+           "L77",
+        ],
+           "dragonenergy": [
+           "L95",
+        ],
+    },
+},
+    "tatsugiridroopymega": {
+       "learnset": {
+           "whirlpool": [
+           "T",
+        ],
+           "chillingwater": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "protect": [
+           "L1",
+           "L69",
+           "L86",
+        ],
+           "batonpass": [
+           "L1",
+        ],
+           "watergun": [
+           "L1",
+        ],
+           "splash": [
+           "L1",
+        ],
+           "chillingwater": [
+           "L6",
+           "M",
+        ],
+           "rapidspin": [
+           "L12",
+           "L81",
+        ],
+           "icywind": [
+           "L17",
+           "M",
+        ],
+           "soak": [
+           "L23",
+        ],
+           "taunt": [
+           "L28",
+           "M",
+        ],
+           "scald": [
+           "L39",
+        ],
+           "flamethrower": [
+           "L43",
+           "M",
+        ],
+           "thunderbolt": [
+           "L48",
+           "M",
+        ],
+           "dragonpulse": [
+           "L53",
+        ],
+           "earthpower": [
+           "L57",
+           "M",
+        ],
+           "surf": [
+           "L62",
+        ],
+           "icebeam": [
+           "L66",
+           "M",
+        ],
+           "protect": [
+           "L69",
+           "L86",
+        ],
+           "dracometeor": [
+           "L73",
+        ],
+           "alluringvoice": [
+           "L77",
+        ],
+           "dragonenergy": [
+           "L95",
+        ],
+    },
+},
+    "tatsugiristretchymega": {
+       "learnset": {
+           "whirlpool": [
+           "T",
+        ],
+           "chillingwater": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "hydropump": [
+           "T",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "taunt": [
+           "M",
+        ],
+           "protect": [
+           "L1",
+           "L69",
+           "L86",
+        ],
+           "batonpass": [
+           "L1",
+        ],
+           "watergun": [
+           "L1",
+        ],
+           "splash": [
+           "L1",
+        ],
+           "chillingwater": [
+           "L6",
+           "M",
+        ],
+           "rapidspin": [
+           "L12",
+           "L81",
+        ],
+           "icywind": [
+           "L17",
+           "M",
+        ],
+           "soak": [
+           "L23",
+        ],
+           "taunt": [
+           "L28",
+           "M",
+        ],
+           "scald": [
+           "L39",
+        ],
+           "flamethrower": [
+           "L43",
+           "M",
+        ],
+           "thunderbolt": [
+           "L48",
+           "M",
+        ],
+           "dragonpulse": [
+           "L53",
+        ],
+           "earthpower": [
+           "L57",
+           "M",
+        ],
+           "surf": [
+           "L62",
+        ],
+           "icebeam": [
+           "L66",
+           "M",
+        ],
+           "protect": [
+           "L69",
+           "L86",
+        ],
+           "dracometeor": [
+           "L73",
+        ],
+           "alluringvoice": [
+           "L77",
+        ],
+           "dragonenergy": [
+           "L95",
+        ],
+    },
+},
+    "baxcaliburmega": {
+       "learnset": {
+           "aerialace": [
+           "M",
+        ],
+           "aquacutter": [
+           "T",
+        ],
+           "brickbreak": [
+           "T",
+        ],
+           "bulldoze": [
+           "M",
+        ],
+           "dragonclaw": [
+           "M",
+        ],
+           "earthquake": [
+           "M",
+        ],
+           "endure": [
+           "M",
+        ],
+           "facade": [
+           "M",
+        ],
+           "helpinghand": [
+           "T",
+        ],
+           "icebeam": [
+           "M",
+        ],
+           "icywind": [
+           "M",
+        ],
+           "stompingtantrum": [
+           "T",
+        ],
+           "scaleshot": [
+           "L1",
+        ],
+           "dragonrush": [
+           "L1",
+        ],
+           "dragoncheer": [
+           "L1",
+        ],
+           "tackle": [
+           "L1",
+        ],
+           "leer": [
+           "L1",
+        ],
+           "dragontail": [
+           "L1",
+        ],
+           "icywind": [
+           "L6",
+           "M",
+        ],
+           "dragonbreath": [
+           "L12",
+        ],
+           "focusenergy": [
+           "L18",
+           "T",
+        ],
+           "bite": [
+           "L24",
+        ],
+           "icefang": [
+           "L29",
+        ],
+           "breakingswipe": [
+           "L33",
+        ],
+           "avalanche": [
+           "L40",
+        ],
+           "ironhead": [
+           "L45",
+        ],
+           "freezedry": [
+           "L50",
+        ],
+           "dragonclaw": [
+           "L55",
+           "M",
+        ],
+           "iceshard": [
+           "L60",
+        ],
+           "iciclespear": [
+           "L65",
+        ],
+           "dragonhammer": [
+           "L70",
+        ],
+           "highhorsepower": [
+           "L75",
+        ],
+           "iciclecrash": [
+           "L80",
+        ],
+           "glaiverush": [
+           "L85",
+        ],
+           "earthquake": [
+           "L90",
+           "M",
+        ],
+           "mountaingale": [
+           "L95",
+        ],
+           "outrage": [
+           "L99",
+        ],
+           "glaciate": [
+           "L100",
+        ],
     },
 },
 }
