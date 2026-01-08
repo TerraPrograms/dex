@@ -1,3 +1,3 @@
-# Pokemon Lucid Porydex
+# Pokemon Null Porydex
 
 [Created by Lhearachel](https://github.com/lhearachel/porydex) based on [the original Pokémon Showdown Pokédex](https://dex.pokemonshowdown.com)
