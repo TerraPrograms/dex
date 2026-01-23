@@ -10070,7 +10070,7 @@ exports.BattlePokedex = {
    ],
     "catchRate": 200,
     "expYield": 172,
-    "genderRatio": {"M": 0.5, "F": 0.5},
+    "genderRatio": {"M": 0.125, "F": 0.875},
     "name": "Altaria",
     "heightm": 1.1,
     "weightkg": 20.6,
@@ -11583,7 +11583,7 @@ exports.BattlePokedex = {
     "heightm": 1.7,
     "weightkg": 60.8,
     "tier" : "unobtainable",
-    "abilities": { "0": "Pressure",
+    "abilities": { "0": "Inner Focus",
    },
     "otherFormes": [
        "Deoxys-Attack",
@@ -14650,6 +14650,34 @@ exports.BattlePokedex = {
     "tier" : "obtainable",
     "abilities": { "0": "Hydration",
    },
+},
+    "darkrai": {
+    "num": 491,
+    "baseStats": {
+        "hp": 70,
+        "atk": 90,
+        "def": 90,
+        "spa": 135,
+        "spd": 90,
+        "spe": 125,
+    },
+    "types": ["Dark"],
+    "items": {},
+    "eggGroups": [
+       "Undiscovered",
+   ],
+    "catchRate": 200,
+    "expYield": 270,
+    "gender": "N",
+    "name": "Darkrai",
+    "heightm": 1.5,
+    "weightkg": 50.5,
+    "tier" : "obtainable",
+    "abilities": { "0": "Bad Dreams",
+   },
+    "otherFormes": [
+       "Darkrai-Mega",
+    ],
 },
     "shaymin": {
     "num": 492,
@@ -22182,7 +22210,6 @@ exports.BattlePokedex = {
     "H": "Steadfast",
    },
     "otherFormes": [
-       "Rockruff",
     ],
 },
     "lycanroc": {
@@ -23042,7 +23069,7 @@ exports.BattlePokedex = {
        "Silvally-Fairy",
     ],
 },
-    "minior": {
+    "miniormeteor": {
     "num": 774,
     "baseStats": {
         "hp": 60,
@@ -23060,14 +23087,14 @@ exports.BattlePokedex = {
     "catchRate": 200,
     "expYield": 154,
     "gender": "N",
-    "name": "Minior",
+    "name": "Minior-Meteor",
     "heightm": 0.3,
     "weightkg": 40.0,
     "tier" : "obtainable",
     "abilities": { "0": "Shields Down",
    },
-    "otherFormes": [
-    ],
+    "baseSpecies": "Minior",
+    "forme": "Meteor",
 },
     "komala": {
     "num": 775,
@@ -23801,7 +23828,7 @@ exports.BattlePokedex = {
     "weightkg": 80.5,
     "tier" : "obtainable",
     "abilities": { "0": "Clear Body",
-    "H": "Soul�Heart",
+    "H": "Soul-Heart",
    },
     "otherFormes": [
        "Magearna-Original",
@@ -26560,7 +26587,7 @@ exports.BattlePokedex = {
     "heightm": 2.1,
     "weightkg": 200.0,
     "tier" : "obtainable",
-    "abilities": { "0": "Dragon�s Maw",
+    "abilities": { "0": "Dragon's Maw",
    },
 },
     "glastrier": {
@@ -27516,7 +27543,7 @@ exports.BattlePokedex = {
     "evoType": "level",
     "tier" : "obtainable",
     "abilities": { "0": "Thick Fat",
-    "H": "Well�Baked Body",
+    "H": "Well-Baked Body",
    },
 },
     "smoliv": {
@@ -28046,7 +28073,7 @@ exports.BattlePokedex = {
     "evoType": "level",
     "tier" : "obtainable",
     "abilities": { "0": "Unburden", "1": "Prankster",
-    "H": "Prankster",
+    "H": "Poison Touch",
    },
 },
     "bramblin": {
@@ -31104,7 +31131,7 @@ exports.BattlePokedex = {
    ],
     "catchRate": 200,
     "expYield": 207,
-    "genderRatio": {"M": 0.5, "F": 0.5},
+    "genderRatio": {"M": 0.125, "F": 0.875},
     "name": "Altaria-Mega",
     "heightm": 1.5,
     "weightkg": 20.6,
@@ -32328,7 +32355,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Inner Focus",
     "H": "Scrappy",
    },
-    "baseSpecies": "Farfetch�d",
+    "baseSpecies": "Farfetch'd",
     "forme": "Galar",
 },
     "weezinggalar": {
@@ -32393,7 +32420,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Screen Cleaner",
     "H": "Ice Body",
    },
-    "baseSpecies": "Mr� Mime",
+    "baseSpecies": "Mr. Mime",
     "forme": "Galar",
 },
     "articunogalar": {
@@ -33392,7 +33419,7 @@ exports.BattlePokedex = {
     "heightm": 1.7,
     "weightkg": 60.8,
     "tier" : "unobtainable",
-    "abilities": { "0": "Pressure",
+    "abilities": { "0": "Unnerve",
    },
     "baseSpecies": "Deoxys",
     "forme": "Attack",
@@ -33419,7 +33446,7 @@ exports.BattlePokedex = {
     "heightm": 1.7,
     "weightkg": 60.8,
     "tier" : "unobtainable",
-    "abilities": { "0": "Pressure",
+    "abilities": { "0": "Filter",
    },
     "baseSpecies": "Deoxys",
     "forme": "Defense",
@@ -33446,7 +33473,7 @@ exports.BattlePokedex = {
     "heightm": 1.7,
     "weightkg": 60.8,
     "tier" : "unobtainable",
-    "abilities": { "0": "Pressure",
+    "abilities": { "0": "Mold Breaker",
    },
     "baseSpecies": "Deoxys",
     "forme": "Speed",
@@ -35120,6 +35147,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Dancer",
    },
     "baseSpecies": "Oricorio",
+    "forme": "Pom-Pom",
 },
     "oricoriopau ": {
     "num": 741,
@@ -35146,6 +35174,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Dancer",
    },
     "baseSpecies": "Oricorio",
+    "forme": "Pau",
 },
     "oricoriosensu": {
     "num": 741,
@@ -35172,35 +35201,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Dancer",
    },
     "baseSpecies": "Oricorio",
-},
-    "rockruff": {
-    "num": 744,
-    "baseStats": {
-        "hp": 45,
-        "atk": 65,
-        "def": 40,
-        "spa": 30,
-        "spd": 40,
-        "spe": 60,
-    },
-    "types": ["Rock"],
-    "items": {},
-    "eggGroups": [
-       "Field",
-   ],
-    "catchRate": 200,
-    "expYield": 56,
-    "genderRatio": {"M": 0.5, "F": 0.5},
-    "name": "Rockruff",
-    "heightm": 0.5,
-    "weightkg": 9.2,
-    "evos": [
-       "Lycanroc-Dusk",
-    ],
-    "tier" : "obtainable",
-    "abilities": { "0": "Own Tempo",
-   },
-    "baseSpecies": "Rockruff",
+    "forme": "Sensu",
 },
     "lycanrocmidnight": {
     "num": 745,
@@ -35231,6 +35232,7 @@ exports.BattlePokedex = {
     "H": "No Guard",
    },
     "baseSpecies": "Lycanroc",
+    "forme": "Midnight",
 },
     "lycanrocdusk": {
     "num": 745,
@@ -35261,6 +35263,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Tough Claws",
    },
     "baseSpecies": "Lycanroc",
+    "forme": "Dusk",
 },
     "wishiwashischool": {
     "num": 746,
@@ -35287,6 +35290,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Schooling",
    },
     "baseSpecies": "Wishiwashi",
+    "forme": "School",
 },
     "silvallyfighting": {
     "num": 773,
@@ -35313,6 +35317,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Fighting",
 },
     "silvallyflying": {
     "num": 773,
@@ -35339,6 +35344,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Flying",
 },
     "silvallypoison": {
     "num": 773,
@@ -35365,6 +35371,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Poison",
 },
     "silvallyground": {
     "num": 773,
@@ -35391,6 +35398,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Ground",
 },
     "silvallyrock": {
     "num": 773,
@@ -35417,6 +35425,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Rock",
 },
     "silvallybug": {
     "num": 773,
@@ -35443,6 +35452,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Bug",
 },
     "silvallyghost": {
     "num": 773,
@@ -35469,6 +35479,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Ghost",
 },
     "silvallysteel": {
     "num": 773,
@@ -35495,6 +35506,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Steel",
 },
     "silvallyfire": {
     "num": 773,
@@ -35521,6 +35533,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Fire",
 },
     "silvallywater": {
     "num": 773,
@@ -35547,6 +35560,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Water",
 },
     "silvallygrass": {
     "num": 773,
@@ -35573,6 +35587,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Grass",
 },
     "silvallyelectric": {
     "num": 773,
@@ -35599,6 +35614,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Electric",
 },
     "silvallypsychic": {
     "num": 773,
@@ -35625,6 +35641,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Psychic",
 },
     "silvallyice": {
     "num": 773,
@@ -35651,6 +35668,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Ice",
 },
     "silvallydragon": {
     "num": 773,
@@ -35677,6 +35695,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Dragon",
 },
     "silvallydark": {
     "num": 773,
@@ -35703,6 +35722,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Dark",
 },
     "silvallyfairy": {
     "num": 773,
@@ -35729,6 +35749,35 @@ exports.BattlePokedex = {
     "abilities": { "0": "RKS System",
    },
     "baseSpecies": "Silvally",
+    "forme": "Fairy",
+},
+    "minior": {
+    "num": 774,
+    "baseStats": {
+        "hp": 60,
+        "atk": 100,
+        "def": 60,
+        "spa": 100,
+        "spd": 60,
+        "spe": 120,
+    },
+    "types": ["Rock", "Flying"],
+    "items": {},
+    "eggGroups": [
+       "Mineral",
+   ],
+    "catchRate": 200,
+    "expYield": 154,
+    "gender": "N",
+    "name": "Minior",
+    "heightm": 0.3,
+    "weightkg": 0.3,
+    "tier" : "obtainable",
+    "abilities": { "0": "Shields Down",
+   },
+    "otherFormes": [
+       "Minior-Meteor",
+    ],
 },
     "mimikyubusted": {
     "num": 778,
@@ -35755,6 +35804,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Disguise",
    },
     "baseSpecies": "Mimikyu",
+    "forme": "Busted",
 },
     "necrozmaduskmane": {
     "num": 800,
@@ -35781,6 +35831,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Prism Armor",
    },
     "baseSpecies": "Necrozma",
+    "forme": "Dusk-Mane",
 },
     "necrozmadawnwings": {
     "num": 800,
@@ -35807,6 +35858,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Prism Armor",
    },
     "baseSpecies": "Necrozma",
+    "forme": "Dawn-Wings",
 },
     "necrozmaultra": {
     "num": 800,
@@ -35833,6 +35885,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Neuroforce",
    },
     "baseSpecies": "Necrozma",
+    "forme": "Ultra",
 },
     "magearnaoriginal": {
     "num": 801,
@@ -35857,9 +35910,10 @@ exports.BattlePokedex = {
     "weightkg": 80.5,
     "tier" : "obtainable",
     "abilities": { "0": "Clear Body",
-    "H": "Soul�Heart",
+    "H": "Soul-Heart",
    },
     "baseSpecies": "Magearna",
+    "forme": "Original",
 },
     "cramorantgulping": {
     "num": 845,
@@ -35887,6 +35941,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Gulp Missile",
    },
     "baseSpecies": "Cramorant",
+    "forme": "Gulping",
 },
     "cramorantgorging": {
     "num": 845,
@@ -35914,6 +35969,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Gulp Missile",
    },
     "baseSpecies": "Cramorant",
+    "forme": "Gorging",
 },
     "toxtricitylowkey": {
     "num": 849,
@@ -35942,6 +35998,7 @@ exports.BattlePokedex = {
     "H": "Technician",
    },
     "baseSpecies": "Toxtricity",
+    "forme": "Low-Key",
 },
     "eiscuenoice": {
     "num": 875,
@@ -35969,6 +36026,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Ice Face",
    },
     "baseSpecies": "Eiscue",
+    "forme": "Noice",
 },
     "indeedeef": {
     "num": 876,
@@ -35996,6 +36054,7 @@ exports.BattlePokedex = {
     "H": "Psychic Surge",
    },
     "baseSpecies": "Indeedee",
+    "forme": "F",
 },
     "morpekohangry": {
     "num": 877,
@@ -36023,6 +36082,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Hunger Switch",
    },
     "baseSpecies": "Morpeko",
+    "forme": "Hangry",
 },
     "zaciancrowned": {
     "num": 888,
@@ -36049,6 +36109,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Intrepid Sword",
    },
     "baseSpecies": "Zacian",
+    "forme": "Crowned",
 },
     "zamazentacrowned": {
     "num": 889,
@@ -36075,6 +36136,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Dauntless Shield",
    },
     "baseSpecies": "Zamazenta",
+    "forme": "Crowned",
 },
     "eternatuseternamax": {
     "num": 890,
@@ -36101,6 +36163,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Pressure",
    },
     "baseSpecies": "Eternatus",
+    "forme": "Eternamax",
 },
     "urshifurapidstrike": {
     "num": 892,
@@ -36131,6 +36194,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Unseen Fist",
    },
     "baseSpecies": "Urshifu",
+    "forme": "Rapid-Strike",
 },
     "zarudedada": {
     "num": 893,
@@ -36157,6 +36221,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Leaf Guard",
    },
     "baseSpecies": "Zarude",
+    "forme": "Dada",
 },
     "calyrexice": {
     "num": 898,
@@ -36183,6 +36248,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "As One",
    },
     "baseSpecies": "Calyrex",
+    "forme": "Ice",
 },
     "calyrexshadow": {
     "num": 898,
@@ -36209,6 +36275,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "As One",
    },
     "baseSpecies": "Calyrex",
+    "forme": "Shadow",
 },
     "basculegionf": {
     "num": 902,
@@ -36239,6 +36306,7 @@ exports.BattlePokedex = {
     "H": "Mold Breaker",
    },
     "baseSpecies": "Basculegion",
+    "forme": "F",
 },
     "oinkolognef": {
     "num": 916,
@@ -36267,6 +36335,7 @@ exports.BattlePokedex = {
     "H": "Thick Fat",
    },
     "baseSpecies": "Oinkologne",
+    "forme": "F",
 },
     "mausholdfour": {
     "num": 925,
@@ -36298,6 +36367,7 @@ exports.BattlePokedex = {
     "H": "Friend Guard",
    },
     "baseSpecies": "Maushold",
+    "forme": "Three",
 },
     "palafinhero": {
     "num": 964,
@@ -36325,6 +36395,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Zero to Hero",
    },
     "baseSpecies": "Palafin",
+    "forme": "Hero",
 },
     "tatsugiri": {
     "num": 978,
@@ -36406,6 +36477,7 @@ exports.BattlePokedex = {
     "H": "Rattled",
    },
     "baseSpecies": "Dudunsparce",
+    "forme": "Three-Segment",
 },
     "gimmighoulroaming": {
     "num": 999,
@@ -36432,6 +36504,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Run Away",
    },
     "baseSpecies": "Gimmighoul",
+    "forme": "Roaming",
 },
     "taurospaldeablaze": {
     "num": 128,
@@ -36547,6 +36620,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Water Veil",
    },
     "baseSpecies": "Ogerpon",
+    "forme": "Wellspring",
 },
     "ogerponhearthflame": {
     "num": 1017,
@@ -36573,6 +36647,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Mold Breaker",
    },
     "baseSpecies": "Ogerpon",
+    "forme": "Hearthflame",
 },
     "ogerponcornerstone": {
     "num": 1017,
@@ -36599,6 +36674,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Sturdy",
    },
     "baseSpecies": "Ogerpon",
+    "forme": "Cornerstone",
 },
     "ogerpontealtera": {
     "num": 1017,
@@ -36729,9 +36805,10 @@ exports.BattlePokedex = {
     "evoItem": "Moon Stone",
     "evoType": "useItem",
     "tier" : "obtainable",
-    "abilities": { "0": "Mind�s Eye",
+    "abilities": { "0": "Mind's Eye",
    },
     "baseSpecies": "Ursaluna",
+    "forme": "Bloodmoon",
 },
     "terapagos": {
     "num": 1024,
@@ -36787,6 +36864,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Tera Shell",
    },
     "baseSpecies": "Terapagos",
+    "forme": "Terastal",
 },
     "terapagosstellar": {
     "num": 1024,
@@ -36813,6 +36891,7 @@ exports.BattlePokedex = {
     "abilities": { "0": "Teraform Zero",
    },
     "baseSpecies": "Terapagos",
+    "forme": "Stellar",
 },
     "clefablemega": {
     "num": 36,
@@ -36975,7 +37054,7 @@ exports.BattlePokedex = {
     "heightm": 2.3,
     "weightkg": 108.8,
     "tier" : "obtainable",
-    "abilities": { "0": "Dragon�s Maw",
+    "abilities": { "0": "Dragon's Maw",
     "H": "Sheer Force",
    },
     "baseSpecies": "Feraligatr",
@@ -37700,11 +37779,11 @@ exports.BattlePokedex = {
     "num": 448,
     "baseStats": {
         "hp": 70,
-        "atk": 100,
-        "def": 70,
-        "spa": 164,
+        "atk": 145,
+        "def": 88,
+        "spa": 140,
         "spd": 70,
-        "spe": 151,
+        "spe": 112,
     },
     "types": ["Fighting", "Steel"],
     "items": {},
@@ -37854,7 +37933,7 @@ exports.BattlePokedex = {
     "heightm": 2.6,
     "weightkg": 252.8,
     "tier" : "obtainable",
-    "abilities": { "0": "Iron Fist",
+    "abilities": { "0": "Sheer Force",
    },
     "baseSpecies": "Crabominable",
     "forme": "Mega",
