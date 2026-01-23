@@ -476,7 +476,7 @@ exports.BattleLocationdex = {
           "maxLvl": 10
         },
         {
-          "species": "dewpider",
+          "species": "clauncher",
           "minLvl": 10,
           "maxLvl": 10
         },
@@ -930,7 +930,7 @@ exports.BattleLocationdex = {
           "maxLvl": 40
         },
         {
-          "species": "sobble",
+          "species": "chimecho",
           "minLvl": 40,
           "maxLvl": 40
         },
@@ -3566,7 +3566,12 @@ exports.BattleLocationdex = {
       "baseRate": 50,
       "encs": [
         {
-          "species": "gimmighoul",
+          "species": "haunter",
+          "minLvl": 38,
+          "maxLvl": 38
+        },
+        {
+          "species": "haunter",
           "minLvl": 38,
           "maxLvl": 38
         },
@@ -3576,12 +3581,7 @@ exports.BattleLocationdex = {
           "maxLvl": 38
         },
         {
-          "species": "gastly",
-          "minLvl": 38,
-          "maxLvl": 38
-        },
-        {
-          "species": "gastly",
+          "species": "golett",
           "minLvl": 38,
           "maxLvl": 38
         },
@@ -7058,7 +7058,7 @@ exports.BattleLocationdex = {
           "maxLvl": 17
         },
         {
-          "species": "meditite",
+          "species": "chingling",
           "minLvl": 17,
           "maxLvl": 17
         },
@@ -9527,7 +9527,7 @@ exports.BattleLocationdex = {
           "maxLvl": 40
         },
         {
-          "species": "golbat",
+          "species": "chimecho",
           "minLvl": 40,
           "maxLvl": 40
         },
@@ -10741,7 +10741,7 @@ exports.BattleLocationdex = {
           "maxLvl": 50
         },
         {
-          "species": "taillow",
+          "species": "staraptor",
           "minLvl": 50,
           "maxLvl": 50
         },
@@ -12616,7 +12616,7 @@ exports.BattleLocationdex = {
           "maxLvl": 40
         },
         {
-          "species": "annihilape",
+          "species": "palossand",
           "minLvl": 40,
           "maxLvl": 40
         },
