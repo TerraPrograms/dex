@@ -445,7 +445,7 @@ exports.BattleLocationdex = {
           "maxLvl": 25
         },
         {
-          "species": "vivillon",
+          "species": "butterfree",
           "minLvl": 25,
           "maxLvl": 25
         },
@@ -1397,12 +1397,12 @@ exports.BattleLocationdex = {
           "maxLvl": 30
         },
         {
-          "species": "pyukumuku",
+          "species": "grimeralola",
           "minLvl": 30,
           "maxLvl": 30
         },
         {
-          "species": "pincurchin",
+          "species": "feebas",
           "minLvl": 30,
           "maxLvl": 30
         },
@@ -2217,7 +2217,7 @@ exports.BattleLocationdex = {
           "maxLvl": 15
         },
         {
-          "species": "smoochum",
+          "species": "mimejr",
           "minLvl": 15,
           "maxLvl": 15
         },
@@ -2275,32 +2275,32 @@ exports.BattleLocationdex = {
     },
     "surf": {},
     "rock": {
-      "baseRate": 20,
+      "baseRate": 50,
       "encs": [
         {
-          "species": "nosepass",
-          "minLvl": 10,
+          "species": "crabrawler",
+          "minLvl": 15,
           "maxLvl": 15
         },
         {
           "species": "nosepass",
-          "minLvl": 10,
-          "maxLvl": 20
-        },
-        {
-          "species": "sandshrewalola",
-          "minLvl": 5,
-          "maxLvl": 10
+          "minLvl": 15,
+          "maxLvl": 15
         },
         {
           "species": "sandshrewalola",
           "minLvl": 15,
-          "maxLvl": 20
+          "maxLvl": 15
+        },
+        {
+          "species": "sandshrewalola",
+          "minLvl": 15,
+          "maxLvl": 15
         },
         {
           "species": "binacle",
           "minLvl": 15,
-          "maxLvl": 20
+          "maxLvl": 15
         }
       ]
     },
@@ -6645,12 +6645,12 @@ exports.BattleLocationdex = {
           "maxLvl": 60
         },
         {
-          "species": "floatzel",
+          "species": "crabominable",
           "minLvl": 60,
           "maxLvl": 60
         },
         {
-          "species": "floatzel",
+          "species": "crabominable",
           "minLvl": 60,
           "maxLvl": 60
         }
@@ -6815,7 +6815,7 @@ exports.BattleLocationdex = {
           "maxLvl": 60
         },
         {
-          "species": "samurotthisui",
+          "species": "samurott",
           "minLvl": 60,
           "maxLvl": 60
         },
@@ -6830,7 +6830,7 @@ exports.BattleLocationdex = {
           "maxLvl": 60
         },
         {
-          "species": "escavalier",
+          "species": "crustle",
           "minLvl": 60,
           "maxLvl": 60
         },
@@ -7262,7 +7262,7 @@ exports.BattleLocationdex = {
           "maxLvl": 30
         },
         {
-          "species": "pincurchin",
+          "species": "dondozo",
           "minLvl": 30,
           "maxLvl": 30
         },
@@ -7293,7 +7293,7 @@ exports.BattleLocationdex = {
           "maxLvl": 25
         },
         {
-          "species": "magikarp",
+          "species": "feebas",
           "minLvl": 25,
           "maxLvl": 25
         },
@@ -10411,7 +10411,7 @@ exports.BattleLocationdex = {
           "maxLvl": 10
         },
         {
-          "species": "timburr",
+          "species": "crabrawler",
           "minLvl": 10,
           "maxLvl": 10
         },
@@ -11260,7 +11260,7 @@ exports.BattleLocationdex = {
           "maxLvl": 56
         },
         {
-          "species": "persian",
+          "species": "spinda",
           "minLvl": 56,
           "maxLvl": 56
         }
